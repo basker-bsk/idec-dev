@@ -19,9 +19,9 @@ async function getDataFromPersistantQuery() {
     where: {lpSlug: "home", regions: {regionLabel: "Global"}}
     locale: "en-US"
   ) {
-    __typename
     items {
       lpTitle
+      lpPageTitle
       lpComponentsCollection(limit: 15) {
         items {
           ... on Carousel {
@@ -113,7 +113,7 @@ async function getDataFromPersistantQuery() {
             listLinkIntroduction {
               json
             }
-            listLinkCollection(limit:8) {
+            listLinkCollection(limit: 8) {
               items {
                 linkText
                 linkId
@@ -172,8 +172,9 @@ async function getDataFromPersistantQuery() {
           }
           ... on Columns {
             __typename
+            clmStyle
             clmTitle
-            clmIntroductionText{
+            clmIntroductionText {
               json
             }
             clmContentsCollection(limit: 6) {
@@ -294,13 +295,22 @@ async function getDataFromPersistantQuery() {
           }
         }
       }
+      lpSeoTitle
+      lpSeoDescription
+      lpCanonicalUrl
+      lpFeaturedImage {
+        title
+        url
+      }
+      lpNoIndex
+      lpNoFollow
     }
   }
-      }`,
+}`,
       extensions: {
         persistedQuery: {
           sha256Hash:
-            "df552529222aa880a6c9aff92475f5d7ab37046b2d11f9074ffe0a937a3f126c",
+            "df8fdbe53ef87d5534ef5f827ac4446d457aaf70b5682d81ab0bb87afab04256",
           version: 1,
         },
       },
@@ -313,7 +323,7 @@ async function getDataFromPersistantQuery() {
       extensions: {
         persistedQuery: {
           sha256Hash:
-            "df552529222aa880a6c9aff92475f5d7ab37046b2d11f9074ffe0a937a3f126c",
+            "df8fdbe53ef87d5534ef5f827ac4446d457aaf70b5682d81ab0bb87afab04256",
           version: 1,
         },
       },

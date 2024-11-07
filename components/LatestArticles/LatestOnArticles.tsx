@@ -91,7 +91,7 @@ export default function LatestOnArticles({ data }: Props) {
                     className={classnames(
                       "",
                       {
-                        "flex items-center justify-center":
+                        "flex items-center justify-center pt-[54px] px-[90px] lg:py-[95px] lg:px-[92px]":
                           articlePlacements[index].imagePosition === "center",
                       },
                       {

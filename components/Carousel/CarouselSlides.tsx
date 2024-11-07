@@ -94,13 +94,13 @@ export default function CarouselSlides({ props }: Props) {
         {props.crStyle === "Series card" ? (
           <LazyLoadImage
             alt={props.cdImage.title}
-            className={classnames("md:w-full md:h-full ", {})}
+            className={classnames(" ", {})}
             src={props.cdImage.url}
           />
         ) : (
           <LazyLoadImage
             alt={props.cdImage.title}
-            className={classnames("md:w-full md:h-full ", {
+            className={classnames("md:h-[200px] md:w-full", {
               "rounded-tl-md rounded-tr-md": props.crStyle === "News card",
             })}
             src={props.cdImage.url}

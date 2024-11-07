@@ -75,7 +75,7 @@ export default function LevelOne({
       >
         <div
           className={classnames(
-            "shadow-md w-full   bg-white  rounded-br-md rounded-bl-md",
+            "megamenu-shadow w-full   bg-white  rounded-br-lg rounded-bl-lg",
             { "h-[528px]  max-h-100": levelTwoHasSubMenu || l1Wrap },
             { "h-auto": !levelTwoHasSubMenu }
           )}

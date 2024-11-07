@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 
 export default function CountUpAnimation({ initialValue, targetValue }) {
   const [count, setCount] = useState(initialValue);
-  const duration = 1000; // 4 seconds
+  const duration = 2000; // 4 seconds
   let exp;
   let expValue;
   let expText;

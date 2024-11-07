@@ -46,7 +46,9 @@ export default function Login() {
       ?.items[0];
   var sectionStyle = {
     width: "100%",
-    backgroundImage: "url(" + cms_login.plbackgroundImage.url + ")",
+    background:
+      "url(" + cms_login.plbackgroundImage.url + ")  center center black",
+    backgroundSize: "cover",
   };
 
   const form = useForm<z.infer<typeof formSchema>>({
@@ -87,8 +89,8 @@ export default function Login() {
               Login to IDEC Japan
             </p>
             <p className="font-medium md:font-normal text-14 leading-14 md:text-16 md:leading-16 pb-10 md:pb-8">
-              Don’t have an account?
-              <Link href="/signup" className="text-primary underline pl-1">
+              Don't have an account?
+              <Link href="/register" className="text-primary underline pl-1">
                 Sign Up
               </Link>
             </p>
@@ -153,7 +155,7 @@ export default function Login() {
                       </FormItem>
                     )}
                   />
-                  <Link href="/" className="underline text-14">
+                  <Link href="/forgotpassword" className="underline text-14">
                     Forgot Password?
                   </Link>
                 </div>

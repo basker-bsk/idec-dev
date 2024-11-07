@@ -43,12 +43,12 @@ export default function TextImageComponent({ data }: Props) {
                 alt={data.tiImageDesktop.title}
                 effect="blur"
                 src={data.tiImageDesktop.url}
-                className="md:w-[878px] md:h-[460px] w-full h-auto rounded-tl-2xl rounded-tr-2xl md:rounded-md"
+                className="rounded-tl-2xl rounded-tr-2xl md:rounded-md"
               />
             </div>
             <div
               className={classnames(
-                "md:absolute md:top-1/2 md:-translate-y-1/2 md:w-6/12 gradient-red text-white py-8 px-6 lg:py-20 md:px-8 rounded-bl-2xl rounded-br-2xl md:rounded-md flex flex-col gap-2",
+                "lg:max-h-[364px] md:absolute md:top-1/2 md:-translate-y-1/2 md:w-6/12 gradient-red text-white py-8 px-6 lg:py-20 md:px-8 rounded-bl-2xl rounded-br-2xl md:rounded-md flex flex-col gap-2",
                 {
                   "md:right-0": data.tiImagePosition === "Left",
                 },
@@ -64,7 +64,7 @@ export default function TextImageComponent({ data }: Props) {
               <div>{documentToReactComponents(data?.tiDescription?.json)}</div>
               <div className="flex gap-3 mt-4 md:mt-8" data-aos="fade-left">
                 {data?.tiButton && (
-                  <Button theme="secondary">
+                  <Button theme="tertiary">
                     <Link href={data?.tiButton?.linkUrl}>
                       {data?.tiButton?.linkText}
                     </Link>

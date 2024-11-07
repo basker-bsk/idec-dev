@@ -14,11 +14,10 @@ import LatestOnArticles from "@/components/LatestArticles/LatestOnArticles";
 import getDataFromPersistantQuery from "./utility/PersistentQuery";
 
 export default async function Home() {
-  // const data = await getDataFromPersistantQuery();
-  const homecontent = data.data;
+  const { data } = await getDataFromPersistantQuery();
   const cms_home =
-    homecontent.landingPageIdecCollection?.items[0]?.lpComponentsCollection
-      ?.items;
+    data.landingPageIdecCollection?.items[0]?.lpComponentsCollection?.items;
+  console.log("cms_home", cms_home);
   return (
     <>
       {cms_home.map((content: any, index: number) => (

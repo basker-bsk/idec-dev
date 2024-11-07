@@ -57,7 +57,7 @@ export default function LevelOneAll({
         )}
       >
         <div
-          className="shadow-md w-full h-[528px]  bg-white  max-h-100 rounded-br-md rounded-bl-md"
+          className="megamenu-shadow w-full h-[528px]  bg-white  max-h-100 rounded-br-lg rounded-bl-lg"
           onMouseLeave={() => {
             hideMenu();
           }}

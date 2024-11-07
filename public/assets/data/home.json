@@ -29,14 +29,6 @@
                       "bannerBody": "A technologically advanced 7” vivid multi-touch capacitive HMI, with an integrated PLC controller and expandable I./O.",
                       "bannerSectionAllignment": "Left",
                       "bannerTextColor": "#ffffff",
-                      "bannerBgImgDsktp": {
-                        "title": "FT2J Series-Desktop",
-                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/1ffgZBXJUzCG9LUjWiJTZH/042f34f49d647187df7dcc57c683c5ed/ft2j-series-desktop.jpg"
-                      },
-                      "bannerBgImgMob": {
-                        "title": "FT2J Series-Mobile",
-                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/1NnR6fibmK6EUghyv8NWuA/fd7545619c74e49f41f2d44e156fb6e2/ft2j-series-mobile.jpg"
-                      },
                       "bannerLinkCollection": {
                         "items": [
                           {
@@ -48,6 +40,14 @@
                             "linkNewWindow": false
                           }
                         ]
+                      },
+                      "bannerBgImgDsktp": {
+                        "title": "FT2J Series-Desktop",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/1ffgZBXJUzCG9LUjWiJTZH/042f34f49d647187df7dcc57c683c5ed/ft2j-series-desktop.jpg"
+                      },
+                      "bannerBgImgMob": {
+                        "title": "FT2J Series-Mobile",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/1NnR6fibmK6EUghyv8NWuA/fd7545619c74e49f41f2d44e156fb6e2/ft2j-series-mobile.jpg"
                       }
                     },
                     {
@@ -58,14 +58,6 @@
                       "bannerBody": "Our expertise empowers businesses to optimize operations, enhance productivity, and achieve their goals with cutting-edge technology.",
                       "bannerSectionAllignment": "Left",
                       "bannerTextColor": "#ffffff",
-                      "bannerBgImgDsktp": {
-                        "title": "Best Solutions-Desktop",
-                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/5BJlXwrVgFkM3WnpRuX5zs/861198b1fc6290a1cb87bafb4f072c61/best-solutions-desktop.jpg"
-                      },
-                      "bannerBgImgMob": {
-                        "title": "Best Solutions-Mobile",
-                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/3SC800587sezouMNAdcSvs/314069f095ca5fbba5b8266a421ff20b/best-solutions-mobile.jpg"
-                      },
                       "bannerLinkCollection": {
                         "items": [
                           {
@@ -77,6 +69,14 @@
                             "linkNewWindow": false
                           }
                         ]
+                      },
+                      "bannerBgImgDsktp": {
+                        "title": "Best Solutions-Desktop",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/5BJlXwrVgFkM3WnpRuX5zs/861198b1fc6290a1cb87bafb4f072c61/best-solutions-desktop.jpg"
+                      },
+                      "bannerBgImgMob": {
+                        "title": "Best Solutions-Mobile",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/3SC800587sezouMNAdcSvs/314069f095ca5fbba5b8266a421ff20b/best-solutions-mobile.jpg"
                       }
                     }
                   ]
@@ -141,10 +141,6 @@
                       "cdBadge": null,
                       "cdOverline1": null,
                       "cdOverline2": null,
-                      "cdImage": {
-                        "title": "Automation Img",
-                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/43xrg6j2RV202VaPGdP0hD/cdd70bca5687aa1fec73981e22f28c4b/image.png"
-                      },
                       "cdLink": {
                         "linkText": "Automation",
                         "linkId": null,
@@ -153,6 +149,10 @@
                         "linkStyle": "Link",
                         "linkClass": null,
                         "linkNewWindow": false
+                      },
+                      "cdImage": {
+                        "title": "Automation Img",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/43xrg6j2RV202VaPGdP0hD/cdd70bca5687aa1fec73981e22f28c4b/image.png"
                       }
                     },
                     {
@@ -163,10 +163,6 @@
                       "cdBadge": null,
                       "cdOverline1": null,
                       "cdOverline2": null,
-                      "cdImage": {
-                        "title": "Safety & Explosion",
-                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/221pXxuyBjeaPiN2M5eX2Q/04fd56ae271bfbf1e555af812def81fd/Safety___Explosion.png"
-                      },
                       "cdLink": {
                         "linkText": "Safety & Explosion Protection",
                         "linkId": null,
@@ -175,6 +171,10 @@
                         "linkStyle": "Link",
                         "linkClass": null,
                         "linkNewWindow": false
+                      },
+                      "cdImage": {
+                        "title": "Safety & Explosion",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/221pXxuyBjeaPiN2M5eX2Q/04fd56ae271bfbf1e555af812def81fd/Safety___Explosion.png"
                       }
                     },
                     {
@@ -185,10 +185,6 @@
                       "cdBadge": null,
                       "cdOverline1": null,
                       "cdOverline2": null,
-                      "cdImage": {
-                        "title": "Switches & Indicators",
-                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/7wdkXlauVL1w2YmWBSt32h/7adca80e945b28e4b8a6b5220f24ab97/Switches___Indicators.png"
-                      },
                       "cdLink": {
                         "linkText": "Switches & Indicators",
                         "linkId": null,
@@ -197,6 +193,10 @@
                         "linkStyle": "Link",
                         "linkClass": null,
                         "linkNewWindow": false
+                      },
+                      "cdImage": {
+                        "title": "Switches & Indicators",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/7wdkXlauVL1w2YmWBSt32h/7adca80e945b28e4b8a6b5220f24ab97/Switches___Indicators.png"
                       }
                     },
                     {
@@ -207,10 +207,6 @@
                       "cdBadge": null,
                       "cdOverline1": null,
                       "cdOverline2": null,
-                      "cdImage": {
-                        "title": "Industrial Components",
-                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/3IOpY15fiO6gcbtLh5GiqU/0c32955d8e0786675244d39cd543f7c4/Industrial_Components.png"
-                      },
                       "cdLink": {
                         "linkText": "Industrial Components",
                         "linkId": null,
@@ -219,6 +215,10 @@
                         "linkStyle": "Link",
                         "linkClass": null,
                         "linkNewWindow": false
+                      },
+                      "cdImage": {
+                        "title": "Industrial Components",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/3IOpY15fiO6gcbtLh5GiqU/0c32955d8e0786675244d39cd543f7c4/Industrial_Components.png"
                       }
                     },
                     {
@@ -229,10 +229,6 @@
                       "cdBadge": null,
                       "cdOverline1": null,
                       "cdOverline2": null,
-                      "cdImage": {
-                        "title": "Auto-ID",
-                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/320lqYuI6SQ1OVRM1Ph8lL/322ea57cfb4a38a0c335a4a06196c090/Auto-ID.png"
-                      },
                       "cdLink": {
                         "linkText": "Auto-ID",
                         "linkId": null,
@@ -241,6 +237,10 @@
                         "linkStyle": "Link",
                         "linkClass": null,
                         "linkNewWindow": false
+                      },
+                      "cdImage": {
+                        "title": "Auto-ID",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/320lqYuI6SQ1OVRM1Ph8lL/322ea57cfb4a38a0c335a4a06196c090/Auto-ID.png"
                       }
                     },
                     {
@@ -251,10 +251,6 @@
                       "cdBadge": null,
                       "cdOverline1": null,
                       "cdOverline2": null,
-                      "cdImage": {
-                        "title": "Motorized System",
-                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/2UwDmwiI6MTTuffEl6eDKk/6af0ce22665922d1afdbbdb6d1947aae/Motorized_System.png"
-                      },
                       "cdLink": {
                         "linkText": "Motorized System",
                         "linkId": null,
@@ -263,6 +259,10 @@
                         "linkStyle": "Link",
                         "linkClass": null,
                         "linkNewWindow": false
+                      },
+                      "cdImage": {
+                        "title": "Motorized System",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/2UwDmwiI6MTTuffEl6eDKk/6af0ce22665922d1afdbbdb6d1947aae/Motorized_System.png"
                       }
                     }
                   ]
@@ -314,10 +314,6 @@
                       "cdOverline1": "News & Articles",
                       "cdOverline2": null,
                       "cdVideo": null,
-                      "cdImage": {
-                        "title": "IDEC ez-Wheel Assist Wheel Drive Boosts Material Handling Operations ",
-                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/4UM4KHftS5WbSilcuZw6K0/e05cfe46bc0250b417082e0f1569306a/news-articles.png"
-                      },
                       "cdLink": {
                         "linkText": "View Product Series",
                         "linkId": null,
@@ -326,6 +322,10 @@
                         "linkNewWindow": false,
                         "linkIcon": null,
                         "linkOpenInAPopUp": "No"
+                      },
+                      "cdImage": {
+                        "title": "IDEC ez-Wheel Assist Wheel Drive Boosts Material Handling Operations ",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/4UM4KHftS5WbSilcuZw6K0/e05cfe46bc0250b417082e0f1569306a/news-articles.png"
                       }
                     },
                     {
@@ -395,10 +395,6 @@
                       "cdOverline1": "Operator Interfaces",
                       "cdOverline2": null,
                       "cdVideo": null,
-                      "cdImage": {
-                        "title": "FT2J Series",
-                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/e5pjIDGrFurA9cVb4O1Wm/3d322e8ec6b9e08212492bf7e36a902b/ft2j-series.png"
-                      },
                       "cdLink": {
                         "linkText": "View Product Series",
                         "linkId": null,
@@ -407,6 +403,10 @@
                         "linkNewWindow": false,
                         "linkIcon": null,
                         "linkOpenInAPopUp": "No"
+                      },
+                      "cdImage": {
+                        "title": "FT2J Series",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/e5pjIDGrFurA9cVb4O1Wm/3d322e8ec6b9e08212492bf7e36a902b/ft2j-series.png"
                       }
                     },
                     {
@@ -437,10 +437,6 @@
                       "cdOverline1": "Our Solutions",
                       "cdOverline2": null,
                       "cdVideo": null,
-                      "cdImage": {
-                        "title": "Reducing Carbon Footprint",
-                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/1plfigsLmKG5BdaTeQRZxN/7ff924be9720dc55ebfee78f83d55539/reducing-carbon-footprint.png"
-                      },
                       "cdLink": {
                         "linkText": "Watch Video",
                         "linkId": null,
@@ -449,6 +445,10 @@
                         "linkNewWindow": false,
                         "linkIcon": null,
                         "linkOpenInAPopUp": "Yes"
+                      },
+                      "cdImage": {
+                        "title": "Reducing Carbon Footprint",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/1plfigsLmKG5BdaTeQRZxN/7ff924be9720dc55ebfee78f83d55539/reducing-carbon-footprint.png"
                       }
                     },
                     {
@@ -460,10 +460,6 @@
                       "cdOverline1": "Automation",
                       "cdOverline2": "Operator Interface",
                       "cdVideo": null,
-                      "cdImage": {
-                        "title": "HG2J 7in Projected Capacitive Touch",
-                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/156adwqFxWrt06o6JNFdJH/32e29acadcede6ee12ad3b894e4b0768/automation-latest-on-idec.png"
-                      },
                       "cdLink": {
                         "linkText": "View Series",
                         "linkId": null,
@@ -472,6 +468,10 @@
                         "linkNewWindow": false,
                         "linkIcon": null,
                         "linkOpenInAPopUp": "No"
+                      },
+                      "cdImage": {
+                        "title": "HG2J 7in Projected Capacitive Touch",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/156adwqFxWrt06o6JNFdJH/32e29acadcede6ee12ad3b894e4b0768/automation-latest-on-idec.png"
                       }
                     }
                   ]
@@ -503,14 +503,6 @@
                 "ctaTextColor": "#ffffff",
                 "ctaHideForLoggedInUsers": true,
                 "ctaStyle": "Ribbon",
-                "ctaBgImageDsktp": {
-                  "title": "CTA Background Image-Desktop",
-                  "url": "https://images.ctfassets.net/fg4hnnyn9urp/44VSGGBzeUrQcW3g3h9vLl/1c59717ad346c9ad5d39b28e01a96549/cta-bg-desktop.jpg"
-                },
-                "ctaBgImageMob": {
-                  "title": "CTA Background Image-Mobile",
-                  "url": "https://images.ctfassets.net/fg4hnnyn9urp/2T2o2jawRd3lzS5l2HabMs/7c2bf83815d1ef60a8c1ce837583834b/cta-bg-mobile.jpg"
-                },
                 "ctaLink": {
                   "linkText": "Login / Sign Up",
                   "linkId": null,
@@ -518,6 +510,14 @@
                   "linkStyle": "Button",
                   "linkClass": null,
                   "linkNewWindow": false
+                },
+                "ctaBgImageDsktp": {
+                  "title": "CTA Background Image-Desktop",
+                  "url": "https://images.ctfassets.net/fg4hnnyn9urp/44VSGGBzeUrQcW3g3h9vLl/1c59717ad346c9ad5d39b28e01a96549/cta-bg-desktop.jpg"
+                },
+                "ctaBgImageMob": {
+                  "title": "CTA Background Image-Mobile",
+                  "url": "https://images.ctfassets.net/fg4hnnyn9urp/2T2o2jawRd3lzS5l2HabMs/7c2bf83815d1ef60a8c1ce837583834b/cta-bg-mobile.jpg"
                 }
               },
               {
@@ -536,10 +536,6 @@
                       "cdBadge": "NEW ARRIVAL",
                       "cdOverline1": "Automation",
                       "cdOverline2": "Operator Interface",
-                      "cdImage": {
-                        "title": "Automation-1",
-                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/7nt0YzVNwohHA7R7jwGYYe/29fa968b2dc4b87cc1d8f01cbd87f8e9/automation-1.png"
-                      },
                       "cdLink": {
                         "linkText": "View Series",
                         "linkId": null,
@@ -547,6 +543,10 @@
                         "linkStyle": "Link",
                         "linkClass": null,
                         "linkNewWindow": false
+                      },
+                      "cdImage": {
+                        "title": "Automation-1",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/7nt0YzVNwohHA7R7jwGYYe/29fa968b2dc4b87cc1d8f01cbd87f8e9/automation-1.png"
                       }
                     },
                     {
@@ -557,10 +557,6 @@
                       "cdBadge": null,
                       "cdOverline1": "Automation",
                       "cdOverline2": "Operator Interface",
-                      "cdImage": {
-                        "title": "Automation-2",
-                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/2ARPC9q7qjeEKhQOLeNjPb/8215f8bc0502bea21d16f39798b0f7de/automation-2.png"
-                      },
                       "cdLink": {
                         "linkText": "View Series",
                         "linkId": null,
@@ -568,6 +564,10 @@
                         "linkStyle": "Link",
                         "linkClass": null,
                         "linkNewWindow": false
+                      },
+                      "cdImage": {
+                        "title": "Automation-2",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/2ARPC9q7qjeEKhQOLeNjPb/8215f8bc0502bea21d16f39798b0f7de/automation-2.png"
                       }
                     },
                     {
@@ -578,10 +578,6 @@
                       "cdBadge": null,
                       "cdOverline1": "Switches & Indicators",
                       "cdOverline2": "Pushbuttons and Pilot Lights",
-                      "cdImage": {
-                        "title": "Switches & Indicator",
-                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/7pAMKmfYbFwRlyK4jforcf/52b0eaf565f4f6e307dcfa74249cedb0/switches-_-indicators.png"
-                      },
                       "cdLink": {
                         "linkText": "View Series",
                         "linkId": null,
@@ -589,6 +585,10 @@
                         "linkStyle": "Link",
                         "linkClass": null,
                         "linkNewWindow": false
+                      },
+                      "cdImage": {
+                        "title": "Switches & Indicator",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/7pAMKmfYbFwRlyK4jforcf/52b0eaf565f4f6e307dcfa74249cedb0/switches-_-indicators.png"
                       }
                     }
                   ]
@@ -620,14 +620,6 @@
                 "ctaTextColor": "#ffffff",
                 "ctaHideForLoggedInUsers": false,
                 "ctaStyle": "Transparent",
-                "ctaBgImageDsktp": {
-                  "title": "Product Finder-Desktop",
-                  "url": "https://images.ctfassets.net/fg4hnnyn9urp/2AgVXQrL7BfTlk3tXCJLft/a7f9d3a0e2b24ccf1d4f460f347e4f04/product-finder-bg.png"
-                },
-                "ctaBgImageMob": {
-                  "title": "Product Finder-Mobile",
-                  "url": "https://images.ctfassets.net/fg4hnnyn9urp/27eVEFDEsNNJ7vf1A0H4lS/5097d43fd05721ecff57833aa953015e/product-finder-bg-mob.png"
-                },
                 "ctaLink": {
                   "linkText": "Configure Your Own",
                   "linkId": null,
@@ -635,6 +627,14 @@
                   "linkStyle": "Button",
                   "linkClass": null,
                   "linkNewWindow": false
+                },
+                "ctaBgImageDsktp": {
+                  "title": "Product Finder-Desktop",
+                  "url": "https://images.ctfassets.net/fg4hnnyn9urp/2AgVXQrL7BfTlk3tXCJLft/7bd0b57c2b3a73c35a2bee551ce7a47b/product-finder-bg-desktop.png"
+                },
+                "ctaBgImageMob": {
+                  "title": "Product Finder-Mobile",
+                  "url": "https://images.ctfassets.net/fg4hnnyn9urp/27eVEFDEsNNJ7vf1A0H4lS/5097d43fd05721ecff57833aa953015e/product-finder-bg-mob.png"
                 }
               },
               {
@@ -764,14 +764,6 @@
                 "tiOverline": "INDUSTRIES",
                 "tiTitle": "Automotive",
                 "tiImagePosition": "Right",
-                "tiImageDesktop": {
-                  "title": "Industries Automotive",
-                  "url": "https://images.ctfassets.net/fg4hnnyn9urp/67m10Hd7PFyxkJz2wG6U3k/84a7ade0ba252c6757743f128a81a305/industries-automotives.png"
-                },
-                "tiImageMobile": {
-                  "title": "Industries Automotive",
-                  "url": "https://images.ctfassets.net/fg4hnnyn9urp/67m10Hd7PFyxkJz2wG6U3k/84a7ade0ba252c6757743f128a81a305/industries-automotives.png"
-                },
                 "tiButton": {
                   "linkText": "Read More",
                   "linkId": null,
@@ -787,6 +779,14 @@
                   "linkStyle": "Button",
                   "linkClass": null,
                   "linkNewWindow": false
+                },
+                "tiImageDesktop": {
+                  "title": "Industries Automotive",
+                  "url": "https://images.ctfassets.net/fg4hnnyn9urp/67m10Hd7PFyxkJz2wG6U3k/1a97b4df7510e10f234ee1ebe6a56cf0/automotive.jpg"
+                },
+                "tiImageMobile": {
+                  "title": "Industries Automotive",
+                  "url": "https://images.ctfassets.net/fg4hnnyn9urp/67m10Hd7PFyxkJz2wG6U3k/1a97b4df7510e10f234ee1ebe6a56cf0/automotive.jpg"
                 }
               },
               {
@@ -812,17 +812,17 @@
                       "cdBadge": null,
                       "cdOverline1": "May 10, 2024",
                       "cdOverline2": null,
+                      "cdLink": {
+                        "linkText": "Read More",
+                        "linkId": null,
+                        "linkUrl": "/read-more",
+                        "linkStyle": "Button",
+                        "linkClass": null,
+                        "linkNewWindow": false
+                      },
                       "cdImage": {
                         "title": "IDEC Financial Briefing Materials for FY2024",
                         "url": "https://images.ctfassets.net/fg4hnnyn9urp/6dBgmR9BWV8GI0Dr9OJmvo/f501ce3d63e31fca8e183fc2a85d5803/idec-financial-briefing-materials-for-fy2024.png"
-                      },
-                      "cdLink": {
-                        "linkText": "Read More",
-                        "linkId": null,
-                        "linkUrl": "/read-more",
-                        "linkStyle": "Button",
-                        "linkClass": null,
-                        "linkNewWindow": false
                       }
                     },
                     {
@@ -833,17 +833,17 @@
                       "cdBadge": null,
                       "cdOverline1": "Mar 27, 2024",
                       "cdOverline2": null,
+                      "cdLink": {
+                        "linkText": "Read More",
+                        "linkId": null,
+                        "linkUrl": "/read-more",
+                        "linkStyle": "Button",
+                        "linkClass": null,
+                        "linkNewWindow": false
+                      },
                       "cdImage": {
                         "title": "IDEC Red logo",
                         "url": "https://images.ctfassets.net/fg4hnnyn9urp/4yAkjh1RP7CtQkc5jyXwjw/5b3ab557780be208f58f19f00bb6e883/idec-logo-red.png"
-                      },
-                      "cdLink": {
-                        "linkText": "Read More",
-                        "linkId": null,
-                        "linkUrl": "/read-more",
-                        "linkStyle": "Button",
-                        "linkClass": null,
-                        "linkNewWindow": false
                       }
                     },
                     {
@@ -854,10 +854,6 @@
                       "cdBadge": null,
                       "cdOverline1": "Mar 27, 2024",
                       "cdOverline2": null,
-                      "cdImage": {
-                        "title": "IDEC Automation Organizer Suite V4.07.00",
-                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/1Ye4XkAhls8nynUdrIyprV/3559ee3cdfd288fdcd9ab3508ecd5613/idec-automation-organizer-suite-v4.07.00.png"
-                      },
                       "cdLink": {
                         "linkText": "Read More",
                         "linkId": null,
@@ -865,6 +861,10 @@
                         "linkStyle": "Button",
                         "linkClass": null,
                         "linkNewWindow": false
+                      },
+                      "cdImage": {
+                        "title": "IDEC Automation Organizer Suite V4.07.00",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/1Ye4XkAhls8nynUdrIyprV/3559ee3cdfd288fdcd9ab3508ecd5613/idec-automation-organizer-suite-v4.07.00.png"
                       }
                     },
                     {
@@ -875,10 +875,6 @@
                       "cdBadge": null,
                       "cdOverline1": "Feb 20, 2024",
                       "cdOverline2": null,
-                      "cdImage": {
-                        "title": "IDEC FT2J Series All-In-One PLC and HMI",
-                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/2M8n8VvydxNgmQYGrEYFq1/856eccd03db872d4e4b017800068d683/idec-ft2j-series-all-in-one-plc-and-hmi.png"
-                      },
                       "cdLink": {
                         "linkText": "Read More",
                         "linkId": null,
@@ -886,6 +882,10 @@
                         "linkStyle": "Button",
                         "linkClass": null,
                         "linkNewWindow": false
+                      },
+                      "cdImage": {
+                        "title": "IDEC FT2J Series All-In-One PLC and HMI",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/2M8n8VvydxNgmQYGrEYFq1/856eccd03db872d4e4b017800068d683/idec-ft2j-series-all-in-one-plc-and-hmi.png"
                       }
                     }
                   ]
@@ -917,14 +917,6 @@
                 "tiTitle": "About IDEC Way",
                 "tiLink": null,
                 "tiImagePosition": "Left",
-                "tiImageDesktop": {
-                  "title": "About idec way.png",
-                  "url": "https://images.ctfassets.net/fg4hnnyn9urp/4p3wx8NzrMmlDprLa9Phax/fda148d36aa57780bdca5a399637d071/about-idec-way.png"
-                },
-                "tiImageMobile": {
-                  "title": "About idec way.png",
-                  "url": "https://images.ctfassets.net/fg4hnnyn9urp/4p3wx8NzrMmlDprLa9Phax/fda148d36aa57780bdca5a399637d071/about-idec-way.png"
-                },
                 "tiButton": {
                   "linkText": "Discover Now",
                   "linkId": null,
@@ -932,6 +924,14 @@
                   "linkStyle": "Button",
                   "linkClass": null,
                   "linkNewWindow": false
+                },
+                "tiImageDesktop": {
+                  "title": "About idec way.png",
+                  "url": "https://images.ctfassets.net/fg4hnnyn9urp/4p3wx8NzrMmlDprLa9Phax/b0cd78bbb343093f71c0a6532c8d247b/idec-way.jpg"
+                },
+                "tiImageMobile": {
+                  "title": "About idec way.png",
+                  "url": "https://images.ctfassets.net/fg4hnnyn9urp/4p3wx8NzrMmlDprLa9Phax/b0cd78bbb343093f71c0a6532c8d247b/idec-way.jpg"
                 }
               },
               {
@@ -987,10 +987,6 @@
                       "cdBadge": null,
                       "cdOverline1": null,
                       "cdOverline2": null,
-                      "cdImage": {
-                        "title": "Resources & Documents",
-                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/6dwPa35psKtgEnPJ3GkGqc/42ff93233a33a2db3ae6cba0dcd3eb02/documents-icon.png"
-                      },
                       "cdLink": {
                         "linkText": "Resources & Documents",
                         "linkId": null,
@@ -999,6 +995,10 @@
                         "linkStyle": "Link",
                         "linkClass": null,
                         "linkNewWindow": false
+                      },
+                      "cdImage": {
+                        "title": "Resources & Documents",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/6dwPa35psKtgEnPJ3GkGqc/42ff93233a33a2db3ae6cba0dcd3eb02/documents-icon.png"
                       }
                     },
                     {
@@ -1028,10 +1028,6 @@
                       "cdBadge": null,
                       "cdOverline1": null,
                       "cdOverline2": null,
-                      "cdImage": {
-                        "title": "Support",
-                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/2GCs3klYCyD3XD1YI5mpex/ddf07e27aa9558db06fbb07ba035df2b/support-icon.png"
-                      },
                       "cdLink": {
                         "linkText": "Support",
                         "linkId": null,
@@ -1040,6 +1036,10 @@
                         "linkStyle": "Link",
                         "linkClass": null,
                         "linkNewWindow": false
+                      },
+                      "cdImage": {
+                        "title": "Support",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/2GCs3klYCyD3XD1YI5mpex/ddf07e27aa9558db06fbb07ba035df2b/support-icon.png"
                       }
                     },
                     {
@@ -1069,10 +1069,6 @@
                       "cdBadge": null,
                       "cdOverline1": null,
                       "cdOverline2": null,
-                      "cdImage": {
-                        "title": "Contact Us",
-                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/1oKWdvU1TtCx5YtV5SHCXk/4bcb1594cad723a554c296c417f89b53/contact-icon.png"
-                      },
                       "cdLink": {
                         "linkText": "Contact Us",
                         "linkId": null,
@@ -1081,6 +1077,10 @@
                         "linkStyle": "Link",
                         "linkClass": null,
                         "linkNewWindow": false
+                      },
+                      "cdImage": {
+                        "title": "Contact Us",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/1oKWdvU1TtCx5YtV5SHCXk/4bcb1594cad723a554c296c417f89b53/contact-icon.png"
                       }
                     }
                   ]

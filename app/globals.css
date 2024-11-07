@@ -126,6 +126,22 @@ img[alt] {
   @apply bg-white;
   box-shadow: 0px 40px 87px 0px rgba(0, 0, 0, 0.1);
 }
+.megamenu-shadow {
+  background: white;
+  box-shadow:
+    0px 103px 29px 0px rgba(130, 130, 130, 0),
+    0px 66px 26px 0px rgba(130, 130, 130, 0.01),
+    0px 37px 22px 0px rgba(130, 130, 130, 0.05),
+    0px 16px 16px 0px rgba(130, 130, 130, 0.09),
+    0px 4px 9px 0px rgba(130, 130, 130, 0.1);
+}
+.fp {
+  .rta {
+    a {
+      @apply font-bold;
+    }
+  }
+}
 /* Scroll Bar Styles */
 ::-webkit-scrollbar {
   width: 5px;
@@ -496,6 +512,9 @@ form {
   .slick-list {
     .slick-track {
       @apply lg:flex;
+      .slick-slide {
+        @apply px-3;
+      }
     }
   }
   .slick-next {
