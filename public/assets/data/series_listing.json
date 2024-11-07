@@ -1,0 +1,134 @@
+{
+  "__typename": "Card",
+  "title": "Our Category",
+  "cdStyle": "series-listing",
+  "componentsCollection": {
+    "items": [
+      {
+        "__typename": "Card",
+        "cdDescription": "HW 22mm Heavy-Duty",
+        "cdTitle": "HW1B-M110S",
+        "cdStyle": "series-listing",
+        "cdBadge": null,
+        "cdLink": {
+          "linkText": "Add To Cart",
+          "linkId": null,
+          "linkUrl": "/view-series",
+          "linkStyle": "Link",
+          "linkClass": null,
+          "linkNewWindow": false
+        },
+        "cdImage": {
+          "title": "Pushbuttons",
+          "url": "https://in.idec.com/medias/HW-Series-image.jpg?context=bWFzdGVyfGltYWdlc3wxMDgwOTJ8aW1hZ2UvanBlZ3xoNzMvaGVhLzkzNTE2NDg2NzM4MjIvSFctU2VyaWVzLWltYWdlLmpwZ3w1OGVhMWMxYTc0NmQ1ZTE3MjgxODIyZWVjOGE4MzAzMDM0OTRlMmNjZjdiNzRhM2JmZDc4YTc0MTM5MzFjYjdh"
+        },
+        "descriptionList": [
+          "12.1in TFT LCD Color Displays",
+          "Super Bright: 600cd/m²",
+          "High Resolution Display"
+        ],
+        "price": "280.00"
+      },
+      {
+        "__typename": "Card",
+        "cdDescription": "HW 22mm Heavy-Duty",
+        "cdTitle": "HW1B-M110S",
+        "cdStyle": "series-listing",
+        "cdBadge": null,
+        "cdLink": {
+          "linkText": "Add To Cart",
+          "linkId": null,
+          "linkUrl": "/view-series",
+          "linkStyle": "Link",
+          "linkClass": null,
+          "linkNewWindow": false
+        },
+        "cdImage": {
+          "title": "Pushbuttons",
+          "url": "https://in.idec.com/medias/HW-Series-image.jpg?context=bWFzdGVyfGltYWdlc3wxMDgwOTJ8aW1hZ2UvanBlZ3xoNzMvaGVhLzkzNTE2NDg2NzM4MjIvSFctU2VyaWVzLWltYWdlLmpwZ3w1OGVhMWMxYTc0NmQ1ZTE3MjgxODIyZWVjOGE4MzAzMDM0OTRlMmNjZjdiNzRhM2JmZDc4YTc0MTM5MzFjYjdh"
+        },
+        "descriptionList": [
+          "12.1in TFT LCD Color Displays",
+          "Super Bright: 600cd/m²",
+          "High Resolution Display"
+        ],
+        "price": "280.00"
+      },
+      {
+        "__typename": "Card",
+        "cdDescription": "HW 22mm Heavy-Duty",
+        "cdTitle": "HW1B-M110S",
+        "cdStyle": "series-listing",
+        "cdBadge": null,
+        "cdLink": {
+          "linkText": "Add To Cart",
+          "linkId": null,
+          "linkUrl": "/view-series",
+          "linkStyle": "Link",
+          "linkClass": null,
+          "linkNewWindow": false
+        },
+        "cdImage": {
+          "title": "Pushbuttons",
+          "url": "https://in.idec.com/medias/HW-Series-image.jpg?context=bWFzdGVyfGltYWdlc3wxMDgwOTJ8aW1hZ2UvanBlZ3xoNzMvaGVhLzkzNTE2NDg2NzM4MjIvSFctU2VyaWVzLWltYWdlLmpwZ3w1OGVhMWMxYTc0NmQ1ZTE3MjgxODIyZWVjOGE4MzAzMDM0OTRlMmNjZjdiNzRhM2JmZDc4YTc0MTM5MzFjYjdh"
+        },
+        "descriptionList": [
+          "12.1in TFT LCD Color Displays",
+          "Super Bright: 600cd/m²",
+          "High Resolution Display"
+        ],
+        "price": "280.00"
+      },
+      {
+        "__typename": "Card",
+        "cdDescription": "HW 22mm Heavy-Duty",
+        "cdTitle": "HW1B-M110S",
+        "cdStyle": "series-listing",
+        "cdBadge": null,
+        "cdLink": {
+          "linkText": "Add To Cart",
+          "linkId": null,
+          "linkUrl": "/view-series",
+          "linkStyle": "Link",
+          "linkClass": null,
+          "linkNewWindow": false
+        },
+        "cdImage": {
+          "title": "Pushbuttons",
+          "url": "https://in.idec.com/medias/HW-Series-image.jpg?context=bWFzdGVyfGltYWdlc3wxMDgwOTJ8aW1hZ2UvanBlZ3xoNzMvaGVhLzkzNTE2NDg2NzM4MjIvSFctU2VyaWVzLWltYWdlLmpwZ3w1OGVhMWMxYTc0NmQ1ZTE3MjgxODIyZWVjOGE4MzAzMDM0OTRlMmNjZjdiNzRhM2JmZDc4YTc0MTM5MzFjYjdh"
+        },
+        "descriptionList": [
+          "12.1in TFT LCD Color Displays",
+          "Super Bright: 600cd/m²",
+          "High Resolution Display"
+        ],
+        "price": "280.00"
+      },
+      {
+        "__typename": "Card",
+        "cdDescription": "HW 22mm Heavy-Duty",
+        "cdTitle": "HW1B-M110S",
+        "cdStyle": "series-listing",
+        "cdBadge": null,
+        "cdLink": {
+          "linkText": "Add To Cart",
+          "linkId": null,
+          "linkUrl": "/view-series",
+          "linkStyle": "Link",
+          "linkClass": null,
+          "linkNewWindow": false
+        },
+        "cdImage": {
+          "title": "Pushbuttons",
+          "url": "https://in.idec.com/medias/HW-Series-image.jpg?context=bWFzdGVyfGltYWdlc3wxMDgwOTJ8aW1hZ2UvanBlZ3xoNzMvaGVhLzkzNTE2NDg2NzM4MjIvSFctU2VyaWVzLWltYWdlLmpwZ3w1OGVhMWMxYTc0NmQ1ZTE3MjgxODIyZWVjOGE4MzAzMDM0OTRlMmNjZjdiNzRhM2JmZDc4YTc0MTM5MzFjYjdh"
+        },
+        "descriptionList": [
+          "12.1in TFT LCD Color Displays",
+          "Super Bright: 600cd/m²",
+          "High Resolution Display"
+        ],
+        "price": "280.00"
+      }
+    ]
+  }
+}

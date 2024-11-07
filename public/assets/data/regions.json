@@ -1,0 +1,85 @@
+{
+  "regionsCollection": {
+    "items": [
+      {
+        "regionLabel": "Global",
+        "regionAllowedLanguages": ["English - en-US"],
+        "regionSite": "IDEC"
+      },
+      {
+        "regionLabel": "International",
+        "regionAllowedLanguages": ["English - en-US"],
+        "regionSite": "APEM"
+      },
+      {
+        "regionLabel": "France",
+        "regionAllowedLanguages": ["French - fr"],
+        "regionSite": "APEM"
+      },
+      {
+        "regionLabel": "German",
+        "regionAllowedLanguages": ["German - de"],
+        "regionSite": "APEM"
+      },
+      {
+        "regionLabel": "United Kingdom",
+        "regionAllowedLanguages": ["English - en-US"],
+        "regionSite": "APEM"
+      },
+      {
+        "regionLabel": "US",
+        "regionAllowedLanguages": ["English - en-US"],
+        "regionSite": "APEM"
+      },
+      {
+        "regionLabel": "China",
+        "regionAllowedLanguages": ["Chinese - zh"],
+        "regionSite": "APEM"
+      },
+      {
+        "regionLabel": "Canada",
+        "regionAllowedLanguages": ["English - en-US"],
+        "regionSite": "IDEC"
+      },
+      {
+        "regionLabel": "China",
+        "regionAllowedLanguages": ["Chinese - zh"],
+        "regionSite": "IDEC"
+      },
+      {
+        "regionLabel": "India",
+        "regionAllowedLanguages": ["English - en-US"],
+        "regionSite": "IDEC"
+      },
+      {
+        "regionLabel": "EMEA",
+        "regionAllowedLanguages": [
+          "English - en-US",
+          "French - fr",
+          "German - de"
+        ],
+        "regionSite": "IDEC"
+      },
+      {
+        "regionLabel": "US",
+        "regionAllowedLanguages": ["English - en-US"],
+        "regionSite": "IDEC"
+      },
+      {
+        "regionLabel": "Taiwan",
+        "regionAllowedLanguages": ["Chinese - zh"],
+        "regionSite": "IDEC"
+      },
+      {
+        "regionLabel": "APAC",
+        "regionAllowedLanguages": ["English - en-US", "Japanese - ja"],
+        "regionSite": "IDEC"
+      },
+      {
+        "regionLabel": "Japan",
+        "regionAllowedLanguages": ["English - en-US", "Japanese - ja"],
+        "regionSite": "IDEC"
+      }
+    ]
+  }
+}

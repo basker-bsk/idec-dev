@@ -1,0 +1,150 @@
+{
+  "clmContentsCollection": {
+    "items": [
+      {
+        "__typename": "Card",
+        "cdDescription": null,
+        "cdTitle": "Automation",
+        "cdStyle": "Popular categories",
+        "cdBadge": null,
+        "cdOverline1": null,
+        "cdOverline2": null,
+        "cdSvgIconCode": null,
+        "cdLink": {
+          "linkText": "Automation",
+          "linkId": null,
+          "linkUrl": "/popular-categories/automation",
+          "linkIcon": null,
+          "linkStyle": "Link",
+          "linkClass": null,
+          "linkNewWindow": false,
+          "linkSvgIconCode": null
+        },
+        "cdImageVideo": {
+          "title": "Automation Img",
+          "url": "https://images.ctfassets.net/fg4hnnyn9urp/43xrg6j2RV202VaPGdP0hD/cdd70bca5687aa1fec73981e22f28c4b/image.png"
+        }
+      },
+      {
+        "__typename": "Card",
+        "cdDescription": null,
+        "cdTitle": "Safety & Explosion Protection",
+        "cdStyle": "Popular categories",
+        "cdBadge": null,
+        "cdOverline1": null,
+        "cdOverline2": null,
+        "cdSvgIconCode": null,
+        "cdLink": {
+          "linkText": "Safety & Explosion Protection",
+          "linkId": null,
+          "linkUrl": "/popular-categories/safety-explosion-protection",
+          "linkIcon": null,
+          "linkStyle": "Link",
+          "linkClass": null,
+          "linkNewWindow": false,
+          "linkSvgIconCode": null
+        },
+        "cdImageVideo": {
+          "title": "Safety & Explosion",
+          "url": "https://images.ctfassets.net/fg4hnnyn9urp/221pXxuyBjeaPiN2M5eX2Q/04fd56ae271bfbf1e555af812def81fd/Safety___Explosion.png"
+        }
+      },
+      {
+        "__typename": "Card",
+        "cdDescription": null,
+        "cdTitle": "Switches & Indicators",
+        "cdStyle": "Popular categories",
+        "cdBadge": null,
+        "cdOverline1": null,
+        "cdOverline2": null,
+        "cdSvgIconCode": null,
+        "cdLink": {
+          "linkText": "Switches & Indicators",
+          "linkId": null,
+          "linkUrl": "/popular-categories/switches-indicators",
+          "linkIcon": null,
+          "linkStyle": "Link",
+          "linkClass": null,
+          "linkNewWindow": false,
+          "linkSvgIconCode": null
+        },
+        "cdImageVideo": {
+          "title": "Switches & Indicators",
+          "url": "https://images.ctfassets.net/fg4hnnyn9urp/7wdkXlauVL1w2YmWBSt32h/7adca80e945b28e4b8a6b5220f24ab97/Switches___Indicators.png"
+        }
+      },
+      {
+        "__typename": "Card",
+        "cdDescription": null,
+        "cdTitle": "Industrial Components",
+        "cdStyle": "Popular categories",
+        "cdBadge": null,
+        "cdOverline1": null,
+        "cdOverline2": null,
+        "cdSvgIconCode": null,
+        "cdLink": {
+          "linkText": "Industrial Components",
+          "linkId": null,
+          "linkUrl": "/popular-categories/industrial-components",
+          "linkIcon": null,
+          "linkStyle": "Link",
+          "linkClass": null,
+          "linkNewWindow": false,
+          "linkSvgIconCode": null
+        },
+        "cdImageVideo": {
+          "title": "Industrial Components",
+          "url": "https://images.ctfassets.net/fg4hnnyn9urp/3IOpY15fiO6gcbtLh5GiqU/0c32955d8e0786675244d39cd543f7c4/Industrial_Components.png"
+        }
+      },
+      {
+        "__typename": "Card",
+        "cdDescription": null,
+        "cdTitle": "Auto-ID",
+        "cdStyle": "Popular categories",
+        "cdBadge": null,
+        "cdOverline1": null,
+        "cdOverline2": null,
+        "cdSvgIconCode": null,
+        "cdLink": {
+          "linkText": "Auto-ID",
+          "linkId": null,
+          "linkUrl": "/popular-categories/auto-id",
+          "linkIcon": null,
+          "linkStyle": "Link",
+          "linkClass": null,
+          "linkNewWindow": false,
+          "linkSvgIconCode": null
+        },
+        "cdImageVideo": {
+          "title": "Auto-ID",
+          "url": "https://images.ctfassets.net/fg4hnnyn9urp/320lqYuI6SQ1OVRM1Ph8lL/322ea57cfb4a38a0c335a4a06196c090/Auto-ID.png"
+        }
+      },
+      {
+        "__typename": "Card",
+        "cdDescription": null,
+        "cdTitle": "Motorized System",
+        "cdStyle": "Popular categories",
+        "cdBadge": null,
+        "cdOverline1": null,
+        "cdOverline2": null,
+        "cdSvgIconCode": null,
+        "cdLink": {
+          "linkText": "Motorized System",
+          "linkId": null,
+          "linkUrl": "/popular-categories/motorized-system",
+          "linkIcon": null,
+          "linkStyle": "Link",
+          "linkClass": null,
+          "linkNewWindow": false,
+          "linkSvgIconCode": null
+        },
+        "cdImageVideo": {
+          "title": "Motorized System",
+          "url": "https://images.ctfassets.net/fg4hnnyn9urp/2UwDmwiI6MTTuffEl6eDKk/6af0ce22665922d1afdbbdb6d1947aae/Motorized_System.png"
+        }
+      }
+    ]
+  }
+}

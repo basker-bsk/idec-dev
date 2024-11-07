@@ -1,0 +1,562 @@
+[
+  {
+    "product_name": "FC6A MicroSmart",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2020/10/OP/EH/JI/8277378/idec-fc6a-microsmart-plc-500x500.jpg",
+    "product_description": "From toggles to pushbuttons, rockers to micro switches, APEM develops and produces one of the widest ranges of interfaces dedicated to panels.",
+    "price": 2100,
+    "category": "automation",
+    "brand": "IDEC",
+    "free_shipping": true,
+    "rating": "4.2"
+  },
+  {
+    "product_name": "FT1A smartAxis",
+    "product_image": "https://5.imimg.com/data5/RC/LI/PW/SELLER-1781461/smart-axis-touch-idec-250x250.jpg",
+    "product_description": "Maximum locking force and compact packaging combined with the industry’s best strength-to-size ratio make this switch ideal for safeguarding machinery and equipment.",
+    "price": 9899,
+    "category": "automation",
+    "brand": "IDEC",
+    "free_shipping": false,
+    "rating": "4"
+  },
+  {
+    "product_name": "SX8R Bus coupler module",
+    "product_image": "https://www.cpecn.com/wp-content/uploads/2024/07/IDEC-Press-Release-SX8R-Bus-Coupler-ECB4-jp08-v2-1024x850.jpg",
+    "product_description": "The IDEC SE2L safety laser scanner is the smallest in the world, while outperforming most of the competition. Features include a 270-degree sensing angle",
+    "price": 3000,
+    "category": "automation",
+    "brand": "IDEC",
+    "free_shipping": true,
+    "rating": "5"
+  },
+  {
+    "product_name": "FL1F Smart Relay",
+    "product_image": "https://in.element14.com/productimages/large/en_US/72Y0238-40.jpg",
+    "product_description": "From toggles to pushbuttons, rockers to micro switches, APEM develops and produces one of the widest ranges of interfaces dedicated to panels.",
+    "price": 11500,
+    "category": "automation",
+    "brand": "IDEC",
+    "free_shipping": true,
+    "rating": "4.5"
+  },
+  {
+    "product_name": "HS1T Heavy Duty Locking",
+    "product_image": "https://eterna.co.id/img/product/HS6E%20Submniature%20Locking.jpg",
+    "product_description": "Maximum locking force and compact packaging combined with the industry’s best strength-to-size ratio make this switch ideal for safeguarding machinery and equipment.",
+    "price": 3000,
+    "category": "Safety & Explosion Protection",
+    "brand": "IDEC",
+    "free_shipping": true,
+    "rating": "4.2"
+  },
+  {
+    "product_name": "HS6B Subminiature",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2021/4/YG/DE/EP/2172111/hs5l-miniature-locking-500x500.png",
+    "product_description": "The HS6B is the smallest three-contact enabling switch currently on the market, and will fit in even the tightest areas, so you have safety in every necessary location.",
+    "price": 7000,
+    "category": "Safety & Explosion Protection",
+    "brand": "IDEC",
+    "free_shipping": false,
+    "rating": "4.1"
+  },
+  {
+    "product_name": "SE2L Series",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2021/4/HI/ZL/UA/2172111/rotary-encoder-n58.png",
+    "product_description": "The IDEC SE2L safety laser scanner is the smallest in the world, while outperforming most of the competition. Features include a 270-degree sensing angle",
+    "price": 17500,
+    "category": "Safety & Explosion Protection",
+    "brand": "IDEC",
+    "free_shipping": true,
+    "rating": "4.5"
+  },
+  {
+    "product_name": "HW 22mm Heavy-Duty",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2021/2/AP/XL/JH/67130572/cw-flush-silhouette-image.jpg",
+    "product_description": "Building on a long history of pushbutton dominance, IDEC offers its internationally rated 22mm pushbuttons and pilot devices, the HW series.",
+    "price": 1200,
+    "category": "Switches",
+    "brand": "IDEC",
+    "free_shipping": true,
+    "rating": "4"
+  },
+  {
+    "product_name": "LB 16mm Space-saving",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2022/12/TB/QV/BV/8031733/idec-model-abn6111g.jpg",
+    "product_description": "With a choice of metallic or black plastic bezels, and flush or standard mounting, our newest 16mm switches add style and safety to any application.",
+    "price": 2300,
+    "category": "Switches",
+    "brand": "IDEC",
+    "free_shipping": false,
+    "rating": "4.7"
+  },
+  {
+    "product_name": "A6 16mm Unibody Light-Duty",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2021/4/DF/CP/GG/2172111/30mm-twn-pilot-light-500x500.png",
+    "product_description": "The A6 series of pushbuttons and pilot devices offer a very competitive price and simple construction in a space saving package.",
+    "price": 1500,
+    "category": "Switches",
+    "brand": "IDEC",
+    "free_shipping": true,
+    "rating": "4.8"
+  },
+  {
+    "product_name": "NC1V Series",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2021/4/HI/ZL/UA/2172111/rotary-encoder-n58.png",
+    "product_description": "DIN rail mount with finger safe spring up screw terminals and trip current ratings up to 30A. Available in 1, 2 or 3 poles. Optional direct panel mount kit available.",
+    "price": 17500,
+    "category": "Indstrial Components",
+    "brand": "IDEC",
+    "free_shipping": true,
+    "rating": "4.2"
+  },
+  {
+    "product_name": "NRA Series",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2021/2/AP/XL/JH/67130572/cw-flush-silhouette-image.jpg",
+    "product_description": "The NRA series of circuit breakers offer the ultimate in flexibility. Different actuator styles allow for differentiation of look and feel.",
+    "price": 1200,
+    "category": "Indstrial Components",
+    "brand": "IDEC",
+    "free_shipping": false,
+    "rating": "5"
+  },
+  {
+    "product_name": "NRBM Series",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2022/12/TB/QV/BV/8031733/idec-model-abn6111g.jpg",
+    "product_description": "The NRBM series of circuit breakers feature stud termination for extra reliability in terminating wires.",
+    "price": 2300,
+    "category": "Indstrial Components",
+    "brand": "IDEC",
+    "free_shipping": true,
+    "rating": "4.3"
+  },
+  {
+    "product_name": "NRF Series",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2021/4/DF/CP/GG/2172111/30mm-twn-pilot-light-500x500.png",
+    "product_description": "The A6 series of pushbuttons and pilot devices offer a very competitive price and simple construction in a space saving package.",
+    "price": 1500,
+    "category": "Indstrial Components",
+    "brand": "IDEC",
+    "free_shipping": true,
+    "rating": "4"
+  },
+  {
+    "product_name": "NC1V Series",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2021/4/HI/ZL/UA/2172111/rotary-encoder-n58.png",
+    "product_description": "DIN rail mount with finger safe spring up screw terminals and trip current ratings up to 30A. Available in 1, 2 or 3 poles. Optional direct panel mount kit available.",
+    "price": 17500,
+    "category": "Indstrial Components",
+    "brand": "APEM",
+    "free_shipping": true,
+    "rating": "4.2"
+  },
+  {
+    "product_name": "NRA Series",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2021/2/AP/XL/JH/67130572/cw-flush-silhouette-image.jpg",
+    "product_description": "The NRA series of circuit breakers offer the ultimate in flexibility. Different actuator styles allow for differentiation of look and feel.",
+    "price": 1200,
+    "category": "Indstrial Components",
+    "brand": "APEM",
+    "free_shipping": false,
+    "rating": "5"
+  },
+  {
+    "product_name": "NRBM Series",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2022/12/TB/QV/BV/8031733/idec-model-abn6111g.jpg",
+    "product_description": "The NRBM series of circuit breakers feature stud termination for extra reliability in terminating wires.",
+    "price": 2300,
+    "category": "Indstrial Components",
+    "brand": "APEM",
+    "free_shipping": true,
+    "rating": "4.3"
+  },
+  {
+    "product_name": "NRF Series",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2021/4/DF/CP/GG/2172111/30mm-twn-pilot-light-500x500.png",
+    "product_description": "The A6 series of pushbuttons and pilot devices offer a very competitive price and simple construction in a space saving package.",
+    "price": 1800,
+    "category": "Indstrial Components",
+    "brand": "APEM",
+    "free_shipping": true,
+    "rating": "4"
+  },
+  {
+    "product_name": "FC6A MicroSmart",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2020/10/OP/EH/JI/8277378/idec-fc6a-microsmart-plc-500x500.jpg",
+    "product_description": "From toggles to pushbuttons, rockers to micro switches, APEM develops and produces one of the widest ranges of interfaces dedicated to panels.",
+    "price": 2100,
+    "category": "automation",
+    "brand": "APEM",
+    "free_shipping": true,
+    "rating": "4.2"
+  },
+  {
+    "product_name": "FT1A smartAxis",
+    "product_image": "https://5.imimg.com/data5/RC/LI/PW/SELLER-1781461/smart-axis-touch-idec-250x250.jpg",
+    "product_description": "Maximum locking force and compact packaging combined with the industry’s best strength-to-size ratio make this switch ideal for safeguarding machinery and equipment.",
+    "price": 9899,
+    "category": "automation",
+    "brand": "APEM",
+    "free_shipping": false,
+    "rating": "4"
+  },
+  {
+    "product_name": "SX8R Bus coupler module",
+    "product_image": "https://www.cpecn.com/wp-content/uploads/2024/07/IDEC-Press-Release-SX8R-Bus-Coupler-ECB4-jp08-v2-1024x850.jpg",
+    "product_description": "The APEM SE2L safety laser scanner is the smallest in the world, while outperforming most of the competition. Features include a 270-degree sensing angle",
+    "price": 3300,
+    "category": "automation",
+    "brand": "APEM",
+    "free_shipping": true,
+    "rating": "5"
+  },
+  {
+    "product_name": "FL1F Smart Relay",
+    "product_image": "https://in.element14.com/productimages/large/en_US/72Y0238-40.jpg",
+    "product_description": "From toggles to pushbuttons, rockers to micro switches, APEM develops and produces one of the widest ranges of interfaces dedicated to panels.",
+    "price": 11500,
+    "category": "automation",
+    "brand": "APEM",
+    "free_shipping": true,
+    "rating": "4.5"
+  },
+  {
+    "product_name": "HS1T Heavy Duty Locking",
+    "product_image": "https://eterna.co.id/img/product/HS6E%20Submniature%20Locking.jpg",
+    "product_description": "Maximum locking force and compact packaging combined with the industry’s best strength-to-size ratio make this switch ideal for safeguarding machinery and equipment.",
+    "price": 3600,
+    "category": "Safety & Explosion Protection",
+    "brand": "APEM",
+    "free_shipping": true,
+    "rating": "4.2"
+  },
+  {
+    "product_name": "HS6B Subminiature",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2021/4/YG/DE/EP/2172111/hs5l-miniature-locking-500x500.png",
+    "product_description": "The HS6B is the smallest three-contact enabling switch currently on the market, and will fit in even the tightest areas, so you have safety in every necessary location.",
+    "price": 7000,
+    "category": "Safety & Explosion Protection",
+    "brand": "APEM",
+    "free_shipping": false,
+    "rating": "4.1"
+  },
+  {
+    "product_name": "SE2L Series",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2021/4/HI/ZL/UA/2172111/rotary-encoder-n58.png",
+    "product_description": "The APEM SE2L safety laser scanner is the smallest in the world, while outperforming most of the competition. Features include a 270-degree sensing angle",
+    "price": 17500,
+    "category": "Safety & Explosion Protection",
+    "brand": "APEM",
+    "free_shipping": true,
+    "rating": "4.5"
+  },
+  {
+    "product_name": "HW 22mm Heavy-Duty",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2021/2/AP/XL/JH/67130572/cw-flush-silhouette-image.jpg",
+    "product_description": "Building on a long history of pushbutton dominance, APEM offers its internationally rated 22mm pushbuttons and pilot devices, the HW series.",
+    "price": 1200,
+    "category": "Switches",
+    "brand": "APEM",
+    "free_shipping": true,
+    "rating": "4"
+  },
+  {
+    "product_name": "LB 16mm Space-saving",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2022/12/TB/QV/BV/8031733/idec-model-abn6111g.jpg",
+    "product_description": "With a choice of metallic or black plastic bezels, and flush or standard mounting, our newest 16mm switches add style and safety to any application.",
+    "price": 2300,
+    "category": "Switches",
+    "brand": "APEM",
+    "free_shipping": false,
+    "rating": "4.7"
+  },
+  {
+    "product_name": "A6 16mm Unibody Light-Duty",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2021/4/DF/CP/GG/2172111/30mm-twn-pilot-light-500x500.png",
+    "product_description": "The A6 series of pushbuttons and pilot devices offer a very competitive price and simple construction in a space saving package.",
+    "price": 1100,
+    "category": "Switches",
+    "brand": "APEM",
+    "free_shipping": true,
+    "rating": "4.8"
+  },
+  {
+    "product_name": "HW 22mm Heavy-Duty",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2021/2/AP/XL/JH/67130572/cw-flush-silhouette-image.jpg",
+    "product_description": "Building on a long history of pushbutton dominance, TOKYO SENSOR offers its internationally rated 22mm pushbuttons and pilot devices, the HW series.",
+    "price": 1000,
+    "category": "Switches",
+    "brand": "TOKYO SENSOR",
+    "free_shipping": true,
+    "rating": "4"
+  },
+  {
+    "product_name": "LB 16mm Space-saving",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2022/12/TB/QV/BV/8031733/idec-model-abn6111g.jpg",
+    "product_description": "With a choice of metallic or black plastic bezels, and flush or standard mounting, our newest 16mm switches add style and safety to any application.",
+    "price": 2300,
+    "category": "Switches",
+    "brand": "TOKYO SENSOR",
+    "free_shipping": false,
+    "rating": "4.7"
+  },
+  {
+    "product_name": "A6 16mm Unibody Light-Duty",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2021/4/DF/CP/GG/2172111/30mm-twn-pilot-light-500x500.png",
+    "product_description": "The A6 series of pushbuttons and pilot devices offer a very competitive price and simple construction in a space saving package.",
+    "price": 1500,
+    "category": "Switches",
+    "brand": "TOKYO SENSOR",
+    "free_shipping": true,
+    "rating": "4.8"
+  },
+  {
+    "product_name": "NC1V Series",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2021/4/HI/ZL/UA/2172111/rotary-encoder-n58.png",
+    "product_description": "DIN rail mount with finger safe spring up screw terminals and trip current ratings up to 30A. Available in 1, 2 or 3 poles. Optional direct panel mount kit available.",
+    "price": 17500,
+    "category": "Indstrial Components",
+    "brand": "TOKYO SENSOR",
+    "free_shipping": true,
+    "rating": "4.2"
+  },
+  {
+    "product_name": "NRA Series",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2021/2/AP/XL/JH/67130572/cw-flush-silhouette-image.jpg",
+    "product_description": "The NRA series of circuit breakers offer the ultimate in flexibility. Different actuator styles allow for differentiation of look and feel.",
+    "price": 1200,
+    "category": "Indstrial Components",
+    "brand": "TOKYO SENSOR",
+    "free_shipping": false,
+    "rating": "5"
+  },
+  {
+    "product_name": "NRBM Series",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2022/12/TB/QV/BV/8031733/idec-model-abn6111g.jpg",
+    "product_description": "The NRBM series of circuit breakers feature stud termination for extra reliability in terminating wires.",
+    "price": 2300,
+    "category": "Indstrial Components",
+    "brand": "TOKYO SENSOR",
+    "free_shipping": true,
+    "rating": "4.3"
+  },
+  {
+    "product_name": "NRF Series",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2021/4/DF/CP/GG/2172111/30mm-twn-pilot-light-500x500.png",
+    "product_description": "The A6 series of pushbuttons and pilot devices offer a very competitive price and simple construction in a space saving package.",
+    "price": 1500,
+    "category": "Indstrial Components",
+    "brand": "TOKYO SENSOR",
+    "free_shipping": true,
+    "rating": "4"
+  },
+  {
+    "product_name": "FC6A MicroSmart",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2020/10/OP/EH/JI/8277378/idec-fc6a-microsmart-plc-500x500.jpg",
+    "product_description": "From toggles to pushbuttons, rockers to micro switches, TOKYO SENSOR develops and produces one of the widest ranges of interfaces dedicated to panels.",
+    "price": 2100,
+    "category": "automation",
+    "brand": "TOKYO SENSOR",
+    "free_shipping": true,
+    "rating": "4.2"
+  },
+  {
+    "product_name": "FT1A smartAxis",
+    "product_image": "https://5.imimg.com/data5/RC/LI/PW/SELLER-1781461/smart-axis-touch-idec-250x250.jpg",
+    "product_description": "Maximum locking force and compact packaging combined with the industry’s best strength-to-size ratio make this switch ideal for safeguarding machinery and equipment.",
+    "price": 9899,
+    "category": "automation",
+    "brand": "TOKYO SENSOR",
+    "free_shipping": false,
+    "rating": "4"
+  },
+  {
+    "product_name": "SX8R Bus coupler module",
+    "product_image": "https://www.cpecn.com/wp-content/uploads/2024/07/IDEC-Press-Release-SX8R-Bus-Coupler-ECB4-jp08-v2-1024x850.jpg",
+    "product_description": "The TOKYO SENSOR SE2L safety laser scanner is the smallest in the world, while outperforming most of the competition. Features include a 270-degree sensing angle",
+    "price": 3000,
+    "category": "automation",
+    "brand": "TOKYO SENSOR",
+    "free_shipping": true,
+    "rating": "5"
+  },
+  {
+    "product_name": "FL1F Smart Relay",
+    "product_image": "https://in.element14.com/productimages/large/en_US/72Y0238-40.jpg",
+    "product_description": "From toggles to pushbuttons, rockers to micro switches, TOKYO SENSOR develops and produces one of the widest ranges of interfaces dedicated to panels.",
+    "price": 13500,
+    "category": "automation",
+    "brand": "TOKYO SENSOR",
+    "free_shipping": true,
+    "rating": "4.5"
+  },
+  {
+    "product_name": "HS1T Heavy Duty Locking",
+    "product_image": "https://eterna.co.id/img/product/HS6E%20Submniature%20Locking.jpg",
+    "product_description": "Maximum locking force and compact packaging combined with the industry’s best strength-to-size ratio make this switch ideal for safeguarding machinery and equipment.",
+    "price": 3000,
+    "category": "Safety & Explosion Protection",
+    "brand": "TOKYO SENSOR",
+    "free_shipping": true,
+    "rating": "4.2"
+  },
+  {
+    "product_name": "HS6B Subminiature",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2021/4/YG/DE/EP/2172111/hs5l-miniature-locking-500x500.png",
+    "product_description": "The HS6B is the smallest three-contact enabling switch currently on the market, and will fit in even the tightest areas, so you have safety in every necessary location.",
+    "price": 7000,
+    "category": "Safety & Explosion Protection",
+    "brand": "TOKYO SENSOR",
+    "free_shipping": false,
+    "rating": "4.1"
+  },
+  {
+    "product_name": "SE2L Series",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2021/4/HI/ZL/UA/2172111/rotary-encoder-n58.png",
+    "product_description": "The TOKYO SENSOR SE2L safety laser scanner is the smallest in the world, while outperforming most of the competition. Features include a 270-degree sensing angle",
+    "price": 12300,
+    "category": "Safety & Explosion Protection",
+    "brand": "TOKYO SENSOR",
+    "free_shipping": true,
+    "rating": "4.5"
+  },
+  {
+    "product_name": "HS1T Heavy Duty Locking",
+    "product_image": "https://eterna.co.id/img/product/HS6E%20Submniature%20Locking.jpg",
+    "product_description": "Maximum locking force and compact packaging combined with the industry’s best strength-to-size ratio make this switch ideal for safeguarding machinery and equipment.",
+    "price": 3000,
+    "category": "Safety & Explosion Protection",
+    "brand": "welcat",
+    "free_shipping": true,
+    "rating": "4.2"
+  },
+  {
+    "product_name": "HS6B Subminiature",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2021/4/YG/DE/EP/2172111/hs5l-miniature-locking-500x500.png",
+    "product_description": "The HS6B is the smallest three-contact enabling switch currently on the market, and will fit in even the tightest areas, so you have safety in every necessary location.",
+    "price": 7000,
+    "category": "Safety & Explosion Protection",
+    "brand": "welcat",
+    "free_shipping": false,
+    "rating": "4.1"
+  },
+  {
+    "product_name": "SE2L Series",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2021/4/HI/ZL/UA/2172111/rotary-encoder-n58.png",
+    "product_description": "The welcat SE2L safety laser scanner is the smallest in the world, while outperforming most of the competition. Features include a 270-degree sensing angle",
+    "price": 11500,
+    "category": "Safety & Explosion Protection",
+    "brand": "welcat",
+    "free_shipping": true,
+    "rating": "4.5"
+  },
+  {
+    "product_name": "HW 22mm Heavy-Duty",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2021/2/AP/XL/JH/67130572/cw-flush-silhouette-image.jpg",
+    "product_description": "Building on a long history of pushbutton dominance, welcat offers its internationally rated 22mm pushbuttons and pilot devices, the HW series.",
+    "price": 1200,
+    "category": "Switches",
+    "brand": "welcat",
+    "free_shipping": true,
+    "rating": "4"
+  },
+  {
+    "product_name": "LB 16mm Space-saving",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2022/12/TB/QV/BV/8031733/idec-model-abn6111g.jpg",
+    "product_description": "With a choice of metallic or black plastic bezels, and flush or standard mounting, our newest 16mm switches add style and safety to any application.",
+    "price": 2300,
+    "category": "Switches",
+    "brand": "welcat",
+    "free_shipping": false,
+    "rating": "4.7"
+  },
+  {
+    "product_name": "A6 16mm Unibody Light-Duty",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2021/4/DF/CP/GG/2172111/30mm-twn-pilot-light-500x500.png",
+    "product_description": "The A6 series of pushbuttons and pilot devices offer a very competitive price and simple construction in a space saving package.",
+    "price": 1500,
+    "category": "Switches",
+    "brand": "welcat",
+    "free_shipping": true,
+    "rating": "4.8"
+  },
+  {
+    "product_name": "NC1V Series",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2021/4/HI/ZL/UA/2172111/rotary-encoder-n58.png",
+    "product_description": "DIN rail mount with finger safe spring up screw terminals and trip current ratings up to 30A. Available in 1, 2 or 3 poles. Optional direct panel mount kit available.",
+    "price": 17500,
+    "category": "Indstrial Components",
+    "brand": "welcat",
+    "free_shipping": true,
+    "rating": "4.2"
+  },
+  {
+    "product_name": "NRA Series",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2021/2/AP/XL/JH/67130572/cw-flush-silhouette-image.jpg",
+    "product_description": "The NRA series of circuit breakers offer the ultimate in flexibility. Different actuator styles allow for differentiation of look and feel.",
+    "price": 1200,
+    "category": "Indstrial Components",
+    "brand": "welcat",
+    "free_shipping": false,
+    "rating": "5"
+  },
+  {
+    "product_name": "NRBM Series",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2022/12/TB/QV/BV/8031733/idec-model-abn6111g.jpg",
+    "product_description": "The NRBM series of circuit breakers feature stud termination for extra reliability in terminating wires.",
+    "price": 2300,
+    "category": "Indstrial Components",
+    "brand": "welcat",
+    "free_shipping": true,
+    "rating": "4.3"
+  },
+  {
+    "product_name": "NRF Series",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2021/4/DF/CP/GG/2172111/30mm-twn-pilot-light-500x500.png",
+    "product_description": "The A6 series of pushbuttons and pilot devices offer a very competitive price and simple construction in a space saving package.",
+    "price": 1500,
+    "category": "Indstrial Components",
+    "brand": "welcat",
+    "free_shipping": true,
+    "rating": "4"
+  },
+  {
+    "product_name": "FC6A MicroSmart",
+    "product_image": "https://5.imimg.com/data5/SELLER/Default/2020/10/OP/EH/JI/8277378/idec-fc6a-microsmart-plc-500x500.jpg",
+    "product_description": "From toggles to pushbuttons, rockers to micro switches, welcat develops and produces one of the widest ranges of interfaces dedicated to panels.",
+    "price": 2100,
+    "category": "automation",
+    "brand": "welcat",
+    "free_shipping": true,
+    "rating": "4.2"
+  },
+  {
+    "product_name": "FT1A smartAxis",
+    "product_image": "https://5.imimg.com/data5/RC/LI/PW/SELLER-1781461/smart-axis-touch-idec-250x250.jpg",
+    "product_description": "Maximum locking force and compact packaging combined with the industry’s best strength-to-size ratio make this switch ideal for safeguarding machinery and equipment.",
+    "price": 9899,
+    "category": "automation",
+    "brand": "welcat",
+    "free_shipping": false,
+    "rating": "4"
+  },
+  {
+    "product_name": "SX8R Bus coupler module",
+    "product_image": "https://www.cpecn.com/wp-content/uploads/2024/07/IDEC-Press-Release-SX8R-Bus-Coupler-ECB4-jp08-v2-1024x850.jpg",
+    "product_description": "The welcat SE2L safety laser scanner is the smallest in the world, while outperforming most of the competition. Features include a 270-degree sensing angle",
+    "price": 3000,
+    "category": "automation",
+    "brand": "welcat",
+    "free_shipping": true,
+    "rating": "5"
+  },
+  {
+    "product_name": "FL1F Smart Relay",
+    "product_image": "https://in.element14.com/productimages/large/en_US/72Y0238-40.jpg",
+    "product_description": "From toggles to pushbuttons, rockers to micro switches, welcat develops and produces one of the widest ranges of interfaces dedicated to panels.",
+    "price": 11500,
+    "category": "automation",
+    "brand": "welcat",
+    "free_shipping": true,
+    "rating": "4.5"
+  }
+]

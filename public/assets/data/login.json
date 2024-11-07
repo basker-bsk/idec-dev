@@ -1,0 +1,69 @@
+{
+  "data": {
+    "landingPageIdecCollection": {
+      "items": [
+        {
+          "lpTitle": "Login Page Global",
+          "lpPageTitle": "Login",
+          "lpSeoTitle": null,
+          "lpSeoDescription": null,
+          "lpCanonicalUrl": null,
+          "lpFeaturedImage": null,
+          "lpNoIndex": false,
+          "lpNoFollow": false,
+          "lpComponentsCollection": {
+            "items": [
+              {
+                "__typename": "PreloginForm",
+                "plintroText": null,
+                "plDescription": {
+                  "json": {
+                    "data": {},
+                    "content": [
+                      {
+                        "data": {},
+                        "content": [
+                          {
+                            "data": {},
+                            "marks": [],
+                            "value": "Registration is for individual users only. For company accounts, contact your administrator.",
+                            "nodeType": "text"
+                          }
+                        ],
+                        "nodeType": "paragraph"
+                      }
+                    ],
+                    "nodeType": "document"
+                  }
+                },
+                "plpageName": "Login Page IDEC",
+                "plHeading": "Login now to access exclusive benefits!",
+                "plFeatures": [
+                  {
+                    "id": "ff5f202b-80a1-4cff-a80b-aa464650764d",
+                    "key": "Personalized Experience",
+                    "value": ""
+                  },
+                  {
+                    "id": "f443bfbd-3313-4544-ab16-eac4a47cd727",
+                    "key": "Quick Access",
+                    "value": ""
+                  },
+                  {
+                    "id": "c1d070eb-bc68-4195-b8c8-4172ceb15578",
+                    "key": "Manage Your Membership",
+                    "value": ""
+                  }
+                ],
+                "plbackgroundImage": {
+                  "title": "Prelogin Background",
+                  "url": "https://images.ctfassets.net/fg4hnnyn9urp/2DnJCnxDlngKd4jKZX3RJb/4e8efa140e5f7f689292e2807f49b392/prelogin_BG.png"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

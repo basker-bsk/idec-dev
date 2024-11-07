@@ -1,0 +1,50 @@
+{
+    "accountMenu": [
+        {
+            "name": "Personal",
+            "children": [
+                {
+                    "name": "My Profile",
+                    "link": ""
+                },
+                {
+                    "name": "Inbox",
+                    "link": ""
+                },
+                {
+                    "name": "Orders",
+                    "link": ""
+                },
+                {
+                    "name": "Saved Carts",
+                    "link": ""
+                },
+                {
+                    "name": "Address Book",
+                    "link": ""
+                },
+                {
+                    "name": "Payment Details",
+                    "link": ""
+                }
+            ]
+        },
+        {
+            "name": "Company",
+            "children": [
+                {
+                    "name": "Manage Accounts",
+                    "link": ""
+                },
+                {
+                    "name": "Orders",
+                    "link": ""
+                },
+                {
+                    "name": "Invoices",
+                    "link": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+  "__typename": "Columns",
+  "clmTitle": "What are you looking for?",
+  "clmContentsCollection": {
+    "items": [
+      {
+        "__typename": "Card",
+        "cdDescription": {
+          "json": {
+            "data": {},
+            "content": [
+              {
+                "data": {},
+                "content": [
+                  {
+                    "data": {},
+                    "marks": [],
+                    "value": "All the technical documentation you need to make things work.",
+                    "nodeType": "text"
+                  }
+                ],
+                "nodeType": "paragraph"
+              }
+            ],
+            "nodeType": "document"
+          }
+        },
+        "cdTitle": "Resources & Documents",
+        "cdStyle": "Help links",
+        "cdBadge": null,
+        "cdOverline1": null,
+        "cdOverline2": null,
+        "cdLink": {
+          "linkText": "Resources & Documents",
+          "linkId": null,
+          "linkUrl": "/resources-documents",
+          "linkIcon": null,
+          "linkStyle": "Link",
+          "linkClass": null,
+          "linkNewWindow": false
+        },
+        "cdImage": {
+          "title": "Resources & Documents",
+          "url": "https://images.ctfassets.net/fg4hnnyn9urp/6dwPa35psKtgEnPJ3GkGqc/a154b48a8903a2019b5a9a885054d4c6/resources-documents.png"
+        }
+      },
+      {
+        "__typename": "Card",
+        "cdDescription": {
+          "json": {
+            "data": {},
+            "content": [
+              {
+                "data": {},
+                "content": [
+                  {
+                    "data": {},
+                    "marks": [],
+                    "value": "Our sales and support set the standard for helping you.",
+                    "nodeType": "text"
+                  }
+                ],
+                "nodeType": "paragraph"
+              }
+            ],
+            "nodeType": "document"
+          }
+        },
+        "cdTitle": "Support",
+        "cdStyle": "Help links",
+        "cdBadge": null,
+        "cdOverline1": null,
+        "cdOverline2": null,
+        "cdLink": {
+          "linkText": "Support",
+          "linkId": null,
+          "linkUrl": "/support",
+          "linkIcon": null,
+          "linkStyle": "Link",
+          "linkClass": null,
+          "linkNewWindow": false
+        },
+        "cdImage": {
+          "title": "Support",
+          "url": "https://images.ctfassets.net/fg4hnnyn9urp/2GCs3klYCyD3XD1YI5mpex/01e582581e8cdaf6c388b48776d15620/support.png"
+        }
+      },
+      {
+        "__typename": "Card",
+        "cdDescription": {
+          "json": {
+            "data": {},
+            "content": [
+              {
+                "data": {},
+                "content": [
+                  {
+                    "data": {},
+                    "marks": [],
+                    "value": "If you have questions or suggestions, we’re here to listen. ",
+                    "nodeType": "text"
+                  }
+                ],
+                "nodeType": "paragraph"
+              }
+            ],
+            "nodeType": "document"
+          }
+        },
+        "cdTitle": "Contact Us",
+        "cdStyle": "Help links",
+        "cdBadge": null,
+        "cdOverline1": null,
+        "cdOverline2": null,
+        "cdLink": {
+          "linkText": "Contact Us",
+          "linkId": null,
+          "linkUrl": "/contact-us",
+          "linkIcon": null,
+          "linkStyle": "Link",
+          "linkClass": null,
+          "linkNewWindow": false
+        },
+        "cdImage": {
+          "title": "Contact Us",
+          "url": "https://images.ctfassets.net/fg4hnnyn9urp/1oKWdvU1TtCx5YtV5SHCXk/862ba4a00dad36473decafcf9d081f0f/contact-us.png"
+        }
+      }
+    ]
+  }
+}

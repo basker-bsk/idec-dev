@@ -1,0 +1,28 @@
+{
+    "languages": [
+        {
+            "name": "English - EN",
+            "code": "EN"
+        },
+        {
+            "name": "中国人 - ZH_CN",
+            "code": "CN"
+        },
+        {
+            "name": "台湾 - ZH_TW",
+            "code": "TW"
+        },
+        {
+            "name": "日本語 - JA",
+            "code": "JA"
+        },
+        {
+            "name": "Francais - FR",
+            "code": "FR"
+        },
+        {
+            "name": "German - DE",
+            "code": "DE"
+        }
+    ]
+}

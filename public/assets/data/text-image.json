@@ -1,0 +1,50 @@
+{
+  "__typename": "TextImage",
+  "tiDescription": {
+    "json": {
+      "nodeType": "document",
+      "data": {},
+      "content": [
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "As a steadfast supplier to the automotive industry, IDEC combines both its technology achievements and customer experience insights to develop the most reliable products.",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "tiOverline": "INDUSTRIES",
+  "tiTitle": "Automotive",
+  "tiImagePosition": "Right",
+  "tiButton": {
+    "linkText": "Read More",
+    "linkId": null,
+    "linkUrl": "https://idec.com/read-more",
+    "linkStyle": "Button",
+    "linkClass": null,
+    "linkNewWindow": false
+  },
+  "tiLink": {
+    "linkText": "See All Industries",
+    "linkId": null,
+    "linkUrl": "https://idec.com/industries",
+    "linkStyle": "Button",
+    "linkClass": null,
+    "linkNewWindow": false
+  },
+  "tiImageDesktop": {
+    "title": "Industries Automotive",
+    "url": "https://images.ctfassets.net/fg4hnnyn9urp/67m10Hd7PFyxkJz2wG6U3k/84a7ade0ba252c6757743f128a81a305/industries-automotives.png"
+  },
+  "tiImageMobile": {
+    "title": "Industries Automotive",
+    "url": "https://images.ctfassets.net/fg4hnnyn9urp/67m10Hd7PFyxkJz2wG6U3k/84a7ade0ba252c6757743f128a81a305/industries-automotives.png"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "category": "Industries",
+  "title": "Qulaity products that help systems work smarter",
+  "cta": "See all industries",
+  "categories": [
+    {
+      "title": "Automative",
+      "desc": "No matter your industry, APEM have the solutions you need to enhance productivity, efficiency, and user satisfaction. From material handling to defense, we tailor our HMIs to fit your unique industrial needs. Our extensive portfolio of products caters to a wide range of industries, including defense, agricultural machinery, medical, new mobility, material handling, and much more. "
+    },
+    {
+      "title": "Medical & Healthcare",
+      "desc": "Because they need to have complete confidence in their equipment, medical staff expect robust, certified, safe, customized and easy-to-clean devices."
+    },
+    {
+      "title": "Public Environment",
+      "desc": "Sturdy, intuitive and custom HMI solutions that can withstand massive use, indoors and outdoors, to ensure that users will enjoy the best possible experience."
+    },
+    {
+      "title": "Construction Machinery",
+      "desc": "Our large product range offers unique customization possibilities to help you build ergonomic and intuitive cabin experience and increase productivity."
+    },
+    {
+      "title": "Agricultural Machinery",
+      "desc": "Equip your agricultural vehicles and machinery with reliable and ergonomic HMIS for intuitive control and reduced operator fatigue."
+    },
+    {
+      "title": "Material Handling",
+      "desc": "Benefit from one of the widest ranges of human-machine interfaces, whose robustness and ergonomics maximize operator comfort, increase productivity and reduce safety risks."
+    },
+    {
+      "title": "Defense",
+      "desc": "Explore our large range of combat-proven MIL-grade HMIs capable of operating under extreme conditions."
+    },
+    {
+      "title": "New Mobility & Public Transport",
+      "desc": "The integration of innovative and high performance HMIs contributes to the creation of a new mobility experience, providing ease of use, connectivity and increased safety."
+    }
+  ]
+}

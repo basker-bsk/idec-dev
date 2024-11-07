@@ -1,0 +1,254 @@
+{
+    "data": {
+      "footerCollection": {
+        "items": [
+          {
+            "ftName": "Footer - IDEC - Global",
+            "ftIntroText": "We provides advanced automation solutions, including PLCs and sensors, ensuring efficiency and innovation in industrial control and safety.",
+            "ftCopyrightText": "&copy; 2024 IDEC Corporation",
+            "ftLogo": {
+              "title": "IDEC Red logo",
+              "url": "https://images.ctfassets.net/fg4hnnyn9urp/4yAkjh1RP7CtQkc5jyXwjw/5b3ab557780be208f58f19f00bb6e883/idec-logo-red.png"
+            },
+            "ftQrCode": {
+              "title": "QR - IDEC",
+              "url": "https://images.ctfassets.net/fg4hnnyn9urp/53fXoEMlbGiqCV4eqR8VHK/e303f515c40adf895d6ca15455b28ac5/IDEC___QR.png"
+            },
+            "ftSocialMediaLinksCollection": {
+              "items": [
+                {
+                  "linkText": "Youtube",
+                  "linkUrl": "https://www.youtube.com/@IDEC",
+                  "linkStyle": "Link",
+                  "linkNewWindow": true,
+                  "linkIcon": null,
+                  "linkClass": null,
+                  "linkId": "socialmedia-youtube"
+                },
+                {
+                  "linkText": "LinkedIn",
+                  "linkUrl": "https://linkedin.com/idec",
+                  "linkStyle": "Link",
+                  "linkNewWindow": true,
+                  "linkIcon": null,
+                  "linkClass": null,
+                  "linkId": "socialmedia-linkedin"
+                }
+              ]
+            },
+            "ftBottomNavigation": {
+              "menusTitle": "Footer bottom navigation",
+              "menusDescription": null,
+              "menusItemsCollection": {
+                "items": [
+                  {
+                    "linkText": "Privacy Policy",
+                    "linkUrl": "https://idec.com/privacy-policy",
+                    "linkNewWindow": false,
+                    "linkIcon": null,
+                    "linkClass": null,
+                    "linkId": null
+                  },
+                  {
+                    "linkText": "Terms and Conditions of Order and Use",
+                    "linkUrl": "https://idec.com/terms-and-conditions-of-order-and-use",
+                    "linkNewWindow": false,
+                    "linkIcon": null,
+                    "linkClass": null,
+                    "linkId": null
+                  },
+                  {
+                    "linkText": "Membership Agreement",
+                    "linkUrl": "https://idec.com/membership-agreement",
+                    "linkNewWindow": false,
+                    "linkIcon": null,
+                    "linkClass": null,
+                    "linkId": null
+                  }
+                ]
+              }
+            },
+            "ftNavigationCollection": {
+              "items": [
+                {
+                  "menusTitle": "Support ",
+                  "menusDescription": "Menu for footer",
+                  "menusItemsCollection": {
+                    "items": [
+                      {
+                        "linkText": "FAQs",
+                        "linkUrl": "https://idec.com/support/faqs",
+                        "linkStyle": "Link",
+                        "linkSubText": null,
+                        "linkNewWindow": false,
+                        "linkIcon": null,
+                        "linkClass": null,
+                        "linkId": null
+                      },
+                      {
+                        "linkText": "Contact Us",
+                        "linkUrl": "https://idec.com/support/contact-us",
+                        "linkStyle": "Link",
+                        "linkSubText": null,
+                        "linkNewWindow": false,
+                        "linkIcon": null,
+                        "linkClass": null,
+                        "linkId": null
+                      },
+                      {
+                        "linkText": "Distributor Locator",
+                        "linkUrl": "https://idec.com/support/distributor-locator",
+                        "linkStyle": "Link",
+                        "linkSubText": null,
+                        "linkNewWindow": false,
+                        "linkIcon": null,
+                        "linkClass": null,
+                        "linkId": null
+                      },
+                      {
+                        "linkText": "Unauthorised Channels",
+                        "linkUrl": "https://idec.com/support/unauthorised-channels",
+                        "linkStyle": "Link",
+                        "linkSubText": null,
+                        "linkNewWindow": false,
+                        "linkIcon": null,
+                        "linkClass": null,
+                        "linkId": null
+                      }
+                    ]
+                  }
+                },
+                {
+                  "menusTitle": "Downloadable",
+                  "menusDescription": null,
+                  "menusItemsCollection": {
+                    "items": [
+                      {
+                        "linkText": "CAD Files",
+                        "linkUrl": "/resources/cad-files",
+                        "linkStyle": "Link",
+                        "linkSubText": null,
+                        "linkNewWindow": false,
+                        "linkIcon": null,
+                        "linkClass": null,
+                        "linkId": null
+                      },
+                      {
+                        "linkText": "Catalogs & Brochures",
+                        "linkUrl": "/resources/catalogs-brochures",
+                        "linkStyle": "Link",
+                        "linkSubText": null,
+                        "linkNewWindow": false,
+                        "linkIcon": null,
+                        "linkClass": null,
+                        "linkId": null
+                      },
+                      {
+                        "linkText": "Software Updates",
+                        "linkUrl": "/software-updates",
+                        "linkStyle": "Link",
+                        "linkSubText": null,
+                        "linkNewWindow": false,
+                        "linkIcon": null,
+                        "linkClass": null,
+                        "linkId": null
+                      },
+                      {
+                        "linkText": "Certifications",
+                        "linkUrl": "/resources/certifications",
+                        "linkStyle": "Link",
+                        "linkSubText": null,
+                        "linkNewWindow": false,
+                        "linkIcon": null,
+                        "linkClass": null,
+                        "linkId": null
+                      },
+                      {
+                        "linkText": "User Manual",
+                        "linkUrl": "/resources/user-manual",
+                        "linkStyle": "Link",
+                        "linkSubText": null,
+                        "linkNewWindow": false,
+                        "linkIcon": null,
+                        "linkClass": null,
+                        "linkId": null
+                      }
+                    ]
+                  }
+                },
+                {
+                  "menusTitle": "About IDEC",
+                  "menusDescription": null,
+                  "menusItemsCollection": {
+                    "items": [
+                      {
+                        "linkText": "CEO Message",
+                        "linkUrl": "/ceo-message",
+                        "linkStyle": "Link",
+                        "linkSubText": null,
+                        "linkNewWindow": false,
+                        "linkIcon": null,
+                        "linkClass": null,
+                        "linkId": null
+                      },
+                      {
+                        "linkText": "Who We Are",
+                        "linkUrl": "/who-we-are",
+                        "linkStyle": "Link",
+                        "linkSubText": null,
+                        "linkNewWindow": false,
+                        "linkIcon": null,
+                        "linkClass": null,
+                        "linkId": null
+                      },
+                      {
+                        "linkText": "Our History",
+                        "linkUrl": "/our-history",
+                        "linkStyle": "Link",
+                        "linkSubText": null,
+                        "linkNewWindow": false,
+                        "linkIcon": null,
+                        "linkClass": null,
+                        "linkId": null
+                      },
+                      {
+                        "linkText": "Our Vision",
+                        "linkUrl": "/our-vision",
+                        "linkStyle": "Link",
+                        "linkSubText": null,
+                        "linkNewWindow": false,
+                        "linkIcon": null,
+                        "linkClass": null,
+                        "linkId": null
+                      },
+                      {
+                        "linkText": "Our Investors",
+                        "linkUrl": "/our-investors",
+                        "linkStyle": "Link",
+                        "linkSubText": null,
+                        "linkNewWindow": false,
+                        "linkIcon": null,
+                        "linkClass": null,
+                        "linkId": null
+                      },
+                      {
+                        "linkText": "Sustainability",
+                        "linkUrl": "/sustainability",
+                        "linkStyle": "Link",
+                        "linkSubText": null,
+                        "linkNewWindow": false,
+                        "linkIcon": null,
+                        "linkClass": null,
+                        "linkId": null
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+  

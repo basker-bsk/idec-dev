@@ -1,0 +1,1685 @@
+{
+    "results": [
+        {
+            "hits": [
+                {
+                    "name": "Apple - MacBook Air® (Latest Model) - 13.3\" Display - Intel Core i5 - 8GB Memory - 128GB Flash Storage - Silver",
+                    "description": "MacBook Air features up to 8GB of memory, a fifth-generation Intel Core processor, Thunderbolt 2, great built-in apps, and all-day battery life.1 Its thin, light, and durable enough to take everywhere you go-and powerful enough to do everything once you get there, better.",
+                    "brand": "Apple",
+                    "categories": [
+                        "Computers & Tablets",
+                        "Laptops",
+                        "All Laptops",
+                        "MacBooks"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "Computers & Tablets",
+                        "lvl1": "Computers & Tablets > Laptops",
+                        "lvl2": "Computers & Tablets > Laptops > All Laptops",
+                        "lvl3": "Computers & Tablets > Laptops > All Laptops > MacBooks"
+                    },
+                    "type": "Apple",
+                    "price": 999.99,
+                    "price_range": "500 - 2000",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/6443034_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/6443034/pdp",
+                    "free_shipping": true,
+                    "rating": 4,
+                    "popularity": 21465,
+                    "_geoloc": {
+                        "lat": 40.748817,
+                        "lng": -73.985428
+                    },
+                    "objectID": "6443034",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "MacBook Air features up to 8GB of memory, a fifth",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "Apple - MacBook Air® (Latest Model) - 13.3\" Display - Intel Core i5 - 8GB Memory - 128GB Flash Storage - Silver",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "MacBook Air features up to 8GB of memory, a fifth-generation Intel Core processor, Thunderbolt 2, great built-in apps, and all-day battery life.1 Its thin, light, and durable enough to take everywhere you go-and powerful enough to do everything once you get there, better.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "Apple",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "Computers & Tablets",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "Laptops",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "All Laptops",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "MacBooks",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "Apple - EarPods™ with Remote and Mic - White",
+                    "description": "Control media playback, adjust the volume and answer and end calls on your Apple&#174; iPod&#174;, iPhone&#174; or iPad&#174; with these Apple EarPods&#8482; MD827LL/A, which feature an in-line remote and mic for ease of use.",
+                    "brand": "Apple",
+                    "categories": [
+                        "Audio",
+                        "Headphones",
+                        "All Headphones"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "Audio",
+                        "lvl1": "Audio > Headphones",
+                        "lvl2": "Audio > Headphones > All Headphones"
+                    },
+                    "type": "Earbud headphones",
+                    "price": 29.99,
+                    "price_range": "1 - 50",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/6848136_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/6848136/pdp",
+                    "free_shipping": true,
+                    "rating": 4,
+                    "popularity": 21462,
+                    "objectID": "6848136",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "Control media playback, adjust the volume and answer and end",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "Apple - EarPods™ with Remote and Mic - White",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Control media playback, adjust the volume and answer and end calls on your Apple® iPod®, iPhone® or iPad® with these Apple EarPods™ MD827LL/A, which feature an in-line remote and mic for ease of use.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "Apple",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "Audio",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "Headphones",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "All Headphones",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "LG - Ultra Slim 8x Max. DVD Write Speed External USB DVD±RW/CD-RW Drive - Black",
+                    "description": "Create archives of your favorite media with ease using this LG Ultra Slim SP80NB60 external DVD&#177;RW/CD-RW Drive, which offers up to 8x DVD&#177;R write speeds. Jamless play skips damaged parts of the disc to ensure smooth, uninterrupted playback.",
+                    "brand": "LG",
+                    "categories": [
+                        "Computers & Tablets",
+                        "Optical Drives",
+                        "External DVD Drives"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "Computers & Tablets",
+                        "lvl1": "Computers & Tablets > Optical Drives",
+                        "lvl2": "Computers & Tablets > Optical Drives > External DVD Drives"
+                    },
+                    "type": "External",
+                    "price": 39.99,
+                    "price_range": "1 - 50",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/5407064_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/5407064/pdp",
+                    "free_shipping": false,
+                    "rating": 4,
+                    "popularity": 21454,
+                    "objectID": "5407064",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "Create archives of your favorite media with ease using this",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "LG - Ultra Slim 8x Max. DVD Write Speed External USB DVD±RW/CD-RW Drive - Black",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Create archives of your favorite media with ease using this LG Ultra Slim SP80NB60 external DVD±RW/CD-RW Drive, which offers up to 8x DVD±R write speeds. Jamless play skips damaged parts of the disc to ensure smooth, uninterrupted playback.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "LG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "Computers & Tablets",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "Optical Drives",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "External DVD Drives",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "Sony - BDP-S3700 - Streaming Wi-Fi Built-In Blu-ray Player - Black",
+                    "description": "Enjoy fast, high-definition media streaming with this Sony Blu-ray disk player optimized with built-in Wi-Fi for smooth video performance. Use your mobile device to remotely control the player, and view the convenient side-bar app for program information. Brilliant color and high-quality details add to watching enjoyment with this Sony Blu-ray disk player.",
+                    "brand": "Sony",
+                    "categories": [
+                        "TV & Home Theater",
+                        "Streaming Media Players"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "TV & Home Theater",
+                        "lvl1": "TV & Home Theater > Streaming Media Players"
+                    },
+                    "type": "Blu-ray",
+                    "price": 89.99,
+                    "price_range": "50 - 100",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/4743301_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/4743301/pdp",
+                    "free_shipping": true,
+                    "rating": 4,
+                    "popularity": 21453,
+                    "objectID": "4743301",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "Enjoy fast, high-definition media streaming with this Sony Blu",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "Sony - BDP-S3700 - Streaming Wi-Fi Built-In Blu-ray Player - Black",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Enjoy fast, high-definition media streaming with this Sony Blu-ray disk player optimized with built-in Wi-Fi for smooth video performance. Use your mobile device to remotely control the player, and view the convenient side-bar app for program information. Brilliant color and high-quality details add to watching enjoyment with this Sony Blu-ray disk player.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "Sony",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "TV & Home Theater",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "Streaming Media Players",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "Insignia™ - 55\" Class - (54.6\" Diag.) - LED - 1080p - HDTV - Black",
+                    "description": "Experience cinema-like viewing from the comfort of your living room with this 55-inch Insignia LED television. It displays Blu-ray and high-definition movies in full 1080p resolution with stunning HD detail. Use the three HDMI inputs to create a home theater experience with this Insignia LED TV and your other audio and video devices.",
+                    "brand": "Insignia™",
+                    "categories": [
+                        "TV & Home Theater",
+                        "TVs",
+                        "All Flat-Panel TVs"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "TV & Home Theater",
+                        "lvl1": "TV & Home Theater > TVs",
+                        "lvl2": "TV & Home Theater > TVs > All Flat-Panel TVs"
+                    },
+                    "type": "51\"-60\" tv's",
+                    "price": 379.99,
+                    "price_range": "200 - 500",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/4806800_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/4806800/pdp",
+                    "free_shipping": false,
+                    "rating": 4,
+                    "popularity": 21452,
+                    "objectID": "4806800",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "Experience cinema-like viewing from the comfort of your living",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "Insignia™ - 55\" Class - (54.6\" Diag.) - LED - 1080p - HDTV - Black",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Experience cinema-like viewing from the comfort of your living room with this 55-inch Insignia LED television. It displays Blu-ray and high-definition movies in full 1080p resolution with stunning HD detail. Use the three HDMI inputs to create a home theater experience with this Insignia LED TV and your other audio and video devices.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "Insignia™",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "TV & Home Theater",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "TVs",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "All Flat-Panel TVs",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "HP - 15.6\" Laptop - AMD A6-Series - 4GB Memory - 500GB Hard Drive - Black",
+                    "description": "HP Laptop: Experience high-powered computing on the go with this HP notebook. Store your favorite videos or music on the 500GB hard drive, and watch HD movies displayed via its AMD Radeon R4 graphics card. The AMD quad-core A6 processor and 4GB of RAM in this HP notebook let it handle your heaviest multitasking workloads.",
+                    "brand": "HP",
+                    "categories": [
+                        "Computers & Tablets",
+                        "Laptops"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "Computers & Tablets",
+                        "lvl1": "Computers & Tablets > Laptops"
+                    },
+                    "type": "Burst skus",
+                    "price": 259.99,
+                    "price_range": "200 - 500",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/5606300_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/5606300/pdp",
+                    "free_shipping": true,
+                    "rating": 4,
+                    "popularity": 21451,
+                    "objectID": "5606300",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "HP Laptop: Experience high-powered computing on the go with",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "HP - 15.6\" Laptop - AMD A6-Series - 4GB Memory - 500GB Hard Drive - Black",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "HP Laptop: Experience high-powered computing on the go with this HP notebook. Store your favorite videos or music on the 500GB hard drive, and watch HD movies displayed via its AMD Radeon R4 graphics card. The AMD quad-core A6 processor and 4GB of RAM in this HP notebook let it handle your heaviest multitasking workloads.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "HP",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "Computers & Tablets",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "Laptops",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "Insignia™ - 32\" Class - (31.5\" Diag.) - LED - 720p - HDTV - Black",
+                    "description": "Insignia&#8482; NS-32D311NA17 LED HDTV:Enjoy high-quality television viewing with this Insignia 32-inch HDTV. The compact size makes this screen easy to integrate into a variety of rooms, including a kitchen or bedroom, for viewing your favorite programs. Boost your program options by adding a streaming stick or other device (not included) to this Insignia 32-inch HDTV.",
+                    "brand": "Insignia™",
+                    "categories": [
+                        "TV & Home Theater",
+                        "TVs",
+                        "All Flat-Panel TVs"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "TV & Home Theater",
+                        "lvl1": "TV & Home Theater > TVs",
+                        "lvl2": "TV & Home Theater > TVs > All Flat-Panel TVs"
+                    },
+                    "type": "Mid 32\" lcd",
+                    "price": 139.99,
+                    "price_range": "100 - 200",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/5326401_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/5326401/pdp",
+                    "free_shipping": false,
+                    "rating": 4,
+                    "popularity": 21448,
+                    "objectID": "5326401",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "Insignia™ NS-32D311NA17 LED HDTV:Enjoy high-quality television",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "Insignia™ - 32\" Class - (31.5\" Diag.) - LED - 720p - HDTV - Black",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Insignia™ NS-32D311NA17 LED HDTV:Enjoy high-quality television viewing with this Insignia 32-inch HDTV. The compact size makes this screen easy to integrate into a variety of rooms, including a kitchen or bedroom, for viewing your favorite programs. Boost your program options by adding a streaming stick or other device (not included) to this Insignia 32-inch HDTV.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "Insignia™",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "TV & Home Theater",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "TVs",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "All Flat-Panel TVs",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "Insignia™ - Portable Wireless Speaker - Black",
+                    "description": "Share music wirelessly with your friends when you pair this Insignia black Bluetooth speaker with your smart device. Use the unit's built-in speakerphone feature to make and answer calls via your connected phone and stay in touch on the go. Charge the battery inside this Insignia black Bluetooth speaker using its integrated USB port for hours of cord-free listening.",
+                    "brand": "Insignia™",
+                    "categories": [
+                        "Audio"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "Audio"
+                    },
+                    "type": "Wireless speakers",
+                    "price": 39.99,
+                    "price_range": "1 - 50",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/5496202_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/5496202/pdp",
+                    "free_shipping": true,
+                    "rating": 4,
+                    "popularity": 21444,
+                    "objectID": "5496202",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "Share music wirelessly with your friends when you pair this",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "Insignia™ - Portable Wireless Speaker - Black",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Share music wirelessly with your friends when you pair this Insignia black Bluetooth speaker with your smart device. Use the unit's built-in speakerphone feature to make and answer calls via your connected phone and stay in touch on the go. Charge the battery inside this Insignia black Bluetooth speaker using its integrated USB port for hours of cord-free listening.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "Insignia™",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "Audio",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "Insignia™ - 92 Bright Multipurpose Paper - White",
+                    "description": "Keep your office machines full and ready with this Insignia&#8482; NS-PPR5006 multipurpose paper, which features acid-free material that helps keep your documents neat. The 8.5\" x 11\" sheets come in a pack of 500, so you have more time between refills.",
+                    "brand": "Insignia™",
+                    "categories": [
+                        "Paper",
+                        "Multipurpose Paper"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "Paper",
+                        "lvl1": "Paper > Multipurpose Paper"
+                    },
+                    "type": "Ream paper",
+                    "price": 5.99,
+                    "price_range": "1 - 50",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/2449084_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/2449084/pdp",
+                    "free_shipping": true,
+                    "rating": 4,
+                    "popularity": 21443,
+                    "objectID": "2449084",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "Keep your office machines full and ready with this Insignia",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "Insignia™ - 92 Bright Multipurpose Paper - White",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Keep your office machines full and ready with this Insignia™ NS-PPR5006 multipurpose paper, which features acid-free material that helps keep your documents neat. The 8.5\" x 11\" sheets come in a pack of 500, so you have more time between refills.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "Insignia™",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "Paper",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "Multipurpose Paper",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "Apple - MacBook Pro with Retina display - 13.3\" Display - 8GB Memory - 128GB Flash Storage - Silver",
+                    "description": "With fifth-generation Intel Core processors, the latest graphics, and faster flash storage, the incredibly advanced MacBook Pro with Retina display moves even further ahead in performance and battery life.*  *Compared with the previous generation.",
+                    "brand": "Apple",
+                    "categories": [
+                        "Name Brands",
+                        "Apple",
+                        "Mac"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "Name Brands",
+                        "lvl1": "Name Brands > Apple",
+                        "lvl2": "Name Brands > Apple > Mac"
+                    },
+                    "type": "Apple",
+                    "price": 1299.99,
+                    "price_range": "500 - 2000",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/8532557_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/8532557/pdp",
+                    "free_shipping": true,
+                    "rating": 4,
+                    "popularity": 21442,
+                    "objectID": "8532557",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "With fifth-generation Intel Core processors, the latest graphics, and",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "Apple - MacBook Pro with Retina display - 13.3\" Display - 8GB Memory - 128GB Flash Storage - Silver",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "With fifth-generation Intel Core processors, the latest graphics, and faster flash storage, the incredibly advanced MacBook Pro with Retina display moves even further ahead in performance and battery life.*  *Compared with the previous generation.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "Apple",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "Name Brands",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "Apple",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "Mac",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "Sony - $20 PlayStation Network Card",
+                    "description": "Broaden the content you enjoy on your PlayStation system with this convenient $20 PlayStation Network Card. Use the card to purchase downloadable games, game add-ons, full-length movies, TV shows and other content that you can play or view on your PlayStation 4, PlayStation 3 or PS Vita.",
+                    "brand": "Sony",
+                    "categories": [
+                        "Video Games",
+                        "PSP",
+                        "PlayStation Network",
+                        "PSN Cards & Codes"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "Video Games",
+                        "lvl1": "Video Games > PSP",
+                        "lvl2": "Video Games > PSP > PlayStation Network",
+                        "lvl3": "Video Games > PSP > PlayStation Network > PSN Cards & Codes"
+                    },
+                    "type": "Playstation posa",
+                    "price": 20.0,
+                    "price_range": "1 - 50",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/8945804_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/8945804/pdp",
+                    "free_shipping": true,
+                    "rating": 4,
+                    "popularity": 21435,
+                    "objectID": "8945804",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "Broaden the content you enjoy on your PlayStation system with",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "Sony - $20 PlayStation Network Card",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Broaden the content you enjoy on your PlayStation system with this convenient $20 PlayStation Network Card. Use the card to purchase downloadable games, game add-ons, full-length movies, TV shows and other content that you can play or view on your PlayStation 4, PlayStation 3 or PS Vita.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "Sony",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "Video Games",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "PSP",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "PlayStation Network",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "PSN Cards & Codes",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "Apple - $15 iTunes Gift Card - Blue/Purple",
+                    "description": "iTunes Gift Cards are perfect for anyone who enjoys one-stop entertainment. Each card features an iTunes Store code redeemable for music, movies, TV shows, games, apps, and more. Recipients can access content on an iPod, iPad or iPhone, Mac, or PC.",
+                    "brand": "Apple",
+                    "categories": [
+                        "Movies & Music",
+                        "Movie & Music Cards"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "Movies & Music",
+                        "lvl1": "Movies & Music > Movie & Music Cards"
+                    },
+                    "type": "Itunes dl cards posa",
+                    "price": 15.0,
+                    "price_range": "1 - 50",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/3695167_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/3695167/pdp",
+                    "free_shipping": true,
+                    "rating": 4,
+                    "popularity": 21432,
+                    "objectID": "3695167",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "iTunes Gift Cards are perfect for anyone who enjoys one",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "Apple - $15 iTunes Gift Card - Blue/Purple",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "iTunes Gift Cards are perfect for anyone who enjoys one-stop entertainment. Each card features an iTunes Store code redeemable for music, movies, TV shows, games, apps, and more. Recipients can access content on an iPod, iPad or iPhone, Mac, or PC.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "Apple",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "Movies & Music",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "Movie & Music Cards",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "Sony - BDPS1700 Streaming Blu-ray Player - Black",
+                    "description": "Play DVDs and Blu-rays on this Sony Blu-ray disc player. Enjoy high-definition video with detailed and clear images, thanks to the 1080p maximum resolution, and incredible audio quality lets you hear every drop of sound. The compact Sony Blu-ray disc player fits in most spaces, and it also includes a USB port so that you can play from flash drives.",
+                    "brand": "Sony",
+                    "categories": [
+                        "TV & Home Theater",
+                        "Blu-ray & DVD Players",
+                        "Blu-ray Players"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "TV & Home Theater",
+                        "lvl1": "TV & Home Theater > Blu-ray & DVD Players",
+                        "lvl2": "TV & Home Theater > Blu-ray & DVD Players > Blu-ray Players"
+                    },
+                    "type": "Blu-ray",
+                    "price": 89.99,
+                    "price_range": "50 - 100",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/4743200_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/4743200/pdp",
+                    "free_shipping": false,
+                    "rating": 4,
+                    "popularity": 21431,
+                    "objectID": "4743200",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "Play DVDs and Blu-rays on this Sony Blu-ray",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "Sony - BDPS1700 Streaming Blu-ray Player - Black",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Play DVDs and Blu-rays on this Sony Blu-ray disc player. Enjoy high-definition video with detailed and clear images, thanks to the 1080p maximum resolution, and incredible audio quality lets you hear every drop of sound. The compact Sony Blu-ray disc player fits in most spaces, and it also includes a USB port so that you can play from flash drives.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "Sony",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "TV & Home Theater",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "Blu-ray & DVD Players",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "Blu-ray Players",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "Samsung - 55\" Class (54.6\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Black",
+                    "description": "Enjoy movies, television and music with this Samsung LED smart television. Built-in Wi-Fi lets you connect to your home network to share pictures from devices with the whole family or stream content from apps such as Netflix. This Samsung LED smart television delivers 4k UHD picture for bright colors and crisp imaging.",
+                    "brand": "Samsung",
+                    "categories": [
+                        "TV & Home Theater",
+                        "TVs",
+                        "4K Ultra HD TVs"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "TV & Home Theater",
+                        "lvl1": "TV & Home Theater > TVs",
+                        "lvl2": "TV & Home Theater > TVs > 4K Ultra HD TVs"
+                    },
+                    "type": "51\"-60\" tv's",
+                    "price": 799.99,
+                    "price_range": "500 - 2000",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/5217300_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/5217300/pdp",
+                    "free_shipping": false,
+                    "rating": 4,
+                    "popularity": 21426,
+                    "objectID": "5217300",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "Enjoy movies, television and music with this Samsung LED smart",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "Samsung - 55\" Class (54.6\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Black",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Enjoy movies, television and music with this Samsung LED smart television. Built-in Wi-Fi lets you connect to your home network to share pictures from devices with the whole family or stream content from apps such as Netflix. This Samsung LED smart television delivers 4k UHD picture for bright colors and crisp imaging.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "Samsung",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "TV & Home Theater",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "TVs",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "4K Ultra HD TVs",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "HP - 61 2-Pack Ink Cartridges - Black/Cyan/Magenta/Yellow",
+                    "description": "This combo pack contains 1 black ink cartridge and 1 tricolor ink cartridge, so you can easily replace both cartridges in select HP printers at the same time. The ink produces clear, crisp results for high-quality prints. HP Verified Online Supplies Reseller &#8250;",
+                    "brand": "HP",
+                    "categories": [
+                        "Office & School Supplies",
+                        "Printer Ink & Toner",
+                        "Printer Ink"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "Office & School Supplies",
+                        "lvl1": "Office & School Supplies > Printer Ink & Toner",
+                        "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
+                    },
+                    "type": "Ink combo packs",
+                    "price": 39.99,
+                    "price_range": "1 - 50",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/1260042_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/1260042/pdp",
+                    "free_shipping": true,
+                    "rating": 4,
+                    "popularity": 21425,
+                    "objectID": "1260042",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "This combo pack contains 1 black ink cartridge and 1",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "HP - 61 2-Pack Ink Cartridges - Black/Cyan/Magenta/Yellow",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "This combo pack contains 1 black ink cartridge and 1 tricolor ink cartridge, so you can easily replace both cartridges in select HP printers at the same time. The ink produces clear, crisp results for high-quality prints. HP Verified Online Supplies Reseller ›",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "HP",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "Office & School Supplies",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "Printer Ink & Toner",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "Printer Ink",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "HP - 15.6\" Touch-Screen Laptop - Intel Core i3 - 6GB Memory - 1TB Hard Drive - Black",
+                    "description": "HP Laptop: Power through your daily work on this HP notebook. Its 6GB of DDR4 RAM and Intel Core i3 processor let you multitask, and the 1TB hard drive holds a vast number of documents, videos and images. Pinch, swipe and zoom directly on the 15.6-inch HD touch screen of this HP notebook.",
+                    "brand": "HP",
+                    "categories": [
+                        "Computers & Tablets",
+                        "Laptops"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "Computers & Tablets",
+                        "lvl1": "Computers & Tablets > Laptops"
+                    },
+                    "type": "Burst skus",
+                    "price": 399.99,
+                    "price_range": "200 - 500",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/5606100_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/5606100/pdp",
+                    "free_shipping": true,
+                    "rating": 4,
+                    "popularity": 21423,
+                    "objectID": "5606100",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "HP Laptop: Power through your daily work on this HP",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "HP - 15.6\" Touch-Screen Laptop - Intel Core i3 - 6GB Memory - 1TB Hard Drive - Black",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "HP Laptop: Power through your daily work on this HP notebook. Its 6GB of DDR4 RAM and Intel Core i3 processor let you multitask, and the 1TB hard drive holds a vast number of documents, videos and images. Pinch, swipe and zoom directly on the 15.6-inch HD touch screen of this HP notebook.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "HP",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "Computers & Tablets",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "Laptops",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "Insignia™ - 24\" Class (23.6\" Diag.) - LED - 720p - HDTV - Black",
+                    "description": "Upgrade your home entertainment system with this 24-inch Insignia LED TV. It provides 720p resolution to support crisp, vivid images, and a 60Hz refresh rate for consistent response. This Insignia LED TV's DTS sound technology ensures crystal clear audio and impressive bass resonance, and it's energy-efficient to save you money.",
+                    "brand": "Insignia™",
+                    "categories": [
+                        "TV & Home Theater",
+                        "TVs",
+                        "All Flat-Panel TVs"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "TV & Home Theater",
+                        "lvl1": "TV & Home Theater > TVs",
+                        "lvl2": "TV & Home Theater > TVs > All Flat-Panel TVs"
+                    },
+                    "type": "Small lcd",
+                    "price": 129.99,
+                    "price_range": "100 - 200",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/5333701_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/5333701/pdp",
+                    "free_shipping": true,
+                    "rating": 4,
+                    "popularity": 21422,
+                    "objectID": "5333701",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "Upgrade your home entertainment system with this 24-inch Insignia",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "Insignia™ - 24\" Class (23.6\" Diag.) - LED - 720p - HDTV - Black",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Upgrade your home entertainment system with this 24-inch Insignia LED TV. It provides 720p resolution to support crisp, vivid images, and a 60Hz refresh rate for consistent response. This Insignia LED TV's DTS sound technology ensures crystal clear audio and impressive bass resonance, and it's energy-efficient to save you money.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "Insignia™",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "TV & Home Theater",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "TVs",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "All Flat-Panel TVs",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "HP - 564XL High-Yield Ink Cartridge - Black",
+                    "description": "This ink cartridge is compatible with select HP Deskjet, PhotoSmart and OfficeJet printers, and allows you to print documents with crisp, black text.",
+                    "brand": "HP",
+                    "categories": [
+                        "Office & School Supplies",
+                        "Printer Ink & Toner",
+                        "Printer Ink"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "Office & School Supplies",
+                        "lvl1": "Office & School Supplies > Printer Ink & Toner",
+                        "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
+                    },
+                    "type": "Ink cartridges",
+                    "price": 26.99,
+                    "price_range": "1 - 50",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/1982034_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/1982034/pdp",
+                    "free_shipping": true,
+                    "rating": 4,
+                    "popularity": 21421,
+                    "objectID": "1982034",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "This ink cartridge is compatible with select HP Deskjet, PhotoSmart",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "HP - 564XL High-Yield Ink Cartridge - Black",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "This ink cartridge is compatible with select HP Deskjet, PhotoSmart and OfficeJet printers, and allows you to print documents with crisp, black text.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "HP",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "Office & School Supplies",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "Printer Ink & Toner",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "Printer Ink",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "Insignia™ - USB 2.0 SD/MMC Memory Card Reader - Black",
+                    "description": "Transfer digital photos and other media between various memory cards (not included) and your computer with this Insignia&#8482; NS-CR2021 SD/MMC memory card reader that features USB 2.0 connectivity for wide-ranging use.",
+                    "brand": "Insignia™",
+                    "categories": [
+                        "Cameras & Camcorders",
+                        "Memory Cards"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "Cameras & Camcorders",
+                        "lvl1": "Cameras & Camcorders > Memory Cards"
+                    },
+                    "type": "Flash memory readers",
+                    "price": 8.49,
+                    "price_range": "1 - 50",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/3602009_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/3602009/pdp",
+                    "free_shipping": true,
+                    "rating": 4,
+                    "popularity": 21420,
+                    "objectID": "3602009",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "Transfer digital photos and other media between various memory cards",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "Insignia™ - USB 2.0 SD/MMC Memory Card Reader - Black",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Transfer digital photos and other media between various memory cards (not included) and your computer with this Insignia™ NS-CR2021 SD/MMC memory card reader that features USB 2.0 connectivity for wide-ranging use.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "Insignia™",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "Cameras & Camcorders",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "Memory Cards",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "Apple - Apple Watch Series 1 42mm Space Gray Aluminum Case Black Sport Band - Space Gray Aluminum",
+                    "description": "Durable, lightweight aluminum cases in silver, space gray, gold, and rose gold. Sport Band in a variety of colors. All the features of the original Apple Watch, plus a new dual-core processor for faster performance. All models run watchOS 3.   Requires an iPhone 5 or later.",
+                    "brand": "Apple",
+                    "categories": [
+                        "Wearable Technology",
+                        "Apple Watch",
+                        "Apple Watch Series 1"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "Wearable Technology",
+                        "lvl1": "Wearable Technology > Apple Watch",
+                        "lvl2": "Wearable Technology > Apple Watch > Apple Watch Series 1"
+                    },
+                    "type": "Standard apple watch",
+                    "price": 299.0,
+                    "price_range": "200 - 500",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/5546604_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/5546604/pdp",
+                    "free_shipping": true,
+                    "rating": 4,
+                    "popularity": 21419,
+                    "objectID": "5546604",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "Durable, lightweight aluminum cases in silver, space gray, gold, and",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "Apple - Apple Watch Series 1 42mm Space Gray Aluminum Case Black Sport Band - Space Gray Aluminum",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Durable, lightweight aluminum cases in silver, space gray, gold, and rose gold. Sport Band in a variety of colors. All the features of the original Apple Watch, plus a new dual-core processor for faster performance. All models run watchOS 3.   Requires an iPhone 5 or later.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "Apple",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "Wearable Technology",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "Apple Watch",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "Apple Watch Series 1",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                }
+            ],
+            "nbHits": 5188,
+            "page": 0,
+            "nbPages": 50,
+            "hitsPerPage": 20,
+            "facets": {
+                "type": {
+                    "Ink cartridges": 95,
+                    "Trend cases": 80,
+                    "Dash kits": 70,
+                    "French door refrig": 68,
+                    "Slim cases": 57,
+                    "Toners": 57,
+                    "Dishwasher": 52,
+                    "Connectivity": 51,
+                    "Deck harness": 51,
+                    "Otr mic": 51,
+                    "Gas range": 49,
+                    "Cables/connectors": 48,
+                    "Dc filter": 47,
+                    "Ipad cases": 45,
+                    "Electric range": 43,
+                    "Ink combo packs": 40,
+                    "Apple first party": 38,
+                    "Non ipad cases": 36,
+                    "Side by side": 35,
+                    "Unlocked handsets": 33
+                },
+                "brand": {
+                    "Insignia™": 746,
+                    "Samsung": 633,
+                    "Metra": 591,
+                    "HP": 530,
+                    "Apple": 442,
+                    "GE": 394,
+                    "Sony": 350,
+                    "Incipio": 320,
+                    "KitchenAid": 318,
+                    "Whirlpool": 298,
+                    "LG": 291,
+                    "Frigidaire": 275
+                },
+                "price": {
+                    "16.99": 354,
+                    "49.99": 230,
+                    "19.99": 196,
+                    "14.99": 160,
+                    "29.99": 155,
+                    "39.99": 136,
+                    "24.99": 95,
+                    "899.99": 89,
+                    "34.99": 88,
+                    "12.99": 85,
+                    "449.99": 78,
+                    "9.99": 75,
+                    "99.99": 74,
+                    "349.99": 72,
+                    "59.99": 70,
+                    "199.99": 69,
+                    "989.99": 65,
+                    "129.99": 61,
+                    "69.99": 61,
+                    "539.99": 59
+                },
+                "rating": {
+                    "4": 3743,
+                    "0": 578,
+                    "5": 438,
+                    "3": 357,
+                    "2": 37,
+                    "1": 35
+                },
+                "categories": {
+                    "Appliances": 1771,
+                    "Cell Phones": 850,
+                    "Computers & Tablets": 666,
+                    "Cell Phone Accessories": 608,
+                    "Car Electronics & GPS": 597,
+                    "Ranges, Cooktops & Ovens": 516,
+                    "Deck Installation Parts": 514,
+                    "Refrigerators": 365,
+                    "Dash Installation Kits": 364,
+                    "Cell Phone Cases & Clips": 299,
+                    "All Refrigerators": 266,
+                    "Office & School Supplies": 253,
+                    "Printer Ink & Toner": 253,
+                    "Audio": 244,
+                    "Cameras & Camcorders": 230,
+                    "Washers & Dryers": 228,
+                    "TV & Home Theater": 224,
+                    "Ranges": 219,
+                    "Small Kitchen Appliances": 172,
+                    "Printer Ink": 171
+                },
+                "popularity": {
+                    "1001": 1,
+                    "10011": 1,
+                    "10014": 1,
+                    "1002": 1,
+                    "10026": 1,
+                    "10032": 1,
+                    "10034": 1,
+                    "10035": 1,
+                    "1004": 1,
+                    "10054": 1,
+                    "10058": 1,
+                    "10082": 1,
+                    "10102": 1,
+                    "10109": 1,
+                    "10112": 1,
+                    "10117": 1,
+                    "10123": 1,
+                    "10132": 1,
+                    "10142": 1,
+                    "10143": 1
+                },
+                "price_range": {
+                    "1 - 50": 2098,
+                    "500 - 2000": 1350,
+                    "200 - 500": 741,
+                    "100 - 200": 391,
+                    "50 - 100": 373,
+                    "> 2000": 235
+                },
+                "free_shipping": {
+                    "true": 3478,
+                    "false": 1710
+                },
+                "hierarchicalCategories.lvl0": {
+                    "Appliances": 1771,
+                    "Cell Phones": 850,
+                    "Computers & Tablets": 666,
+                    "Car Electronics & GPS": 597,
+                    "Office & School Supplies": 253,
+                    "Audio": 244,
+                    "Cameras & Camcorders": 230,
+                    "TV & Home Theater": 224,
+                    "Wearable Technology": 85,
+                    "Office Electronics": 77,
+                    "Household Essentials": 33,
+                    "Video Games": 32,
+                    "Smart Home": 28,
+                    "Name Brands": 27,
+                    "Housewares": 22,
+                    "Paper": 19,
+                    "Movies & Music": 7,
+                    "Health, Fitness & Beauty": 5,
+                    "Carfi Instore Only": 4,
+                    "Furniture & Decor": 4
+                },
+                "hierarchicalCategories.lvl1": {
+                    "Cell Phones > Cell Phone Accessories": 608,
+                    "Appliances > Ranges, Cooktops & Ovens": 516,
+                    "Car Electronics & GPS > Deck Installation Parts": 514,
+                    "Appliances > Refrigerators": 365,
+                    "Office & School Supplies > Printer Ink & Toner": 253,
+                    "Appliances > Washers & Dryers": 228,
+                    "Appliances > Small Kitchen Appliances": 172,
+                    "Appliances > Microwaves": 155,
+                    "Computers & Tablets > Laptops": 127,
+                    "Cameras & Camcorders > Digital Camera Accessories": 121,
+                    "Computers & Tablets > iPad & Tablet Accessories": 120,
+                    "Cell Phones > All Cell Phones with Plans": 118,
+                    "Appliances > Dishwashers": 113,
+                    "TV & Home Theater > TVs": 110,
+                    "Computers & Tablets > Tablets": 106,
+                    "Audio > Headphones": 95,
+                    "Computers & Tablets > All Desktops": 82,
+                    "Wearable Technology > Apple Watch": 73,
+                    "Audio > Home Audio": 69,
+                    "Office Electronics > Printers, Ink & Toner": 65
+                },
+                "hierarchicalCategories.lvl2": {
+                    "Car Electronics & GPS > Deck Installation Parts > Dash Installation Kits": 364,
+                    "Cell Phones > Cell Phone Accessories > Cell Phone Cases & Clips": 299,
+                    "Appliances > Refrigerators > All Refrigerators": 266,
+                    "Appliances > Ranges, Cooktops & Ovens > Ranges": 219,
+                    "Office & School Supplies > Printer Ink & Toner > Printer Ink": 171,
+                    "Appliances > Washers & Dryers > Dryers": 129,
+                    "Cell Phones > Cell Phone Accessories > iPhone Accessories": 125,
+                    "Appliances > Microwaves > All Microwaves": 116,
+                    "Appliances > Ranges, Cooktops & Ovens > Wall Ovens": 115,
+                    "Appliances > Ranges, Cooktops & Ovens > Cooktops": 112,
+                    "Appliances > Dishwashers > Built-In Dishwashers": 107,
+                    "Car Electronics & GPS > Deck Installation Parts > Deck Harnesses": 91,
+                    "Appliances > Small Kitchen Appliances > Mixers & Mixer Accessories": 85,
+                    "Office & School Supplies > Printer Ink & Toner > Toner": 78,
+                    "Appliances > Ranges, Cooktops & Ovens > Range Hoods": 66,
+                    "TV & Home Theater > TVs > 4K Ultra HD TVs": 65,
+                    "Office Electronics > Printers, Ink & Toner > All Printers": 64,
+                    "Cell Phones > Unlocked Cell Phones > All Unlocked Cell Phones": 59,
+                    "Appliances > Washers & Dryers > Washing Machines": 57,
+                    "Car Electronics & GPS > Deck Installation Parts > Antennas & Adapters": 54
+                },
+                "hierarchicalCategories.lvl3": {
+                    "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips": 116,
+                    "Appliances > Ranges, Cooktops & Ovens > Ranges > Electric Ranges": 114,
+                    "Appliances > Ranges, Cooktops & Ovens > Ranges > Gas Ranges": 98,
+                    "Appliances > Washers & Dryers > Dryers > Electric Dryers": 64,
+                    "Appliances > Ranges, Cooktops & Ovens > Range Hoods > Wall Mount Range Hoods": 61,
+                    "Appliances > Washers & Dryers > Dryers > Gas Dryers": 61,
+                    "Appliances > Ranges, Cooktops & Ovens > Wall Ovens > Single Wall Ovens": 57,
+                    "Appliances > Ranges, Cooktops & Ovens > Wall Ovens > Double Ovens": 46,
+                    "Wearable Technology > Apple Watch > Apple Watch Accessories > Apple Watch Bands & Straps": 38,
+                    "Appliances > Small Kitchen Appliances > Mixers & Mixer Accessories > Stand Mixers": 33,
+                    "Appliances > Washers & Dryers > Washing Machines > Top-Loading Washers": 31,
+                    "Audio > Home Audio > Home Theater Systems > Sound Bars": 31,
+                    "Office Electronics > Printers, Ink & Toner > All Printers > Laser Printers": 29,
+                    "Cameras & Camcorders > Digital Camera Accessories > Camera Lenses > Mirrorless Lenses": 27,
+                    "Cell Phones > Cell Phone Accessories > Smartwatches & Accessories > Smartwatch Accessories": 25,
+                    "Appliances > Washers & Dryers > Washing Machines > Front-Loading Washers": 22,
+                    "Appliances > Small Kitchen Appliances > Mixers & Mixer Accessories > Hand Mixers": 20,
+                    "Office Electronics > Printers, Ink & Toner > All Printers > Inkjet Printers": 19,
+                    "Appliances > Small Kitchen Appliances > Mixers & Mixer Accessories > Mixer Accessories": 18,
+                    "Computers & Tablets > Laptops > All Laptops > PC Laptops": 17
+                },
+                "hierarchicalCategories.lvl4": {
+                    "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips > iPhone 6s Cases": 24,
+                    "Cell Phones > Cell Phone Accessories > Smartwatches & Accessories > Smartwatch Accessories > Smartwatch Bands": 19,
+                    "Office Electronics > Printers, Ink & Toner > All Printers > Inkjet Printers > All-In-One Inkjet Printers": 13,
+                    "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips > iPhone 6s Plus Cases": 12,
+                    "Office Electronics > Printers, Ink & Toner > All Printers > Laser Printers > All-In-One Laser Printers": 9,
+                    "Appliances > Small Kitchen Appliances > Blenders & Juicers > Blenders > Full-Size Blenders": 8,
+                    "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips > iPhone 7 Cases": 8,
+                    "Cameras & Camcorders > Digital Camera Accessories > Flashes, Lighting & Studio > Flashes & Accessories > DSLR Flashes": 5,
+                    "Office Electronics > Printers, Ink & Toner > All Printers > Inkjet Printers > Color Inkjet Printers": 5,
+                    "Office Electronics > Printers, Ink & Toner > All Printers > Laser Printers > Color Laser Printers": 5,
+                    "Cell Phones > Cell Phone Accessories > Smartwatches & Accessories > Smartwatch Accessories > Smartwatch Charging Docks": 4,
+                    "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips > iPhone 7 Plus Cases": 4,
+                    "Appliances > Small Kitchen Appliances > Blenders & Juicers > Blenders > Hand Blenders": 3,
+                    "Appliances > Small Kitchen Appliances > Coffee, Tea & Espresso > Coffee Makers > Multi-Cup Coffee Makers": 3,
+                    "Appliances > Small Kitchen Appliances > Coffee, Tea & Espresso > Tea Kettles > Electric Tea Kettles": 3,
+                    "Cameras & Camcorders > Digital Camera Accessories > Camera Lenses > DSLR Lenses > Prime Lenses": 3,
+                    "Cameras & Camcorders > Digital Camera Accessories > Flashes, Lighting & Studio > Flashes & Accessories > Flash Accessories": 3,
+                    "Cameras & Camcorders > Digital Camera Accessories > Camera Lenses > DSLR Lenses > Long-Range Zoom Lenses": 2,
+                    "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips > iPhone 6 Plus Cases": 2,
+                    "Musical Instruments > Microphones & Live Sound > Microphones & Accessories > Microphones > Condenser": 2
+                }
+            },
+            "facets_stats": {
+                "price": {
+                    "min": 2.99,
+                    "max": 4999.99,
+                    "avg": 470.674,
+                    "sum": 2.44186e+06
+                },
+                "rating": {
+                    "min": 0,
+                    "max": 5,
+                    "avg": 3,
+                    "sum": 18342
+                },
+                "popularity": {
+                    "min": 6,
+                    "max": 21465,
+                    "avg": 11626,
+                    "sum": 60316685
+                }
+            },
+            "exhaustiveFacetsCount": true,
+            "exhaustiveFacetValues": false,
+            "exhaustiveNbHits": true,
+            "exhaustiveTypo": true,
+            "exhaustive": {
+                "facetsCount": true,
+                "facetValues": false,
+                "nbHits": true,
+                "typo": true
+            },
+            "query": "",
+            "queryAfterRemoval": "",
+            "params": "clickAnalytics=true&facetFilters=%5B%5B%22brand%3AApple%22%2C%22brand%3AFrigidaire%22%2C%22brand%3AGE%22%2C%22brand%3AHP%22%2C%22brand%3AIncipio%22%2C%22brand%3AInsignia%E2%84%A2%22%2C%22brand%3AKitchenAid%22%2C%22brand%3ALG%22%2C%22brand%3AMetra%22%2C%22brand%3ASamsung%22%2C%22brand%3ASony%22%2C%22brand%3AWhirlpool%22%5D%5D&facets=%5B%22*%22%5D&highlightPostTag=__%2Fais-highlight__&highlightPreTag=__ais-highlight__&maxValuesPerFacet=20&userToken=anonymous-f56da675-f3e5-47f5-ab5b-7608fb4e413a",
+            "index": "instant_search",
+            "queryID": "b2a0093e77908cf4306edb084a407455",
+            "renderingContent": {
+                "facetOrdering": {
+                    "facets": {
+                        "order": [
+                            "brand",
+                            "hierarchicalCategories.lvl0",
+                            "categories",
+                            "price",
+                            "free_shipping",
+                            "rating",
+                            "type"
+                        ]
+                    },
+                    "values": {
+                        "brand": {
+                            "order": [
+                                "Apple"
+                            ],
+                            "sortRemainingBy": "count"
+                        },
+                        "categories": {
+                            "sortRemainingBy": "count"
+                        },
+                        "free_shipping": {
+                            "sortRemainingBy": "count"
+                        },
+                        "hierarchicalCategories.lvl0": {
+                            "sortRemainingBy": "alpha"
+                        },
+                        "price": {
+                            "sortRemainingBy": "count"
+                        },
+                        "rating": {
+                            "sortRemainingBy": "count"
+                        },
+                        "type": {
+                            "sortRemainingBy": "count"
+                        }
+                    }
+                }
+            },
+            "extensions": {
+                "queryCategorization": {}
+            },
+            "processingTimeMS": 4,
+            "processingTimingsMS": {
+                "_request": {
+                    "queue": 4,
+                    "roundTrip": 17
+                },
+                "afterFetch": {
+                    "format": {
+                        "total": 1
+                    },
+                    "total": 1
+                },
+                "extensions": 1,
+                "fetch": {
+                    "total": 1
+                },
+                "total": 4
+            },
+            "serverTimeMS": 10
+        },
+        {
+            "hits": [],
+            "nbHits": 21468,
+            "page": 0,
+            "nbPages": 0,
+            "hitsPerPage": 0,
+            "facets": {
+                "brand": {
+                    "Insignia™": 746,
+                    "Samsung": 633,
+                    "Metra": 591,
+                    "HP": 530,
+                    "Apple": 442,
+                    "GE": 394,
+                    "Sony": 350,
+                    "Incipio": 320,
+                    "KitchenAid": 318,
+                    "Whirlpool": 298,
+                    "LG": 291,
+                    "Canon": 287,
+                    "Frigidaire": 275,
+                    "Speck": 216,
+                    "OtterBox": 214,
+                    "Epson": 204,
+                    "Dynex™": 184,
+                    "Dell": 174,
+                    "Hamilton Beach": 173,
+                    "Platinum": 155
+                }
+            },
+            "exhaustiveFacetsCount": true,
+            "exhaustiveFacetValues": false,
+            "exhaustiveNbHits": true,
+            "exhaustiveTypo": true,
+            "exhaustive": {
+                "facetsCount": true,
+                "facetValues": false,
+                "nbHits": true,
+                "typo": true
+            },
+            "query": "",
+            "queryAfterRemoval": "",
+            "params": "analytics=false&clickAnalytics=false&facets=brand&highlightPostTag=__%2Fais-highlight__&highlightPreTag=__ais-highlight__&hitsPerPage=0&maxValuesPerFacet=20&page=0&userToken=anonymous-f56da675-f3e5-47f5-ab5b-7608fb4e413a",
+            "index": "instant_search",
+            "renderingContent": {
+                "facetOrdering": {
+                    "facets": {
+                        "order": [
+                            "brand",
+                            "hierarchicalCategories.lvl0",
+                            "categories",
+                            "price",
+                            "free_shipping",
+                            "rating",
+                            "type"
+                        ]
+                    },
+                    "values": {
+                        "brand": {
+                            "order": [
+                                "Apple"
+                            ],
+                            "sortRemainingBy": "count"
+                        },
+                        "categories": {
+                            "sortRemainingBy": "count"
+                        },
+                        "free_shipping": {
+                            "sortRemainingBy": "count"
+                        },
+                        "hierarchicalCategories.lvl0": {
+                            "sortRemainingBy": "alpha"
+                        },
+                        "price": {
+                            "sortRemainingBy": "count"
+                        },
+                        "rating": {
+                            "sortRemainingBy": "count"
+                        },
+                        "type": {
+                            "sortRemainingBy": "count"
+                        }
+                    }
+                }
+            },
+            "extensions": {
+                "queryCategorization": {}
+            },
+            "processingTimeMS": 1,
+            "processingTimingsMS": {
+                "_request": {
+                    "queue": 4,
+                    "roundTrip": 17
+                },
+                "extensions": 1,
+                "total": 1
+            },
+            "serverTimeMS": 12
+        }
+    ]
+}

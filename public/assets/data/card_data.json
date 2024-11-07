@@ -1,0 +1,18 @@
+{
+  
+    "CardList" : [
+        {
+            "card_title": "Resources & Documents",
+            "card_description": "All the technical documentation you  need to make thinks work the way you need them to."
+        }, 
+        {
+            "card_title": "Support",
+            "card_description": "All the technical documentation you  need to make thinks work the way you need them to."
+        },
+        {
+            "card_title": "Contact Us",
+            "card_description": "All the technical documentation you  need to make thinks work the way you need them to."
+        }
+    ]
+}
+  

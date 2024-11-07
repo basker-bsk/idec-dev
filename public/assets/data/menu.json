@@ -1,0 +1,261 @@
+{
+  "menus": [
+    {
+      "id": "all_products",
+      "name": "All Products",
+      "url": "/products",
+      "subCategories": [
+        {
+          "name": "Automation",
+          "image": "/assets/images/switch.png",
+          "url": "/",
+          "subCategories": [
+            {
+              "name": "CAD Files",
+              "subCategories": [
+                {
+                  "name": "CAD Files 1"
+                },
+                {
+                  "name": "CAD Files 2"
+                }
+              ]
+            },
+            {
+              "name": "Programmable Logic Controller"
+            },
+            {
+              "name": "Sensors"
+            },
+            {
+              "name": "Industrial Controls"
+            },
+            {
+              "name": "Emergency Stops"
+            },
+            {
+              "name": "Switch Guards"
+            },
+            {
+              "name": "Sealing Boots"
+            },
+            {
+              "name": "Hardware"
+            },
+            {
+              "name": "Micro Switches"
+            },
+            {
+              "name": "Pushwheel Switches"
+            },
+            {
+              "name": "Keylock switches"
+            }
+          ]
+        },
+        {
+          "name": "Switches & Indicators",
+          "image": "/assets/images/switch.png",
+          "url": "/",
+          "subCategories": [
+            {
+              "name": "Switches & Pushbuttons",
+              "subCategories": [
+                {
+                  "name": "Push Buttons & Pilot Lights"
+                },
+                {
+                  "name": "Emergency Stop Switches"
+                },
+                {
+                  "name": "Control Stations"
+                },
+                {
+                  "name": "Touchless Switches"
+                },
+                {
+                  "name": "Smart RFID Reader"
+                }
+              ]
+            },
+            {
+              "name": "Indicator Lights & Buzzers",
+              "subCategories": [
+                {
+                  "name": "Industrial Controls"
+                },
+                {
+                  "name": "Emergency Stops"
+                },
+                {
+                  "name": "Switch Guards"
+                },
+                {
+                  "name": "Sealing Boots"
+                },
+                {
+                  "name": "Hardware"
+                },
+                {
+                  "name": "Micro Switches"
+                },
+                {
+                  "name": "Pushwheel Switches"
+                },
+                {
+                  "name": "Keylock switches"
+                }
+              ]
+            },
+            {
+              "name": "LED Lighting",
+              "subCategories": [
+                {
+                  "name": "Industrial Controls1"
+                },
+                {
+                  "name": "Emergency Stops1"
+                },
+                {
+                  "name": "Switch Guards2"
+                },
+                {
+                  "name": "Sealing Boots2"
+                },
+                {
+                  "name": "Hardware3"
+                },
+                {
+                  "name": "Micro Switches4"
+                },
+                {
+                  "name": "Pushwheel Switches5"
+                },
+                {
+                  "name": "Keylock switches6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Safety",
+          "image": "/assets/images/switch.png",
+          "url": "/"
+        },
+        {
+          "name": "Safety & Explosion Protection",
+          "image": "/assets/images/switch.png",
+          "url": "/"
+        },
+        {
+          "name": "Industrial Components",
+          "image": "/assets/images/switch.png",
+          "url": "/"
+        },
+        {
+          "name": "Auto-ID",
+          "image": "/assets/images/switch.png",
+          "url": "/"
+        },
+        {
+          "name": "Motorized System",
+          "image": "/assets/images/switch.png",
+          "url": "/"
+        },
+        {
+          "name": "Safety2",
+          "image": "/assets/images/switch.png",
+          "url": "/"
+        },
+        {
+          "name": "Safety & Explosion Protection1",
+          "image": "/assets/images/switch.png",
+          "url": "/"
+        },
+        {
+          "name": "Industrial Components3",
+          "image": "/assets/images/switch.png",
+          "url": "/"
+        },
+        {
+          "name": "Auto-ID4",
+          "image": "/assets/images/switch.png",
+          "url": "/"
+        },
+        {
+          "name": "Motorized System5",
+          "image": "/assets/images/switch.png",
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "id": "Industries",
+      "name": "Industries",
+      "url": "/industries",
+
+      "subCategories": [
+        {
+          "name": "Agricultural Machinery",
+          "url": "/",
+          "type": "internal"
+        },
+        {
+          "name": "Material Handling",
+          "url": "/",
+          "type": "internal"
+        },
+        {
+          "name": "Construction Machinery",
+          "url": "/",
+          "type": "internal"
+        },
+        {
+          "name": "Public Environment",
+          "url": "/",
+          "type": "internal"
+        },
+        {
+          "name": "Defense",
+          "url": "/",
+          "type": "internal"
+        },
+        {
+          "name": "Healthcare",
+          "url": "/",
+          "type": "internal"
+        },
+        {
+          "name": "New Mobility",
+          "url": "/",
+          "type": "internal"
+        }
+      ]
+    },
+    {
+      "id": "Solutions",
+      "name": "Solutions",
+      "url": "/",
+      "type": "internal"
+    },
+    {
+      "id": "Resources",
+      "name": "Resources",
+      "url": "/",
+      "type": "internal"
+    },
+    {
+      "id": "Happenings",
+      "name": "Happenings.",
+      "url": "/",
+      "type": "internal"
+    },
+    {
+      "id": "Support",
+      "name": "Support",
+      "url": "/",
+      "type": "internal"
+    }
+  ]
+}

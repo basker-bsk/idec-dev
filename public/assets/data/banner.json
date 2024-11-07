@@ -1,0 +1,69 @@
+{
+  "__typename": "Carousel",
+  "crTitle": "Header Carousel",
+  "crStyle": "Banner",
+  "crViewAllLink": null,
+  "crSlidesPerRow": "1",
+  "crComponentsCollection": {
+    "items": [
+      {
+        "__typename": "Banner",
+        "bannerOverlineTxt": "FEATURED SERIES",
+        "bannerTitle": "FT2J Series",
+        "bannerSubTitle": null,
+        "bannerBody": "A technologically advanced 7” vivid multi-touch capacitive HMI, with an integrated PLC controller and expandable I./O.",
+        "bannerSectionAllignment": "Left",
+        "bannerTextColor": "#ffffff",
+        "bannerLinkCollection": {
+          "items": [
+            {
+              "linkText": "View Product",
+              "linkId": null,
+              "linkUrl": "https://idec.com",
+              "linkStyle": "Button",
+              "linkClass": null,
+              "linkNewWindow": false
+            }
+          ]
+        },
+        "bannerBgImgDsktp": {
+          "title": "FT2J Series-Desktop",
+          "url": "https://images.ctfassets.net/fg4hnnyn9urp/1ffgZBXJUzCG9LUjWiJTZH/042f34f49d647187df7dcc57c683c5ed/ft2j-series-desktop.jpg"
+        },
+        "bannerBgImgMob": {
+          "title": "FT2J Series-Mobile",
+          "url": "https://images.ctfassets.net/fg4hnnyn9urp/1NnR6fibmK6EUghyv8NWuA/fd7545619c74e49f41f2d44e156fb6e2/ft2j-series-mobile.jpg"
+        }
+      },
+      {
+        "__typename": "Banner",
+        "bannerOverlineTxt": null,
+        "bannerTitle": "Best Solutions",
+        "bannerSubTitle": "For All Industries",
+        "bannerBody": "Our expertise empowers businesses to optimize operations, enhance productivity, and achieve their goals with cutting-edge technology.",
+        "bannerSectionAllignment": "Left",
+        "bannerTextColor": "#ffffff",
+        "bannerLinkCollection": {
+          "items": [
+            {
+              "linkText": "Learn More",
+              "linkId": null,
+              "linkUrl": "https://idec.com/learn-more",
+              "linkStyle": "Button",
+              "linkClass": null,
+              "linkNewWindow": false
+            }
+          ]
+        },
+        "bannerBgImgDsktp": {
+          "title": "Best Solutions-Desktop",
+          "url": "https://images.ctfassets.net/fg4hnnyn9urp/5BJlXwrVgFkM3WnpRuX5zs/861198b1fc6290a1cb87bafb4f072c61/best-solutions-desktop.jpg"
+        },
+        "bannerBgImgMob": {
+          "title": "Best Solutions-Mobile",
+          "url": "https://images.ctfassets.net/fg4hnnyn9urp/3SC800587sezouMNAdcSvs/314069f095ca5fbba5b8266a421ff20b/best-solutions-mobile.jpg"
+        }
+      }
+    ]
+  }
+}

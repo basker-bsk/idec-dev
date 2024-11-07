@@ -1,0 +1,236 @@
+@font-face {
+  font-family: "icomoon";
+  src: url("icomoon.eot?fg6njm");
+  src:
+    url("icomoon.eot?fg6njm#iefix") format("embedded-opentype"),
+    url("icomoon.ttf?fg6njm") format("truetype"),
+    url("icomoon.woff?fg6njm") format("woff"),
+    url("icomoon.svg?fg6njm#icomoon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "icomoon" !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-documents:before {
+  content: "\e900";
+}
+.icon-download:before {
+  content: "\e901";
+}
+.icon-zoomout:before {
+  content: "\e902";
+}
+.icon-calendar:before {
+  content: "\e903";
+}
+.icon-news:before {
+  content: "\e904";
+}
+.icon-table-filter:before {
+  content: "\e905";
+}
+.icon-zoom-in:before {
+  content: "\e906";
+}
+.icon-application-notes:before {
+  content: "\e907";
+}
+.icon-catalog:before {
+  content: "\e908";
+}
+.icon-software-updates:before {
+  content: "\e909";
+}
+.icon-cad-file:before {
+  content: "\e90a";
+}
+.icon-products:before {
+  content: "\e90b";
+}
+.icon-related-series:before {
+  content: "\e90c";
+}
+.icon-user-manual:before {
+  content: "\e90d";
+}
+.icon-contact-us:before {
+  content: "\e90e";
+}
+.icon-key-feature:before {
+  content: "\e90f";
+}
+.icon-product-Details:before {
+  content: "\e910";
+}
+.icon-support:before {
+  content: "\e911";
+}
+.icon-video:before {
+  content: "\e912";
+}
+.icon-checked:before {
+  content: "\e913";
+}
+.icon-discontinued:before {
+  content: "\e914";
+}
+.icon-lock:before {
+  content: "\e915";
+}
+.icon-promocode:before {
+  content: "\e916";
+}
+.icon-configure:before {
+  content: "\e917";
+}
+.icon-delete:before {
+  content: "\e918";
+}
+.icon-favourite:before {
+  content: "\e919";
+}
+.icon-more:before {
+  content: "\e91a";
+}
+.icon-play-Button:before {
+  content: "\e91b";
+}
+.icon-harmony:before {
+  content: "\e91d";
+}
+.icon-social-FB:before {
+  content: "\e91f";
+}
+.icon-social-IG:before {
+  content: "\e920";
+}
+.icon-social-tiktok:before {
+  content: "\e921";
+}
+.icon-social-Twitter:before {
+  content: "\e922";
+}
+.icon-social-YT:before {
+  content: "\e923";
+}
+.icon-error:before {
+  content: "\e924";
+}
+.icon-menu:before {
+  content: "\e925";
+}
+.icon-seen:before {
+  content: "\e926";
+}
+.icon-unseen:before {
+  content: "\e927";
+}
+.icon-automotive:before {
+  content: "\e928";
+}
+.icon-edit:before {
+  content: "\e929";
+}
+.icon-info:before {
+  content: "\e92a";
+}
+.icon-tick:before {
+  content: "\e92b";
+}
+.icon-download:before {
+  content: "\e92c";
+}
+.icon-filter:before {
+  content: "\e92d";
+}
+.icon-import:before {
+  content: "\e92e";
+}
+.icon-sort:before {
+  content: "\e92f";
+}
+.icon-star:before {
+  content: "\e930";
+}
+.icon-arrowleft:before {
+  content: "\e931";
+}
+.icon-arrowout:before {
+  content: "\e932";
+}
+.icon-arrowright:before {
+  content: "\e933";
+}
+.icon-close:before {
+  content: "\e934";
+}
+.icon-print:before {
+  content: "\e935";
+}
+.icon-share:before {
+  content: "\e936";
+}
+.icon-chevron-left:before {
+  content: "\e937";
+}
+.icon-chevron-down:before {
+  content: "\e938";
+}
+.icon-chevron-right:before {
+  content: "\e939";
+}
+.icon-chevron-up:before {
+  content: "\e93a";
+}
+.icon-minus:before {
+  content: "\e93b";
+}
+.icon-plus:before {
+  content: "\e93c";
+}
+.icon-pin:before {
+  content: "\e93d";
+}
+.icon-support1:before {
+  content: "\e93e";
+}
+.icon-account:before {
+  content: "\e93f";
+}
+.icon-cart:before {
+  content: "\e940";
+}
+.icon-saved-cart:before {
+  content: "\e941";
+}
+.icon-search:before {
+  content: "\e942";
+}
+.icon-certification:before {
+  content: "\e91c";
+}
+.icon-globe:before {
+  content: "\e91e";
+}
+.icon-product-changes:before {
+  content: "\e943";
+}
+.icon-linkedin:before {
+  content: "\eac9";
+}

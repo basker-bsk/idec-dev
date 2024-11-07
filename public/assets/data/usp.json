@@ -1,0 +1,44 @@
+{
+  "__typename": "Counters",
+  "introText": {
+    "json": {
+      "nodeType": "document",
+      "data": {},
+      "content": [
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Trusted by many industries in creating the optimum environment for humans & machines.",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "counter1Prefix": "More than ",
+  "counter1Suffix": "Of Experience",
+  "counter1Text": "70 Years",
+  "counter2Prefix": "Net Sales of",
+  "counter2Suffix": "Billion Yen",
+  "counter2Text": "83.9",
+  "counter3Prefix": "Over",
+  "counter3Suffix": "Corporations Globally",
+  "counter3Text": "10+"
+}

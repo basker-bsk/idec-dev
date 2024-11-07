@@ -1,0 +1,74 @@
+{
+  "__typename": "Carousel",
+  "crTitle": "Featured Series",
+  "crStyle": "Series card",
+  "crViewAllLink": null,
+  "crSlidesPerRow": "3",
+  "crComponentsCollection": {
+    "items": [
+      {
+        "__typename": "Card",
+        "cdDescription": null,
+        "cdTitle": "HG2J 7in Projected Capacitive Touch",
+        "cdStyle": "Featured Series",
+        "cdBadge": "NEW ARRIVAL",
+        "cdOverline1": "Automation",
+        "cdOverline2": "Operator Interface",
+        "cdLink": {
+          "linkText": "View Series",
+          "linkId": null,
+          "linkUrl": "/view-series",
+          "linkStyle": "Link",
+          "linkClass": null,
+          "linkNewWindow": false
+        },
+        "cdImage": {
+          "title": "Automation-1",
+          "url": "https://images.ctfassets.net/fg4hnnyn9urp/7nt0YzVNwohHA7R7jwGYYe/29fa968b2dc4b87cc1d8f01cbd87f8e9/automation-1.png"
+        }
+      },
+      {
+        "__typename": "Card",
+        "cdDescription": null,
+        "cdTitle": "HG5G 15in High-Performance",
+        "cdStyle": "Featured Series",
+        "cdBadge": null,
+        "cdOverline1": "Automation",
+        "cdOverline2": "Operator Interface",
+        "cdLink": {
+          "linkText": "View Series",
+          "linkId": null,
+          "linkUrl": "/view-series",
+          "linkStyle": "Link",
+          "linkClass": null,
+          "linkNewWindow": false
+        },
+        "cdImage": {
+          "title": "Automation-2",
+          "url": "https://images.ctfassets.net/fg4hnnyn9urp/2ARPC9q7qjeEKhQOLeNjPb/8215f8bc0502bea21d16f39798b0f7de/automation-2.png"
+        }
+      },
+      {
+        "__typename": "Card",
+        "cdDescription": null,
+        "cdTitle": "HW 22mm Heavy Duty",
+        "cdStyle": "Featured Series",
+        "cdBadge": null,
+        "cdOverline1": "Switches & Indicators",
+        "cdOverline2": "Pushbuttons and Pilot Lights",
+        "cdLink": {
+          "linkText": "View Series",
+          "linkId": null,
+          "linkUrl": "/view-series",
+          "linkStyle": "Link",
+          "linkClass": null,
+          "linkNewWindow": false
+        },
+        "cdImage": {
+          "title": "Switches & Indicators",
+          "url": "https://images.ctfassets.net/fg4hnnyn9urp/7pAMKmfYbFwRlyK4jforcf/52b0eaf565f4f6e307dcfa74249cedb0/switches-_-indicators.png"
+        }
+      }
+    ]
+  }
+}

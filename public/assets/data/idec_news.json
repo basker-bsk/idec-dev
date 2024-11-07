@@ -1,0 +1,49 @@
+{
+    "IdecNews": [
+      {
+          "news_title": "IDEC GROUP",
+          "description": "The IDEC Group's purpose is to create the optimum environment for humans and machines, and to achive safety, ANSHIN, and well-being for people around the world.",
+          "links": [
+            {
+                "name": "About IDEC",
+                "url" : "https://idec.vercel.app/"
+            },
+            {
+                "name" : "Investor Relations",
+                "url" : "https://idec.vercel.app/"
+
+            },
+            {
+                "name":  "Careers",
+                "url" : "https://idec.vercel.app/"
+            }
+        ]
+      }
+    ],
+
+     "news_heighlights": "NEWS AND HIGHLIGHTS",
+
+    "NewsList" : [
+        {
+            "date": "5/10/2024",
+            "news": "IDEC Financial Briefing Materials for FY2024"
+        }, 
+        {
+            "date": "3/27/2024",
+            "news": "IDEC Automation Organaizer Suite V4.07.00"
+        },
+        {
+            "date": "2/20/2024",
+            "news": "IDEC FT2J Series All-in-One PLC and HMI"
+        },
+        {
+            "date": "1/23/2024",
+            "news": "Financial Results Briefing Materials for the 3rd quater of FY2024"
+        },
+        {
+            "date": "1/23/2024",
+            "news": "IDEC XA/XW Short Body E-stops"
+        }
+    ]
+}
+  

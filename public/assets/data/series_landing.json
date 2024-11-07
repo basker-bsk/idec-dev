@@ -1,0 +1,104 @@
+{
+  "__typename": "Card",
+  "title": "Series Landing",
+  "cdStyle": "series-landing",
+  "componentsCollection": {
+    "items": [
+      {
+        "__typename": "Card",
+        "cdDescription": null,
+        "cdTitle": "HW 22mm Heavy-Duty",
+        "cdStyle": "series-landing",
+        "cdBadge": null,
+        "cdLink": {
+          "linkText": "View Series",
+          "linkId": null,
+          "linkUrl": "/view-series",
+          "linkStyle": "Link",
+          "linkClass": null,
+          "linkNewWindow": false
+        },
+        "cdImage": {
+          "title": "HW",
+          "url": "https://in.idec.com/medias/HW-Series-image.jpg?context=bWFzdGVyfGltYWdlc3wxMDgwOTJ8aW1hZ2UvanBlZ3xoNzMvaGVhLzkzNTE2NDg2NzM4MjIvSFctU2VyaWVzLWltYWdlLmpwZ3w1OGVhMWMxYTc0NmQ1ZTE3MjgxODIyZWVjOGE4MzAzMDM0OTRlMmNjZjdiNzRhM2JmZDc4YTc0MTM5MzFjYjdh"
+        }
+      },
+      {
+        "__typename": "Card",
+        "cdDescription": null,
+        "cdTitle": "HW 22mm Heavy-Duty",
+        "cdStyle": "series-landing",
+        "cdBadge": null,
+        "cdLink": {
+          "linkText": "View Series",
+          "linkId": null,
+          "linkUrl": "/view-series",
+          "linkStyle": "Link",
+          "linkClass": null,
+          "linkNewWindow": false
+        },
+        "cdImage": {
+          "title": "HW",
+          "url": "https://in.idec.com/medias/HW-Series-image.jpg?context=bWFzdGVyfGltYWdlc3wxMDgwOTJ8aW1hZ2UvanBlZ3xoNzMvaGVhLzkzNTE2NDg2NzM4MjIvSFctU2VyaWVzLWltYWdlLmpwZ3w1OGVhMWMxYTc0NmQ1ZTE3MjgxODIyZWVjOGE4MzAzMDM0OTRlMmNjZjdiNzRhM2JmZDc4YTc0MTM5MzFjYjdh"
+        }
+      },
+      {
+        "__typename": "Card",
+        "cdDescription": null,
+        "cdTitle": "HW 22mm Heavy-Duty",
+        "cdStyle": "series-landing",
+        "cdBadge": null,
+        "cdLink": {
+          "linkText": "View Series",
+          "linkId": null,
+          "linkUrl": "/view-series",
+          "linkStyle": "Link",
+          "linkClass": null,
+          "linkNewWindow": false
+        },
+        "cdImage": {
+          "title": "HW",
+          "url": "https://in.idec.com/medias/HW-Series-image.jpg?context=bWFzdGVyfGltYWdlc3wxMDgwOTJ8aW1hZ2UvanBlZ3xoNzMvaGVhLzkzNTE2NDg2NzM4MjIvSFctU2VyaWVzLWltYWdlLmpwZ3w1OGVhMWMxYTc0NmQ1ZTE3MjgxODIyZWVjOGE4MzAzMDM0OTRlMmNjZjdiNzRhM2JmZDc4YTc0MTM5MzFjYjdh"
+        }
+      },
+      {
+        "__typename": "Card",
+        "cdDescription": null,
+        "cdTitle": "HW 22mm Heavy-Duty",
+        "cdStyle": "series-landing",
+        "cdBadge": null,
+        "cdLink": {
+          "linkText": "View Series",
+          "linkId": null,
+          "linkUrl": "/view-series",
+          "linkStyle": "Link",
+          "linkClass": null,
+          "linkNewWindow": false
+        },
+        "cdImage": {
+          "title": "HW",
+          "url": "https://in.idec.com/medias/HW-Series-image.jpg?context=bWFzdGVyfGltYWdlc3wxMDgwOTJ8aW1hZ2UvanBlZ3xoNzMvaGVhLzkzNTE2NDg2NzM4MjIvSFctU2VyaWVzLWltYWdlLmpwZ3w1OGVhMWMxYTc0NmQ1ZTE3MjgxODIyZWVjOGE4MzAzMDM0OTRlMmNjZjdiNzRhM2JmZDc4YTc0MTM5MzFjYjdh"
+        }
+      },
+      {
+        "__typename": "Card",
+        "cdDescription": null,
+        "cdTitle": "HW 22mm Heavy-Duty",
+        "cdStyle": "series-landing",
+        "cdBadge": null,
+        "cdLink": {
+          "linkText": "View Series",
+          "linkId": null,
+          "linkUrl": "/view-series",
+          "linkStyle": "Link",
+          "linkClass": null,
+          "linkNewWindow": false
+        },
+        "cdImage": {
+          "title": "HW",
+          "url": "https://in.idec.com/medias/HW-Series-image.jpg?context=bWFzdGVyfGltYWdlc3wxMDgwOTJ8aW1hZ2UvanBlZ3xoNzMvaGVhLzkzNTE2NDg2NzM4MjIvSFctU2VyaWVzLWltYWdlLmpwZ3w1OGVhMWMxYTc0NmQ1ZTE3MjgxODIyZWVjOGE4MzAzMDM0OTRlMmNjZjdiNzRhM2JmZDc4YTc0MTM5MzFjYjdh"
+        }
+      }
+    ]
+  }
+}

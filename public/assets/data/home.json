@@ -1,0 +1,1101 @@
+{
+  "data": {
+    "landingPageIdecCollection": {
+      "items": [
+        {
+          "lpTitle": "Homepage Global",
+          "lpPageTitle": "Home",
+          "lpSeoTitle": null,
+          "lpSeoDescription": null,
+          "lpCanonicalUrl": null,
+          "lpFeaturedImage": null,
+          "lpNoIndex": false,
+          "lpNoFollow": false,
+          "lpComponentsCollection": {
+            "items": [
+              {
+                "__typename": "Carousel",
+                "crTitle": "Header Carousel",
+                "crStyle": "Banner",
+                "crViewAllLink": null,
+                "crSlidesPerRow": "1",
+                "crComponentsCollection": {
+                  "items": [
+                    {
+                      "__typename": "Banner",
+                      "bannerOverlineTxt": "FEATURED SERIES",
+                      "bannerTitle": "FT2J Series",
+                      "bannerSubTitle": null,
+                      "bannerBody": "A technologically advanced 7” vivid multi-touch capacitive HMI, with an integrated PLC controller and expandable I./O.",
+                      "bannerSectionAllignment": "Left",
+                      "bannerTextColor": "#ffffff",
+                      "bannerBgImgDsktp": {
+                        "title": "FT2J Series-Desktop",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/1ffgZBXJUzCG9LUjWiJTZH/042f34f49d647187df7dcc57c683c5ed/ft2j-series-desktop.jpg"
+                      },
+                      "bannerBgImgMob": {
+                        "title": "FT2J Series-Mobile",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/1NnR6fibmK6EUghyv8NWuA/fd7545619c74e49f41f2d44e156fb6e2/ft2j-series-mobile.jpg"
+                      },
+                      "bannerLinkCollection": {
+                        "items": [
+                          {
+                            "linkText": "View Product",
+                            "linkId": null,
+                            "linkUrl": "https://idec.com",
+                            "linkStyle": "Button",
+                            "linkClass": null,
+                            "linkNewWindow": false
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "__typename": "Banner",
+                      "bannerOverlineTxt": null,
+                      "bannerTitle": "Best Solutions",
+                      "bannerSubTitle": "For All Industries",
+                      "bannerBody": "Our expertise empowers businesses to optimize operations, enhance productivity, and achieve their goals with cutting-edge technology.",
+                      "bannerSectionAllignment": "Left",
+                      "bannerTextColor": "#ffffff",
+                      "bannerBgImgDsktp": {
+                        "title": "Best Solutions-Desktop",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/5BJlXwrVgFkM3WnpRuX5zs/861198b1fc6290a1cb87bafb4f072c61/best-solutions-desktop.jpg"
+                      },
+                      "bannerBgImgMob": {
+                        "title": "Best Solutions-Mobile",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/3SC800587sezouMNAdcSvs/314069f095ca5fbba5b8266a421ff20b/best-solutions-mobile.jpg"
+                      },
+                      "bannerLinkCollection": {
+                        "items": [
+                          {
+                            "linkText": "Learn More",
+                            "linkId": null,
+                            "linkUrl": "https://idec.com/learn-more",
+                            "linkStyle": "Button",
+                            "linkClass": null,
+                            "linkNewWindow": false
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "__typename": "Counters",
+                "introText": {
+                  "json": {
+                    "nodeType": "document",
+                    "data": {},
+                    "content": [
+                      {
+                        "nodeType": "paragraph",
+                        "data": {},
+                        "content": [
+                          {
+                            "nodeType": "text",
+                            "value": "Trusted by many industries in creating the optimum environment for humans & machines.",
+                            "marks": [],
+                            "data": {}
+                          }
+                        ]
+                      },
+                      {
+                        "nodeType": "paragraph",
+                        "data": {},
+                        "content": [
+                          {
+                            "nodeType": "text",
+                            "value": "",
+                            "marks": [],
+                            "data": {}
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                },
+                "counter1Prefix": "More than ",
+                "counter1Suffix": "Of Experience",
+                "counter1Text": "70 Years",
+                "counter2Prefix": "Net Sales of",
+                "counter2Suffix": "Billion Yen",
+                "counter2Text": "83.9",
+                "counter3Prefix": "Over",
+                "counter3Suffix": "Corporations Globally",
+                "counter3Text": "10+"
+              },
+              {
+                "__typename": "Columns",
+                "clmIntroductionText": null,
+                "clmStyle": "Popular Categories",
+                "clmTitle": "Our Popular Categories",
+                "clmContentsCollection": {
+                  "items": [
+                    {
+                      "__typename": "Card",
+                      "cdDescription": null,
+                      "cdTitle": "Automation",
+                      "cdStyle": "Popular categories",
+                      "cdBadge": null,
+                      "cdOverline1": null,
+                      "cdOverline2": null,
+                      "cdImage": {
+                        "title": "Automation Img",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/43xrg6j2RV202VaPGdP0hD/cdd70bca5687aa1fec73981e22f28c4b/image.png"
+                      },
+                      "cdLink": {
+                        "linkText": "Automation",
+                        "linkId": null,
+                        "linkUrl": "/popular-categories/automation",
+                        "linkIcon": null,
+                        "linkStyle": "Link",
+                        "linkClass": null,
+                        "linkNewWindow": false
+                      }
+                    },
+                    {
+                      "__typename": "Card",
+                      "cdDescription": null,
+                      "cdTitle": "Safety & Explosion Protection",
+                      "cdStyle": "Popular categories",
+                      "cdBadge": null,
+                      "cdOverline1": null,
+                      "cdOverline2": null,
+                      "cdImage": {
+                        "title": "Safety & Explosion",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/221pXxuyBjeaPiN2M5eX2Q/04fd56ae271bfbf1e555af812def81fd/Safety___Explosion.png"
+                      },
+                      "cdLink": {
+                        "linkText": "Safety & Explosion Protection",
+                        "linkId": null,
+                        "linkUrl": "/popular-categories/safety-explosion-protection",
+                        "linkIcon": null,
+                        "linkStyle": "Link",
+                        "linkClass": null,
+                        "linkNewWindow": false
+                      }
+                    },
+                    {
+                      "__typename": "Card",
+                      "cdDescription": null,
+                      "cdTitle": "Switches & Indicators",
+                      "cdStyle": "Popular categories",
+                      "cdBadge": null,
+                      "cdOverline1": null,
+                      "cdOverline2": null,
+                      "cdImage": {
+                        "title": "Switches & Indicators",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/7wdkXlauVL1w2YmWBSt32h/7adca80e945b28e4b8a6b5220f24ab97/Switches___Indicators.png"
+                      },
+                      "cdLink": {
+                        "linkText": "Switches & Indicators",
+                        "linkId": null,
+                        "linkUrl": "/popular-categories/switches-indicators",
+                        "linkIcon": null,
+                        "linkStyle": "Link",
+                        "linkClass": null,
+                        "linkNewWindow": false
+                      }
+                    },
+                    {
+                      "__typename": "Card",
+                      "cdDescription": null,
+                      "cdTitle": "Industrial Components",
+                      "cdStyle": "Popular categories",
+                      "cdBadge": null,
+                      "cdOverline1": null,
+                      "cdOverline2": null,
+                      "cdImage": {
+                        "title": "Industrial Components",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/3IOpY15fiO6gcbtLh5GiqU/0c32955d8e0786675244d39cd543f7c4/Industrial_Components.png"
+                      },
+                      "cdLink": {
+                        "linkText": "Industrial Components",
+                        "linkId": null,
+                        "linkUrl": "/popular-categories/industrial-components",
+                        "linkIcon": null,
+                        "linkStyle": "Link",
+                        "linkClass": null,
+                        "linkNewWindow": false
+                      }
+                    },
+                    {
+                      "__typename": "Card",
+                      "cdDescription": null,
+                      "cdTitle": "Auto-ID",
+                      "cdStyle": "Popular categories",
+                      "cdBadge": null,
+                      "cdOverline1": null,
+                      "cdOverline2": null,
+                      "cdImage": {
+                        "title": "Auto-ID",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/320lqYuI6SQ1OVRM1Ph8lL/322ea57cfb4a38a0c335a4a06196c090/Auto-ID.png"
+                      },
+                      "cdLink": {
+                        "linkText": "Auto-ID",
+                        "linkId": null,
+                        "linkUrl": "/popular-categories/auto-id",
+                        "linkIcon": null,
+                        "linkStyle": "Link",
+                        "linkClass": null,
+                        "linkNewWindow": false
+                      }
+                    },
+                    {
+                      "__typename": "Card",
+                      "cdDescription": null,
+                      "cdTitle": "Motorized System",
+                      "cdStyle": "Popular categories",
+                      "cdBadge": null,
+                      "cdOverline1": null,
+                      "cdOverline2": null,
+                      "cdImage": {
+                        "title": "Motorized System",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/2UwDmwiI6MTTuffEl6eDKk/6af0ce22665922d1afdbbdb6d1947aae/Motorized_System.png"
+                      },
+                      "cdLink": {
+                        "linkText": "Motorized System",
+                        "linkId": null,
+                        "linkUrl": "/popular-categories/motorized-system",
+                        "linkIcon": null,
+                        "linkStyle": "Link",
+                        "linkClass": null,
+                        "linkNewWindow": false
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "__typename": "LatestOnArticles",
+                "loaTitle": "Latest on IDEC",
+                "loaCta": {
+                  "ctaTitle": "Require further assistance? Our Sales Representative is here to help.",
+                  "ctaStyle": "Ribbon",
+                  "ctaLink": {
+                    "linkText": "Contact Us",
+                    "linkUrl": "/contact-us",
+                    "linkStyle": "Button",
+                    "linkNewWindow": false,
+                    "linkClass": null,
+                    "linkId": null
+                  }
+                },
+                "loaContentsCollection": {
+                  "__typename": "LatestOnArticlesLoaContentsCollection",
+                  "items": [
+                    {
+                      "__typename": "Card",
+                      "cdDescription": {
+                        "json": {
+                          "data": {},
+                          "content": [
+                            {
+                              "data": {},
+                              "content": [
+                                {
+                                  "data": {},
+                                  "marks": [],
+                                  "value": "Climate change is one of the most pressing issues of our time.",
+                                  "nodeType": "text"
+                                }
+                              ],
+                              "nodeType": "paragraph"
+                            }
+                          ],
+                          "nodeType": "document"
+                        }
+                      },
+                      "cdTitle": "IDEC ez-Wheel Assist Wheel Drive Boosts Material Handling Operations",
+                      "cdStyle": "Latest on Articles",
+                      "cdBadge": null,
+                      "cdOverline1": "News & Articles",
+                      "cdOverline2": null,
+                      "cdVideo": null,
+                      "cdImage": {
+                        "title": "IDEC ez-Wheel Assist Wheel Drive Boosts Material Handling Operations ",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/4UM4KHftS5WbSilcuZw6K0/e05cfe46bc0250b417082e0f1569306a/news-articles.png"
+                      },
+                      "cdLink": {
+                        "linkText": "View Product Series",
+                        "linkId": null,
+                        "linkUrl": "/view-product-series",
+                        "linkStyle": "Link",
+                        "linkNewWindow": false,
+                        "linkIcon": null,
+                        "linkOpenInAPopUp": "No"
+                      }
+                    },
+                    {
+                      "__typename": "Card",
+                      "cdDescription": {
+                        "json": {
+                          "data": {},
+                          "content": [
+                            {
+                              "data": {},
+                              "content": [
+                                {
+                                  "data": {},
+                                  "marks": [],
+                                  "value": "Catalogs and brochures showcase products and services with key information & visuals.",
+                                  "nodeType": "text"
+                                }
+                              ],
+                              "nodeType": "paragraph"
+                            }
+                          ],
+                          "nodeType": "document"
+                        }
+                      },
+                      "cdTitle": "Catalogs & Brochures",
+                      "cdStyle": "Latest on Articles",
+                      "cdBadge": null,
+                      "cdOverline1": "Resources & Documents",
+                      "cdOverline2": null,
+                      "cdImage": null,
+                      "cdVideo": null,
+                      "cdLink": {
+                        "linkText": "Download Document",
+                        "linkId": null,
+                        "linkUrl": "/download-document",
+                        "linkStyle": "Link",
+                        "linkNewWindow": false,
+                        "linkIcon": null,
+                        "linkOpenInAPopUp": "No"
+                      }
+                    },
+                    {
+                      "__typename": "Card",
+                      "cdDescription": {
+                        "json": {
+                          "data": {},
+                          "content": [
+                            {
+                              "data": {},
+                              "content": [
+                                {
+                                  "data": {},
+                                  "marks": [],
+                                  "value": "A technologically advanced 7” vivid multi-touch capacitive HMI, with an integrated PLC controller and expandable I./O.",
+                                  "nodeType": "text"
+                                }
+                              ],
+                              "nodeType": "paragraph"
+                            }
+                          ],
+                          "nodeType": "document"
+                        }
+                      },
+                      "cdTitle": "FT2J Series",
+                      "cdStyle": "Latest on Articles",
+                      "cdBadge": "BEST SELLER",
+                      "cdOverline1": "Operator Interfaces",
+                      "cdOverline2": null,
+                      "cdVideo": null,
+                      "cdImage": {
+                        "title": "FT2J Series",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/e5pjIDGrFurA9cVb4O1Wm/3d322e8ec6b9e08212492bf7e36a902b/ft2j-series.png"
+                      },
+                      "cdLink": {
+                        "linkText": "View Product Series",
+                        "linkId": null,
+                        "linkUrl": "/view-product-series",
+                        "linkStyle": "Link",
+                        "linkNewWindow": false,
+                        "linkIcon": null,
+                        "linkOpenInAPopUp": "No"
+                      }
+                    },
+                    {
+                      "__typename": "Card",
+                      "cdDescription": {
+                        "json": {
+                          "data": {},
+                          "content": [
+                            {
+                              "data": {},
+                              "content": [
+                                {
+                                  "data": {},
+                                  "marks": [],
+                                  "value": "Climate change is one of the most pressing issues of our time.",
+                                  "nodeType": "text"
+                                }
+                              ],
+                              "nodeType": "paragraph"
+                            }
+                          ],
+                          "nodeType": "document"
+                        }
+                      },
+                      "cdTitle": "Reducing Carbon Footprint",
+                      "cdStyle": "Latest on Articles",
+                      "cdBadge": null,
+                      "cdOverline1": "Our Solutions",
+                      "cdOverline2": null,
+                      "cdVideo": null,
+                      "cdImage": {
+                        "title": "Reducing Carbon Footprint",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/1plfigsLmKG5BdaTeQRZxN/7ff924be9720dc55ebfee78f83d55539/reducing-carbon-footprint.png"
+                      },
+                      "cdLink": {
+                        "linkText": "Watch Video",
+                        "linkId": null,
+                        "linkUrl": "/watch-video",
+                        "linkStyle": "Link",
+                        "linkNewWindow": false,
+                        "linkIcon": null,
+                        "linkOpenInAPopUp": "Yes"
+                      }
+                    },
+                    {
+                      "__typename": "Card",
+                      "cdDescription": null,
+                      "cdTitle": "HG2J 7in Projected Capacitive Touch",
+                      "cdStyle": "Latest on Articles",
+                      "cdBadge": null,
+                      "cdOverline1": "Automation",
+                      "cdOverline2": "Operator Interface",
+                      "cdVideo": null,
+                      "cdImage": {
+                        "title": "HG2J 7in Projected Capacitive Touch",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/156adwqFxWrt06o6JNFdJH/32e29acadcede6ee12ad3b894e4b0768/automation-latest-on-idec.png"
+                      },
+                      "cdLink": {
+                        "linkText": "View Series",
+                        "linkId": null,
+                        "linkUrl": "/view-series",
+                        "linkStyle": "Link",
+                        "linkNewWindow": false,
+                        "linkIcon": null,
+                        "linkOpenInAPopUp": "No"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "__typename": "CallToAction",
+                "ctaText": {
+                  "json": {
+                    "nodeType": "document",
+                    "data": {},
+                    "content": [
+                      {
+                        "nodeType": "paragraph",
+                        "data": {},
+                        "content": [
+                          {
+                            "nodeType": "text",
+                            "value": "Log in or create an account with us today for the access you need.",
+                            "marks": [],
+                            "data": {}
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                },
+                "ctaTitle": "Personalized experience & enjoy exclusive deals.",
+                "ctaTextColor": "#ffffff",
+                "ctaHideForLoggedInUsers": true,
+                "ctaStyle": "Ribbon",
+                "ctaBgImageDsktp": {
+                  "title": "CTA Background Image-Desktop",
+                  "url": "https://images.ctfassets.net/fg4hnnyn9urp/44VSGGBzeUrQcW3g3h9vLl/1c59717ad346c9ad5d39b28e01a96549/cta-bg-desktop.jpg"
+                },
+                "ctaBgImageMob": {
+                  "title": "CTA Background Image-Mobile",
+                  "url": "https://images.ctfassets.net/fg4hnnyn9urp/2T2o2jawRd3lzS5l2HabMs/7c2bf83815d1ef60a8c1ce837583834b/cta-bg-mobile.jpg"
+                },
+                "ctaLink": {
+                  "linkText": "Login / Sign Up",
+                  "linkId": null,
+                  "linkUrl": "https://idec.com/login",
+                  "linkStyle": "Button",
+                  "linkClass": null,
+                  "linkNewWindow": false
+                }
+              },
+              {
+                "__typename": "Carousel",
+                "crTitle": "Featured Series",
+                "crStyle": "Series card",
+                "crViewAllLink": null,
+                "crSlidesPerRow": "3",
+                "crComponentsCollection": {
+                  "items": [
+                    {
+                      "__typename": "Card",
+                      "cdDescription": null,
+                      "cdTitle": "HG2J 7in Projected Capacitive Touch",
+                      "cdStyle": "Featured Series",
+                      "cdBadge": "NEW ARRIVAL",
+                      "cdOverline1": "Automation",
+                      "cdOverline2": "Operator Interface",
+                      "cdImage": {
+                        "title": "Automation-1",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/7nt0YzVNwohHA7R7jwGYYe/29fa968b2dc4b87cc1d8f01cbd87f8e9/automation-1.png"
+                      },
+                      "cdLink": {
+                        "linkText": "View Series",
+                        "linkId": null,
+                        "linkUrl": "/view-series",
+                        "linkStyle": "Link",
+                        "linkClass": null,
+                        "linkNewWindow": false
+                      }
+                    },
+                    {
+                      "__typename": "Card",
+                      "cdDescription": null,
+                      "cdTitle": "HG5G 15in High-Performance",
+                      "cdStyle": "Featured Series",
+                      "cdBadge": null,
+                      "cdOverline1": "Automation",
+                      "cdOverline2": "Operator Interface",
+                      "cdImage": {
+                        "title": "Automation-2",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/2ARPC9q7qjeEKhQOLeNjPb/8215f8bc0502bea21d16f39798b0f7de/automation-2.png"
+                      },
+                      "cdLink": {
+                        "linkText": "View Series",
+                        "linkId": null,
+                        "linkUrl": "/view-series",
+                        "linkStyle": "Link",
+                        "linkClass": null,
+                        "linkNewWindow": false
+                      }
+                    },
+                    {
+                      "__typename": "Card",
+                      "cdDescription": null,
+                      "cdTitle": "HW 22mm Heavy Duty",
+                      "cdStyle": "Featured Series",
+                      "cdBadge": null,
+                      "cdOverline1": "Switches & Indicators",
+                      "cdOverline2": "Pushbuttons and Pilot Lights",
+                      "cdImage": {
+                        "title": "Switches & Indicator",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/7pAMKmfYbFwRlyK4jforcf/52b0eaf565f4f6e307dcfa74249cedb0/switches-_-indicators.png"
+                      },
+                      "cdLink": {
+                        "linkText": "View Series",
+                        "linkId": null,
+                        "linkUrl": "/view-series",
+                        "linkStyle": "Link",
+                        "linkClass": null,
+                        "linkNewWindow": false
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "__typename": "CallToAction",
+                "ctaText": {
+                  "json": {
+                    "nodeType": "document",
+                    "data": {},
+                    "content": [
+                      {
+                        "nodeType": "paragraph",
+                        "data": {},
+                        "content": [
+                          {
+                            "nodeType": "text",
+                            "value": "The product finder helps you easily locate and select the right solutions to meet your specific needs.",
+                            "marks": [],
+                            "data": {}
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                },
+                "ctaTitle": "Product Finder",
+                "ctaTextColor": "#ffffff",
+                "ctaHideForLoggedInUsers": false,
+                "ctaStyle": "Transparent",
+                "ctaBgImageDsktp": {
+                  "title": "Product Finder-Desktop",
+                  "url": "https://images.ctfassets.net/fg4hnnyn9urp/2AgVXQrL7BfTlk3tXCJLft/a7f9d3a0e2b24ccf1d4f460f347e4f04/product-finder-bg.png"
+                },
+                "ctaBgImageMob": {
+                  "title": "Product Finder-Mobile",
+                  "url": "https://images.ctfassets.net/fg4hnnyn9urp/27eVEFDEsNNJ7vf1A0H4lS/5097d43fd05721ecff57833aa953015e/product-finder-bg-mob.png"
+                },
+                "ctaLink": {
+                  "linkText": "Configure Your Own",
+                  "linkId": null,
+                  "linkUrl": "https://idec.com/configure-your-own",
+                  "linkStyle": "Button",
+                  "linkClass": null,
+                  "linkNewWindow": false
+                }
+              },
+              {
+                "__typename": "ListOfLinks",
+                "listLinkIntroduction": null,
+                "listLinkTitle": "Resources & Documents",
+                "listLinkStyle": "Two Column",
+                "listLinkviewAllLink": {
+                  "linkText": "View All Resources",
+                  "linkId": null,
+                  "linkUrl": "/view-all-resources",
+                  "linkStyle": "Button",
+                  "linkClass": null,
+                  "linkNewWindow": false
+                },
+                "listLinkCollection": {
+                  "items": [
+                    {
+                      "linkText": "CAD Files",
+                      "linkId": null,
+                      "linkUrl": "/cad-files",
+                      "linkStyle": "Link",
+                      "linkClass": null,
+                      "linkNewWindow": false,
+                      "linkIcon": {
+                        "title": "CAD Files",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/4DN8Jeb9SeU5nSYIqhrUGA/441d4263bded6903d1f5917dda2c2f48/cad-file.png"
+                      }
+                    },
+                    {
+                      "linkText": "Catalogs & Brochures",
+                      "linkId": null,
+                      "linkUrl": "/catalogs",
+                      "linkStyle": "Link",
+                      "linkClass": null,
+                      "linkNewWindow": false,
+                      "linkIcon": {
+                        "title": "Catalogs & Brochures",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/5MwLaWYa7kIuU184DDhqtX/3af97a80a445d5b2d3696b53ef335fc1/catalog.png"
+                      }
+                    },
+                    {
+                      "linkText": "Application Notes",
+                      "linkId": null,
+                      "linkUrl": "/application-notes",
+                      "linkStyle": "Link",
+                      "linkClass": null,
+                      "linkNewWindow": false,
+                      "linkIcon": {
+                        "title": "Application Notes",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/7DIsWM8RH29ZZLeHHxYJwE/711f91275574b15bde9183bc44186047/application-notes.png"
+                      }
+                    },
+                    {
+                      "linkText": "User Manuals",
+                      "linkId": null,
+                      "linkUrl": "/user-manuals",
+                      "linkStyle": "Link",
+                      "linkClass": null,
+                      "linkNewWindow": false,
+                      "linkIcon": {
+                        "title": "User Manuals",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/1RRD7339UpofbovmjkjAEo/31895d2a42a8f621184f18c51f1be3bf/user-manual.png"
+                      }
+                    },
+                    {
+                      "linkText": "Software Updates",
+                      "linkId": null,
+                      "linkUrl": "/software-updates",
+                      "linkStyle": "Link",
+                      "linkClass": null,
+                      "linkNewWindow": false,
+                      "linkIcon": {
+                        "title": "Software Updates",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/6Ql3briAfvaBsFlc2fEtsM/6a04389daeb8d1f607a4a413e37accb0/software-updates.png"
+                      }
+                    },
+                    {
+                      "linkText": "Product Specification Changes",
+                      "linkId": null,
+                      "linkUrl": "/product-specification-changes",
+                      "linkStyle": "Link",
+                      "linkClass": null,
+                      "linkNewWindow": false,
+                      "linkIcon": {
+                        "title": "Product Specification Changes",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/3txdh566Biu1PHVc2c9RvF/de5c6679267c3f8711defe2184928906/product-changes.png"
+                      }
+                    },
+                    {
+                      "linkText": "Quality & Environment",
+                      "linkId": null,
+                      "linkUrl": "/quality-environment",
+                      "linkStyle": "Link",
+                      "linkClass": null,
+                      "linkNewWindow": false,
+                      "linkIcon": {
+                        "title": "Quality & Environment",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/2hjDpZj1sKjMpmPen43Sn6/7e4855dca701521b47cfd415fa753908/quality-environment.png"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "__typename": "TextImage",
+                "tiDescription": {
+                  "json": {
+                    "nodeType": "document",
+                    "data": {},
+                    "content": [
+                      {
+                        "nodeType": "paragraph",
+                        "data": {},
+                        "content": [
+                          {
+                            "nodeType": "text",
+                            "value": "As a steadfast supplier to the automotive industry, IDEC combines both its technology achievements and customer experience insights to develop the most reliable products.",
+                            "marks": [],
+                            "data": {}
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                },
+                "tiOverline": "INDUSTRIES",
+                "tiTitle": "Automotive",
+                "tiImagePosition": "Right",
+                "tiImageDesktop": {
+                  "title": "Industries Automotive",
+                  "url": "https://images.ctfassets.net/fg4hnnyn9urp/67m10Hd7PFyxkJz2wG6U3k/84a7ade0ba252c6757743f128a81a305/industries-automotives.png"
+                },
+                "tiImageMobile": {
+                  "title": "Industries Automotive",
+                  "url": "https://images.ctfassets.net/fg4hnnyn9urp/67m10Hd7PFyxkJz2wG6U3k/84a7ade0ba252c6757743f128a81a305/industries-automotives.png"
+                },
+                "tiButton": {
+                  "linkText": "Read More",
+                  "linkId": null,
+                  "linkUrl": "https://idec.com/read-more",
+                  "linkStyle": "Button",
+                  "linkClass": null,
+                  "linkNewWindow": false
+                },
+                "tiLink": {
+                  "linkText": "See All Industries",
+                  "linkId": null,
+                  "linkUrl": "https://idec.com/industries",
+                  "linkStyle": "Button",
+                  "linkClass": null,
+                  "linkNewWindow": false
+                }
+              },
+              {
+                "__typename": "Carousel",
+                "crTitle": "News & Highlights",
+                "crStyle": "News card",
+                "crSlidesPerRow": "4",
+                "crViewAllLink": {
+                  "linkText": "View All",
+                  "linkId": null,
+                  "linkUrl": "/view-all",
+                  "linkStyle": "Button",
+                  "linkClass": null,
+                  "linkNewWindow": false
+                },
+                "crComponentsCollection": {
+                  "items": [
+                    {
+                      "__typename": "Card",
+                      "cdDescription": null,
+                      "cdTitle": "IDEC Financial Briefing Materials for FY2024",
+                      "cdStyle": "News card",
+                      "cdBadge": null,
+                      "cdOverline1": "May 10, 2024",
+                      "cdOverline2": null,
+                      "cdImage": {
+                        "title": "IDEC Financial Briefing Materials for FY2024",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/6dBgmR9BWV8GI0Dr9OJmvo/f501ce3d63e31fca8e183fc2a85d5803/idec-financial-briefing-materials-for-fy2024.png"
+                      },
+                      "cdLink": {
+                        "linkText": "Read More",
+                        "linkId": null,
+                        "linkUrl": "/read-more",
+                        "linkStyle": "Button",
+                        "linkClass": null,
+                        "linkNewWindow": false
+                      }
+                    },
+                    {
+                      "__typename": "Card",
+                      "cdDescription": null,
+                      "cdTitle": "IDEC Automation Organizer Suite V4.07.00",
+                      "cdStyle": "News card",
+                      "cdBadge": null,
+                      "cdOverline1": "Mar 27, 2024",
+                      "cdOverline2": null,
+                      "cdImage": {
+                        "title": "IDEC Red logo",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/4yAkjh1RP7CtQkc5jyXwjw/5b3ab557780be208f58f19f00bb6e883/idec-logo-red.png"
+                      },
+                      "cdLink": {
+                        "linkText": "Read More",
+                        "linkId": null,
+                        "linkUrl": "/read-more",
+                        "linkStyle": "Button",
+                        "linkClass": null,
+                        "linkNewWindow": false
+                      }
+                    },
+                    {
+                      "__typename": "Card",
+                      "cdDescription": null,
+                      "cdTitle": "IDEC Automation Organizer Suite V4.07.00",
+                      "cdStyle": "News card",
+                      "cdBadge": null,
+                      "cdOverline1": "Mar 27, 2024",
+                      "cdOverline2": null,
+                      "cdImage": {
+                        "title": "IDEC Automation Organizer Suite V4.07.00",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/1Ye4XkAhls8nynUdrIyprV/3559ee3cdfd288fdcd9ab3508ecd5613/idec-automation-organizer-suite-v4.07.00.png"
+                      },
+                      "cdLink": {
+                        "linkText": "Read More",
+                        "linkId": null,
+                        "linkUrl": "/read-more",
+                        "linkStyle": "Button",
+                        "linkClass": null,
+                        "linkNewWindow": false
+                      }
+                    },
+                    {
+                      "__typename": "Card",
+                      "cdDescription": null,
+                      "cdTitle": "IDEC FT2J Series All-In-One PLC and HMI",
+                      "cdStyle": "News card",
+                      "cdBadge": null,
+                      "cdOverline1": "Feb 20, 2024",
+                      "cdOverline2": null,
+                      "cdImage": {
+                        "title": "IDEC FT2J Series All-In-One PLC and HMI",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/2M8n8VvydxNgmQYGrEYFq1/856eccd03db872d4e4b017800068d683/idec-ft2j-series-all-in-one-plc-and-hmi.png"
+                      },
+                      "cdLink": {
+                        "linkText": "Read More",
+                        "linkId": null,
+                        "linkUrl": "/read-more",
+                        "linkStyle": "Button",
+                        "linkClass": null,
+                        "linkNewWindow": false
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "__typename": "TextImage",
+                "tiDescription": {
+                  "json": {
+                    "data": {},
+                    "content": [
+                      {
+                        "data": {},
+                        "content": [
+                          {
+                            "data": {},
+                            "marks": [],
+                            "value": "The IDEC Group’s purpose is to create the optimum environment for humans and machines, and to achieve safety, ANSHIN, and well-being for people around the world...",
+                            "nodeType": "text"
+                          }
+                        ],
+                        "nodeType": "paragraph"
+                      }
+                    ],
+                    "nodeType": "document"
+                  }
+                },
+                "tiOverline": null,
+                "tiTitle": "About IDEC Way",
+                "tiLink": null,
+                "tiImagePosition": "Left",
+                "tiImageDesktop": {
+                  "title": "About idec way.png",
+                  "url": "https://images.ctfassets.net/fg4hnnyn9urp/4p3wx8NzrMmlDprLa9Phax/fda148d36aa57780bdca5a399637d071/about-idec-way.png"
+                },
+                "tiImageMobile": {
+                  "title": "About idec way.png",
+                  "url": "https://images.ctfassets.net/fg4hnnyn9urp/4p3wx8NzrMmlDprLa9Phax/fda148d36aa57780bdca5a399637d071/about-idec-way.png"
+                },
+                "tiButton": {
+                  "linkText": "Discover Now",
+                  "linkId": null,
+                  "linkUrl": "https://idec.com/discover-now",
+                  "linkStyle": "Button",
+                  "linkClass": null,
+                  "linkNewWindow": false
+                }
+              },
+              {
+                "__typename": "Columns",
+                "clmIntroductionText": {
+                  "json": {
+                    "data": {},
+                    "content": [
+                      {
+                        "data": {},
+                        "content": [
+                          {
+                            "data": {},
+                            "marks": [],
+                            "value": "Get the help and resources you need quickly with IDEC",
+                            "nodeType": "text"
+                          }
+                        ],
+                        "nodeType": "paragraph"
+                      }
+                    ],
+                    "nodeType": "document"
+                  }
+                },
+                "clmStyle": "Help Links",
+                "clmTitle": "What are you looking for?",
+                "clmContentsCollection": {
+                  "items": [
+                    {
+                      "__typename": "Card",
+                      "cdDescription": {
+                        "json": {
+                          "data": {},
+                          "content": [
+                            {
+                              "data": {},
+                              "content": [
+                                {
+                                  "data": {},
+                                  "marks": [],
+                                  "value": "All the technical documentation you need to make things work.",
+                                  "nodeType": "text"
+                                }
+                              ],
+                              "nodeType": "paragraph"
+                            }
+                          ],
+                          "nodeType": "document"
+                        }
+                      },
+                      "cdTitle": "Resources & Documents",
+                      "cdStyle": "Help links",
+                      "cdBadge": null,
+                      "cdOverline1": null,
+                      "cdOverline2": null,
+                      "cdImage": {
+                        "title": "Resources & Documents",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/6dwPa35psKtgEnPJ3GkGqc/42ff93233a33a2db3ae6cba0dcd3eb02/documents-icon.png"
+                      },
+                      "cdLink": {
+                        "linkText": "Resources & Documents",
+                        "linkId": null,
+                        "linkUrl": "/resources-documents",
+                        "linkIcon": null,
+                        "linkStyle": "Link",
+                        "linkClass": null,
+                        "linkNewWindow": false
+                      }
+                    },
+                    {
+                      "__typename": "Card",
+                      "cdDescription": {
+                        "json": {
+                          "data": {},
+                          "content": [
+                            {
+                              "data": {},
+                              "content": [
+                                {
+                                  "data": {},
+                                  "marks": [],
+                                  "value": "Our sales and support set the standard for helping you.",
+                                  "nodeType": "text"
+                                }
+                              ],
+                              "nodeType": "paragraph"
+                            }
+                          ],
+                          "nodeType": "document"
+                        }
+                      },
+                      "cdTitle": "Support",
+                      "cdStyle": "Help links",
+                      "cdBadge": null,
+                      "cdOverline1": null,
+                      "cdOverline2": null,
+                      "cdImage": {
+                        "title": "Support",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/2GCs3klYCyD3XD1YI5mpex/ddf07e27aa9558db06fbb07ba035df2b/support-icon.png"
+                      },
+                      "cdLink": {
+                        "linkText": "Support",
+                        "linkId": null,
+                        "linkUrl": "/support",
+                        "linkIcon": null,
+                        "linkStyle": "Link",
+                        "linkClass": null,
+                        "linkNewWindow": false
+                      }
+                    },
+                    {
+                      "__typename": "Card",
+                      "cdDescription": {
+                        "json": {
+                          "nodeType": "document",
+                          "data": {},
+                          "content": [
+                            {
+                              "nodeType": "paragraph",
+                              "data": {},
+                              "content": [
+                                {
+                                  "nodeType": "text",
+                                  "value": "If you have questions or suggestions, we’re here to listen.",
+                                  "marks": [],
+                                  "data": {}
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      "cdTitle": "Contact Us",
+                      "cdStyle": "Help links",
+                      "cdBadge": null,
+                      "cdOverline1": null,
+                      "cdOverline2": null,
+                      "cdImage": {
+                        "title": "Contact Us",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/1oKWdvU1TtCx5YtV5SHCXk/4bcb1594cad723a554c296c417f89b53/contact-icon.png"
+                      },
+                      "cdLink": {
+                        "linkText": "Contact Us",
+                        "linkId": null,
+                        "linkUrl": "/contact-us",
+                        "linkIcon": null,
+                        "linkStyle": "Link",
+                        "linkClass": null,
+                        "linkNewWindow": false
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "__typename": "RecentProducts",
+                "rpDescription": null,
+                "rpTitle": "Your Recently Viewed",
+                "rpProductListType": "Recently viewed"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

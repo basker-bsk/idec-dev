@@ -1,0 +1,102 @@
+{
+  "__typename": "ListOfLinks",
+  "listLinkIntroduction": null,
+  "listLinkTitle": "Resources & Documents",
+  "listLinkStyle": "Two Column",
+  "listLinkviewAllLink": {
+    "linkText": "View All Resources",
+    "linkId": null,
+    "linkUrl": "/view-all-resources",
+    "linkStyle": "Button",
+    "linkClass": null,
+    "linkNewWindow": false
+  },
+  "listLinkCollection": {
+    "items": [
+      {
+        "linkText": "CAD Files",
+        "linkId": null,
+        "linkUrl": "/cad-files",
+        "linkStyle": "Link",
+        "linkClass": null,
+        "linkNewWindow": false,
+        "linkIcon": {
+          "title": "CAD Files",
+          "url": "https://images.ctfassets.net/fg4hnnyn9urp/4DN8Jeb9SeU5nSYIqhrUGA/441d4263bded6903d1f5917dda2c2f48/cad-file.png"
+        }
+      },
+      {
+        "linkText": "Catalogs & Brochures",
+        "linkId": null,
+        "linkUrl": "/catalogs",
+        "linkStyle": "Link",
+        "linkClass": null,
+        "linkNewWindow": false,
+        "linkIcon": {
+          "title": "Catalogs & Brochures",
+          "url": "https://images.ctfassets.net/fg4hnnyn9urp/5MwLaWYa7kIuU184DDhqtX/3af97a80a445d5b2d3696b53ef335fc1/catalog.png"
+        }
+      },
+      {
+        "linkText": "Application Notes",
+        "linkId": null,
+        "linkUrl": "/application-notes",
+        "linkStyle": "Link",
+        "linkClass": null,
+        "linkNewWindow": false,
+        "linkIcon": {
+          "title": "Application Notes",
+          "url": "https://images.ctfassets.net/fg4hnnyn9urp/7DIsWM8RH29ZZLeHHxYJwE/711f91275574b15bde9183bc44186047/application-notes.png"
+        }
+      },
+      {
+        "linkText": "User Manuals",
+        "linkId": null,
+        "linkUrl": "/user-manuals",
+        "linkStyle": "Link",
+        "linkClass": null,
+        "linkNewWindow": false,
+        "linkIcon": {
+          "title": "User Manuals",
+          "url": "https://images.ctfassets.net/fg4hnnyn9urp/1RRD7339UpofbovmjkjAEo/31895d2a42a8f621184f18c51f1be3bf/user-manual.png"
+        }
+      },
+      {
+        "linkText": "Software Updates",
+        "linkId": null,
+        "linkUrl": "/software-updates",
+        "linkStyle": "Link",
+        "linkClass": null,
+        "linkNewWindow": false,
+        "linkIcon": {
+          "title": "Software Updates",
+          "url": "https://images.ctfassets.net/fg4hnnyn9urp/6Ql3briAfvaBsFlc2fEtsM/6a04389daeb8d1f607a4a413e37accb0/software-updates.png"
+        }
+      },
+      {
+        "linkText": "Product Specification Changes",
+        "linkId": null,
+        "linkUrl": "/product-specification-changes",
+        "linkStyle": "Link",
+        "linkClass": null,
+        "linkNewWindow": false,
+        "linkIcon": {
+          "title": "Product Specification Changes",
+          "url": "https://images.ctfassets.net/fg4hnnyn9urp/3txdh566Biu1PHVc2c9RvF/de5c6679267c3f8711defe2184928906/product-changes.png"
+        }
+      },
+      {
+        "linkText": "Quality & Environment",
+        "linkId": null,
+        "linkUrl": "/quality-environment",
+        "linkStyle": "Link",
+        "linkClass": null,
+        "linkNewWindow": false,
+        "linkIcon": {
+          "title": "Quality & Environment",
+          "url": "https://images.ctfassets.net/fg4hnnyn9urp/2hjDpZj1sKjMpmPen43Sn6/7e4855dca701521b47cfd415fa753908/quality-environment.png"
+        }
+      }
+    ]
+  }
+}

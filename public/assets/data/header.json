@@ -1,0 +1,755 @@
+{
+  "headerCollection": {
+    "items": [
+      {
+        "hdName": "Header - IDEC Global",
+        "hdSearchBoxPlaceholder": "Search products, keywords or documents",
+        "hdWelcomeUserPrelogin": "Hi, Guest",
+        "hdWelcomeUserPostlogin": "Welcome Back",
+        "hdLoginLabel": "Login / Sign Up",
+        "hdLogoutLabel": "Logout",
+        "hdRegionIndicator": "You are in",
+        "hdProductFinder": "PRODUCT FINDER",
+        "hdProductFinderHeading": "Enhance Your Search",
+        "hdProductFinderIntroText": "The product finder helps you quickly find the right solutions for your needs.",
+        "hdProductFinderLink": {
+          "linkText": "Try it Out",
+          "linkUrl": "/try-it-out",
+          "linkNewWindow": false,
+          "linkClass": "sdfsd",
+          "linkId": "5456454"
+        },
+        "hdMainNavigation": {
+          "menusTitle": "Main Navigation",
+          "menusDescription": "Header Menu",
+          "menusItemsCollection": {
+            "items": [
+              {
+                "sys": {
+                  "id": "35qZlV98tdFnFYSiLYg41O"
+                },
+                "linkText": "All Products",
+                "linkUrl": "/all-products",
+                "linkIcon": null,
+                "linkClass": null,
+                "linkId": null,
+                "linkNewWindow": false,
+                "linkChildrenCollection": {
+                  "items": [
+                    {
+                      "linkText": "Automation",
+                      "linkUrl": "/all-products/automation",
+                      "linkClass": null,
+                      "linkId": null,
+                      "linkHideText": false,
+                      "linkNewWindow": false,
+                      "linkChildrenCollection": {
+                        "items": []
+                      },
+                      "linkIcon": {
+                        "title": "Automation",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/49ECL3C1im4ZnY8o7pp0IN/ce0aaad62806e55a14dd428b7ca89eb9/automation-all-products.png"
+                      }
+                    },
+                    {
+                      "linkText": "Safety & Explosion Protection",
+                      "linkUrl": "/all-products/safety-explosion-protection",
+                      "linkClass": null,
+                      "linkId": null,
+                      "linkHideText": false,
+                      "linkNewWindow": false,
+                      "linkChildrenCollection": {
+                        "items": []
+                      },
+                      "linkIcon": {
+                        "title": "Safety & Explosion Protection",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/4TnPcEpBV7H6TJqWSyKgeN/efc34e14225f58f2772bab2d33a57ad3/safety-explosion-protection.png"
+                      }
+                    },
+                    {
+                      "linkText": "Switches & Indicators",
+                      "linkUrl": "/all-products/switches-indicators",
+                      "linkClass": null,
+                      "linkId": null,
+                      "linkHideText": false,
+                      "linkNewWindow": false,
+                      "linkChildrenCollection": {
+                        "items": [
+                          {
+                            "linkText": "Switches & Pushbuttons",
+                            "linkUrl": "/all-products/switches-indicators/switches-pushbuttons",
+                            "linkIcon": null,
+                            "linkClass": null,
+                            "linkId": null,
+                            "linkHideText": false,
+                            "linkNewWindow": false
+                          },
+                          {
+                            "linkText": "Indicator Lights & Buzzers",
+                            "linkUrl": "/all-products/switches-indicators/indicator-lights-buzzers",
+                            "linkIcon": null,
+                            "linkClass": null,
+                            "linkId": null,
+                            "linkHideText": false,
+                            "linkNewWindow": false
+                          },
+                          {
+                            "linkText": "LED Lighting",
+                            "linkUrl": "/all-products/switches-indicators/led-lighting",
+                            "linkIcon": null,
+                            "linkClass": null,
+                            "linkId": null,
+                            "linkHideText": false,
+                            "linkNewWindow": false
+                          },
+                          {
+                            "linkText": "Explore All",
+                            "linkUrl": "/all-products/switches-indicators/explore-all",
+                            "linkIcon": null,
+                            "linkClass": null,
+                            "linkId": "Explore-All",
+                            "linkHideText": false,
+                            "linkNewWindow": false
+                          }
+                        ]
+                      },
+                      "linkIcon": {
+                        "title": "Switches & Indicators",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/1hQWXKE6xrYd2J8yDEJhQs/ed891dbeaa8162eeced91aa916786e73/switches-indicators.png"
+                      }
+                    },
+                    {
+                      "linkText": "Industrial Components",
+                      "linkUrl": "/all-products/industrial-components",
+                      "linkClass": null,
+                      "linkId": null,
+                      "linkHideText": false,
+                      "linkNewWindow": false,
+                      "linkChildrenCollection": {
+                        "items": []
+                      },
+                      "linkIcon": {
+                        "title": "Industrial Components",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/3oU7KG89sVNmKKDFmQRhMl/9ed33fcf5dbd1c94a4ad8604fef0e26d/industrial-components.png"
+                      }
+                    },
+                    {
+                      "linkText": "Auto - ID",
+                      "linkUrl": "/all-products/auto-id",
+                      "linkClass": null,
+                      "linkId": null,
+                      "linkHideText": false,
+                      "linkNewWindow": false,
+                      "linkChildrenCollection": {
+                        "items": []
+                      },
+                      "linkIcon": {
+                        "title": "Auto-ID",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/68LzDW1IbuUL4RUOfRiFmf/dfe1c3a55aea73d8f5d33ce4e05b6b57/auto-id.png"
+                      }
+                    },
+                    {
+                      "linkText": "Motorized System",
+                      "linkUrl": "/all-products/motorized-system",
+                      "linkClass": null,
+                      "linkId": null,
+                      "linkHideText": false,
+                      "linkNewWindow": false,
+                      "linkChildrenCollection": {
+                        "items": []
+                      },
+                      "linkIcon": {
+                        "title": "Motorized System",
+                        "url": "https://images.ctfassets.net/fg4hnnyn9urp/2zWvFzSzca57JeYFlxw6W/3a74bc314470cd484813043402c20a6d/motorized-system.png"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "sys": {
+                  "id": "31fsibHc8tsZ1chEbjnTNN"
+                },
+                "linkText": "Product Finder",
+                "linkUrl": "/product-finder",
+                "linkIcon": null,
+                "linkClass": "red-link",
+                "linkId": null,
+                "linkNewWindow": false,
+                "linkChildrenCollection": {
+                  "items": []
+                }
+              },
+              {
+                "sys": {
+                  "id": "2hqVLtIVcALJKCGs8O6Nfc"
+                },
+                "linkText": "Industries",
+                "linkUrl": "https://idec.com/industries",
+                "linkIcon": null,
+                "linkClass": null,
+                "linkId": null,
+                "linkNewWindow": false,
+                "linkChildrenCollection": {
+                  "items": [
+                    {
+                      "linkText": "Automative",
+                      "linkUrl": "https://idec.com/industries/automative",
+                      "linkIcon": null,
+                      "linkClass": null,
+                      "linkId": null,
+                      "linkHideText": false,
+                      "linkNewWindow": false,
+                      "linkChildrenCollection": {
+                        "items": [
+                          {
+                            "linkText": "Time Efficiency",
+                            "linkUrl": "/industries/automative/time-efficiency",
+                            "linkIcon": null,
+                            "linkClass": null,
+                            "linkId": null,
+                            "linkHideText": false,
+                            "linkNewWindow": false
+                          },
+                          {
+                            "linkText": "Simplify Traceability System Installation",
+                            "linkUrl": "/industries/automative/simplify-traceability-system-installation",
+                            "linkIcon": null,
+                            "linkClass": null,
+                            "linkId": null,
+                            "linkHideText": false,
+                            "linkNewWindow": false
+                          },
+                          {
+                            "linkText": "Reduce Injuries",
+                            "linkUrl": "/industries/automative/reduce-injuries",
+                            "linkIcon": null,
+                            "linkClass": null,
+                            "linkId": null,
+                            "linkHideText": false,
+                            "linkNewWindow": false
+                          },
+                          {
+                            "linkText": "Improve Visibility & Maintenance Time",
+                            "linkUrl": "/industries/automative/improve-visibility-maintenance-time",
+                            "linkIcon": null,
+                            "linkClass": null,
+                            "linkId": null,
+                            "linkHideText": false,
+                            "linkNewWindow": false
+                          },
+                          {
+                            "linkText": "Optmise Small Equipment Safety",
+                            "linkUrl": "/industries/automative/optmise-small-equipment-safety",
+                            "linkIcon": null,
+                            "linkClass": null,
+                            "linkId": null,
+                            "linkHideText": false,
+                            "linkNewWindow": false
+                          },
+                          {
+                            "linkText": "Explore All",
+                            "linkUrl": "/industries/automative/explore-all",
+                            "linkIcon": null,
+                            "linkClass": null,
+                            "linkId": "Explore-All",
+                            "linkHideText": false,
+                            "linkNewWindow": false
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "linkText": "Machine Tools",
+                      "linkUrl": "https://idec.com/industries/machine-tools",
+                      "linkIcon": null,
+                      "linkClass": null,
+                      "linkId": null,
+                      "linkHideText": false,
+                      "linkNewWindow": false,
+                      "linkChildrenCollection": {
+                        "items": [
+                          {
+                            "linkText": "Machine tools(empty)",
+                            "linkUrl": "/industries/machine-tools/empty",
+                            "linkIcon": null,
+                            "linkClass": null,
+                            "linkId": null,
+                            "linkHideText": false,
+                            "linkNewWindow": false
+                          },
+                          {
+                            "linkText": "Machine Tools(empty 2)",
+                            "linkUrl": "/machine-tools/empty2",
+                            "linkIcon": null,
+                            "linkClass": null,
+                            "linkId": null,
+                            "linkHideText": false,
+                            "linkNewWindow": false
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "linkText": "Robotics",
+                      "linkUrl": "https://idec.com/industries/robotics",
+                      "linkIcon": null,
+                      "linkClass": null,
+                      "linkId": null,
+                      "linkHideText": false,
+                      "linkNewWindow": false,
+                      "linkChildrenCollection": {
+                        "items": [
+                          {
+                            "linkText": "Robotics(empty)",
+                            "linkUrl": "/robotics/empty",
+                            "linkIcon": null,
+                            "linkClass": null,
+                            "linkId": null,
+                            "linkHideText": false,
+                            "linkNewWindow": false
+                          },
+                          {
+                            "linkText": "Robotics(empty2)",
+                            "linkUrl": "/robotics/empty2",
+                            "linkIcon": null,
+                            "linkClass": null,
+                            "linkId": null,
+                            "linkHideText": false,
+                            "linkNewWindow": false
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "linkText": "Material Handling",
+                      "linkUrl": "https://idec.com/industries/material-handling",
+                      "linkIcon": null,
+                      "linkClass": null,
+                      "linkId": null,
+                      "linkHideText": false,
+                      "linkNewWindow": false,
+                      "linkChildrenCollection": {
+                        "items": [
+                          {
+                            "linkText": "Material Handling(empty)",
+                            "linkUrl": "/material-handling/empty",
+                            "linkIcon": null,
+                            "linkClass": null,
+                            "linkId": null,
+                            "linkHideText": false,
+                            "linkNewWindow": false
+                          },
+                          {
+                            "linkText": "Material Handling(empty2)",
+                            "linkUrl": "/material-handling/empty2",
+                            "linkIcon": null,
+                            "linkClass": null,
+                            "linkId": null,
+                            "linkHideText": false,
+                            "linkNewWindow": false
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "linkText": "Food and Packaging",
+                      "linkUrl": "https://idec.com/industries/food-packaging",
+                      "linkIcon": null,
+                      "linkClass": null,
+                      "linkId": null,
+                      "linkHideText": false,
+                      "linkNewWindow": false,
+                      "linkChildrenCollection": {
+                        "items": [
+                          {
+                            "linkText": "Food and Packaging(empty1)",
+                            "linkUrl": "/food-packaging/empty",
+                            "linkIcon": null,
+                            "linkClass": null,
+                            "linkId": null,
+                            "linkHideText": false,
+                            "linkNewWindow": false
+                          },
+                          {
+                            "linkText": "Food and Packaging(empty2)",
+                            "linkUrl": "/food-packaging/empty2",
+                            "linkIcon": null,
+                            "linkClass": null,
+                            "linkId": null,
+                            "linkHideText": false,
+                            "linkNewWindow": false
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "linkText": "Semi Conductor",
+                      "linkUrl": "https://idec.com/industries/semi-conductor",
+                      "linkIcon": null,
+                      "linkClass": null,
+                      "linkId": null,
+                      "linkHideText": false,
+                      "linkNewWindow": false,
+                      "linkChildrenCollection": {
+                        "items": [
+                          {
+                            "linkText": "Semi Conductor dummy link 1",
+                            "linkUrl": "https://idec.com/semi-conductor-dummy-link",
+                            "linkIcon": null,
+                            "linkClass": null,
+                            "linkId": null,
+                            "linkHideText": false,
+                            "linkNewWindow": false
+                          },
+                          {
+                            "linkText": "Semi Conductor dummy link 2",
+                            "linkUrl": "https://idec.com/semi-conductor-dummy-link",
+                            "linkIcon": null,
+                            "linkClass": null,
+                            "linkId": null,
+                            "linkHideText": false,
+                            "linkNewWindow": false
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "linkText": "Special Vehicles",
+                      "linkUrl": "https://idec.com/industries/special-vehicles",
+                      "linkIcon": null,
+                      "linkClass": null,
+                      "linkId": null,
+                      "linkHideText": false,
+                      "linkNewWindow": false,
+                      "linkChildrenCollection": {
+                        "items": [
+                          {
+                            "linkText": "Special Vehicles dummy link 1",
+                            "linkUrl": "https://idec.com/special-vehicles-dummy-link",
+                            "linkIcon": null,
+                            "linkClass": null,
+                            "linkId": null,
+                            "linkHideText": false,
+                            "linkNewWindow": false
+                          },
+                          {
+                            "linkText": "Special Vehicles dummy link 2",
+                            "linkUrl": "https://idec.com/special-vehicles-dummy-link",
+                            "linkIcon": null,
+                            "linkClass": null,
+                            "linkId": null,
+                            "linkHideText": false,
+                            "linkNewWindow": false
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "linkText": "Control Panel",
+                      "linkUrl": "https://idec.com/industries/control-panel",
+                      "linkIcon": null,
+                      "linkClass": null,
+                      "linkId": null,
+                      "linkHideText": false,
+                      "linkNewWindow": false,
+                      "linkChildrenCollection": {
+                        "items": [
+                          {
+                            "linkText": "Control Panel dummy link",
+                            "linkUrl": "https://idec.com/control-panel-dummy-link",
+                            "linkIcon": null,
+                            "linkClass": null,
+                            "linkId": null,
+                            "linkHideText": false,
+                            "linkNewWindow": false
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "sys": {
+                  "id": "2UJbmqmrMtnNeKncfSvrZ4"
+                },
+                "linkText": "Solutions",
+                "linkUrl": "https://idec.com/solutions",
+                "linkIcon": null,
+                "linkClass": null,
+                "linkId": null,
+                "linkNewWindow": false,
+                "linkChildrenCollection": {
+                  "items": [
+                    {
+                      "linkText": "Solution dummy 1",
+                      "linkUrl": "https://idec.com/solution/dummy1",
+                      "linkIcon": null,
+                      "linkClass": null,
+                      "linkId": null,
+                      "linkHideText": false,
+                      "linkNewWindow": false,
+                      "linkChildrenCollection": {
+                        "items": []
+                      }
+                    },
+                    {
+                      "linkText": "Solutions dummy 2",
+                      "linkUrl": "https://idec.com/solutions/dummy2",
+                      "linkIcon": null,
+                      "linkClass": null,
+                      "linkId": null,
+                      "linkHideText": false,
+                      "linkNewWindow": false,
+                      "linkChildrenCollection": {
+                        "items": []
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "sys": {
+                  "id": "4D3WANgzZBpLTFG1n0V1Eg"
+                },
+                "linkText": "Resources",
+                "linkUrl": "/resources",
+                "linkIcon": null,
+                "linkClass": null,
+                "linkId": null,
+                "linkNewWindow": false,
+                "linkChildrenCollection": {
+                  "items": [
+                    {
+                      "linkText": "CAD Files",
+                      "linkUrl": "/resources/cad-files",
+                      "linkIcon": null,
+                      "linkClass": null,
+                      "linkId": null,
+                      "linkHideText": false,
+                      "linkNewWindow": false,
+                      "linkChildrenCollection": {
+                        "items": []
+                      }
+                    },
+                    {
+                      "linkText": "Applications Notes",
+                      "linkUrl": "/resources/application-notes",
+                      "linkIcon": null,
+                      "linkClass": null,
+                      "linkId": null,
+                      "linkHideText": false,
+                      "linkNewWindow": false,
+                      "linkChildrenCollection": {
+                        "items": []
+                      }
+                    },
+                    {
+                      "linkText": "Catalogs & Brochures",
+                      "linkUrl": "/resources/catalogs-brochures",
+                      "linkIcon": null,
+                      "linkClass": null,
+                      "linkId": null,
+                      "linkHideText": false,
+                      "linkNewWindow": false,
+                      "linkChildrenCollection": {
+                        "items": []
+                      }
+                    },
+                    {
+                      "linkText": "Video Library",
+                      "linkUrl": "/resources/video-library",
+                      "linkIcon": null,
+                      "linkClass": null,
+                      "linkId": null,
+                      "linkHideText": false,
+                      "linkNewWindow": false,
+                      "linkChildrenCollection": {
+                        "items": []
+                      }
+                    },
+                    {
+                      "linkText": "Certifications",
+                      "linkUrl": "/resources/certifications",
+                      "linkIcon": null,
+                      "linkClass": null,
+                      "linkId": null,
+                      "linkHideText": false,
+                      "linkNewWindow": false,
+                      "linkChildrenCollection": {
+                        "items": []
+                      }
+                    },
+                    {
+                      "linkText": "Vulnerability Reports",
+                      "linkUrl": "/resources/vulnerability-reports",
+                      "linkIcon": null,
+                      "linkClass": null,
+                      "linkId": null,
+                      "linkHideText": false,
+                      "linkNewWindow": false,
+                      "linkChildrenCollection": {
+                        "items": []
+                      }
+                    },
+                    {
+                      "linkText": "Whitepapers",
+                      "linkUrl": "/resources/white-papers",
+                      "linkIcon": null,
+                      "linkClass": null,
+                      "linkId": null,
+                      "linkHideText": false,
+                      "linkNewWindow": false,
+                      "linkChildrenCollection": {
+                        "items": []
+                      }
+                    },
+                    {
+                      "linkText": "User Manual",
+                      "linkUrl": "/resources/user-manual",
+                      "linkIcon": null,
+                      "linkClass": null,
+                      "linkId": null,
+                      "linkHideText": false,
+                      "linkNewWindow": false,
+                      "linkChildrenCollection": {
+                        "items": []
+                      }
+                    },
+                    {
+                      "linkText": "Software Upgrade",
+                      "linkUrl": "/resources/software-upgrade",
+                      "linkIcon": null,
+                      "linkClass": null,
+                      "linkId": null,
+                      "linkHideText": false,
+                      "linkNewWindow": false,
+                      "linkChildrenCollection": {
+                        "items": []
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "sys": {
+                  "id": "1AJhnVGILfBq9GTfk6Ehlt"
+                },
+                "linkText": "Happenings",
+                "linkUrl": "/happenings",
+                "linkIcon": null,
+                "linkClass": null,
+                "linkId": null,
+                "linkNewWindow": false,
+                "linkChildrenCollection": {
+                  "items": [
+                    {
+                      "linkText": "Blogs / News",
+                      "linkUrl": "/happenings/blogs-news",
+                      "linkIcon": null,
+                      "linkClass": null,
+                      "linkId": null,
+                      "linkHideText": false,
+                      "linkNewWindow": false,
+                      "linkChildrenCollection": {
+                        "items": []
+                      }
+                    },
+                    {
+                      "linkText": "Events / Seminars",
+                      "linkUrl": "/happenings/events-seminars",
+                      "linkIcon": null,
+                      "linkClass": null,
+                      "linkId": null,
+                      "linkHideText": false,
+                      "linkNewWindow": false,
+                      "linkChildrenCollection": {
+                        "items": []
+                      }
+                    },
+                    {
+                      "linkText": "Campaigns",
+                      "linkUrl": "/happenings/campaigns",
+                      "linkIcon": null,
+                      "linkClass": null,
+                      "linkId": null,
+                      "linkHideText": false,
+                      "linkNewWindow": false,
+                      "linkChildrenCollection": {
+                        "items": []
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "sys": {
+                  "id": "64LLVEM5vRusyMdtJTLr5x"
+                },
+                "linkText": "Support",
+                "linkUrl": "/support",
+                "linkIcon": null,
+                "linkClass": null,
+                "linkId": null,
+                "linkNewWindow": false,
+                "linkChildrenCollection": {
+                  "items": [
+                    {
+                      "linkText": "FAQs",
+                      "linkUrl": "https://idec.com/support/faqs",
+                      "linkIcon": null,
+                      "linkClass": null,
+                      "linkId": null,
+                      "linkHideText": false,
+                      "linkNewWindow": false,
+                      "linkChildrenCollection": {
+                        "items": []
+                      }
+                    },
+                    {
+                      "linkText": "Contact Us",
+                      "linkUrl": "https://idec.com/support/contact-us",
+                      "linkIcon": null,
+                      "linkClass": null,
+                      "linkId": null,
+                      "linkHideText": false,
+                      "linkNewWindow": false,
+                      "linkChildrenCollection": {
+                        "items": []
+                      }
+                    },
+                    {
+                      "linkText": "Distributor Locator",
+                      "linkUrl": "https://idec.com/support/distributor-locator",
+                      "linkIcon": null,
+                      "linkClass": null,
+                      "linkId": null,
+                      "linkHideText": null,
+                      "linkNewWindow": false,
+                      "linkChildrenCollection": {
+                        "items": []
+                      }
+                    },
+                    {
+                      "linkText": "Unauthorised Channels",
+                      "linkUrl": "https://idec.com/support/unauthorised-channels",
+                      "linkIcon": null,
+                      "linkClass": null,
+                      "linkId": null,
+                      "linkHideText": false,
+                      "linkNewWindow": false,
+                      "linkChildrenCollection": {
+                        "items": []
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}
