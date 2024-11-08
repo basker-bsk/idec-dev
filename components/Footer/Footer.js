@@ -189,7 +189,7 @@ export default async function Footer() {
                 <ul className="flex flex-col md:flex-row gap-3 md:gap-6 md:items-center">
                   {FooterData.ftBottomNavigation?.menusItemsCollection?.items?.map(
                     (ftBtmNavInfo, ftBtmNavIndex) => (
-                      <li className="">
+                      <li key={`ftBtmItem-${ftBtmNavIndex}`}>
                         <Link
                           href={ftBtmNavInfo.linkUrl}
                           key={`ftBtmItem-${ftBtmNavIndex}`}
