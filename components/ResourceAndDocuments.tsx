@@ -16,12 +16,12 @@ export default function ResourceAndDocuments({ rd }: Props) {
           </div>
         </div>
         <div>
-          <ul className="grid md:grid-cols-2 gap-1 flex-wrap">
+          <ul className="grid md:grid-cols-2 gap-x-4 flex-wrap">
             {rd.listLinkCollection?.items?.map((list, index) => (
               <li
                 key={list.linkText}
                 data-aos={!(index % 2) ? "fade-right" : "fade-left"}
-                className="px-5 py-4 flex justify-between items-center border-b border-gray-300"
+                className="px-5 py-4 w-11/12 flex justify-between items-center border-b border-gray-300 md:mb-[10px]"
               >
                 <Link
                   href={list.linkUrl}

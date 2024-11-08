@@ -38,10 +38,18 @@ export default function TextImageComponent({ data }: Props) {
                 }
               )}
             >
-              <LazyLoadImage
+              {/* <LazyLoadImage
                 data-aos="zoom-in"
                 alt={data.tiImageDesktop.title}
                 effect="blur"
+                src={data.tiImageDesktop.url}
+                className="rounded-tl-2xl rounded-tr-2xl md:rounded-md"
+              /> */}
+              <Image
+                data-aos="zoom-in"
+                width={850}
+                height={460}
+                alt={data.tiImageDesktop.title}
                 src={data.tiImageDesktop.url}
                 className="rounded-tl-2xl rounded-tr-2xl md:rounded-md"
               />

@@ -7,7 +7,7 @@ import LanguageSwitch from "../LanguageSwtich";
 import MyAccountMenu from "../MyAccountMenu";
 import ProfileMenu from "@/public/assets/data/profile-menu.json";
 import CartInHeader from "../CartInHeader";
-
+import { HEADER_QUERY } from "@/helpers/QueryCollections";
 import {
   Sheet,
   SheetContent,
@@ -15,93 +15,12 @@ import {
   SheetHeader,
   SheetTrigger,
 } from "@/components/ui/sheet";
-import { gql } from "@apollo/client";
+
 import { getClient } from "@/app/utility/ApolloClient";
 
-const headerQuery = gql`
-  {
-    headerCollection(
-      limit: 1
-      locale: "en-US"
-      where: { regions: { regionLabel: "Global" } }
-    ) {
-      items {
-        hdName
-        hdSearchBoxPlaceholder
-        hdWelcomeUserPrelogin
-        hdWelcomeUserPostlogin
-        hdLoginLabel
-        hdLogoutLabel
-        hdMainNavigation {
-          menusTitle
-          menusDescription
-          menusItemsCollection(limit: 7) {
-            items {
-              linkText
-              linkUrl
-              linkIcon {
-                title
-                url
-              }
-              linkClass
-              linkId
-              linkNewWindow
-              linkChildrenCollection(limit: 20) {
-                items {
-                  linkText
-                  linkUrl
-                  linkIcon {
-                    title
-                    url
-                  }
-                  linkClass
-                  linkId
-                  linkHideText
-                  linkNewWindow
-                  linkChildrenCollection(limit: 20) {
-                    items {
-                      linkText
-                      linkUrl
-                      linkIcon {
-                        title
-                        url
-                      }
-                      linkClass
-                      linkId
-                      linkHideText
-                      linkNewWindow
-                    }
-                  }
-                }
-              }
-              sys {
-                id
-              }
-            }
-          }
-        }
-        hdRegionIndicator
-        hdProductFinder
-        hdProductFinderHeading
-        hdProductFinderBackgroundImage {
-          title
-          url
-        }
-        hdProductFinderIntroText
-        hdProductFinderLink {
-          linkText
-          linkUrl
-          linkNewWindow
-          linkClass
-          linkId
-        }
-      }
-    }
-  }
-`;
-
 export default async function Header() {
-  const { data } = await getClient().query({ query: headerQuery });
+  const { data } = await getClient().query({ query: HEADER_QUERY });
+
   let headerData = data?.headerCollection?.items[0];
   let Menus = headerData?.hdMainNavigation?.menusItemsCollection?.items;
   const {

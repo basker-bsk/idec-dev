@@ -7,65 +7,14 @@ import {
   AccordionItem,
   AccordionTrigger,
 } from "@/components/ui/accordion";
-import { gql } from "@apollo/client";
+
 import { getClient } from "@/app/utility/ApolloClient";
-const footerQuery = gql`
-  {
-    footerCollection(limit: 1, locale: "en-US") {
-      items {
-        ftName
-        ftIntroText
-        ftSocialMediaLinksCollection(limit: 6) {
-          items {
-            linkText
-            linkUrl
-            linkNewWindow
-            linkId
-          }
-        }
-        ftNavigationCollection(limit: 4) {
-          items {
-            menusTitle
-            menusDescription
-            menusItemsCollection(limit: 15) {
-              items {
-                linkText
-                linkUrl
-                linkStyle
-                linkSubText
-                linkNewWindow
-                linkClass
-                linkId
-              }
-            }
-          }
-        }
-        ftQrCode {
-          title
-          url
-        }
-        ftCopyrightText
-        ftBottomNavigation {
-          menusTitle
-          menusDescription
-          menusItemsCollection(limit: 5) {
-            items {
-              linkText
-              linkUrl
-              linkNewWindow
-              linkClass
-              linkId
-            }
-          }
-        }
-      }
-    }
-  }
-`;
+import { FOOTER_QUERY } from "@/helpers/QueryCollections";
+
 export default async function Footer() {
-  const { data } = await getClient().query({ query: footerQuery });
+  const { data } = await getClient().query({ query: FOOTER_QUERY });
   const FooterData = data?.footerCollection?.items[0];
-  console.log("FooterData", FooterData);
+
   return (
     <>
       {FooterData && (
